@@ -1,0 +1,2641 @@
+﻿finalWorth;category;country;city;source;countryOfCitizenship;organization;selfMade;gender
+211000;Fashion & Retail;France;Paris;LVMH;France;LVMH Moët Hennessy Louis Vuitton;FALSE;M
+180000;Automotive;United States;Austin;Tesla, SpaceX;United States;Tesla;TRUE;M
+114000;Technology;United States;Medina;Amazon;United States;Amazon;TRUE;M
+107000;Technology;United States;Lanai;Oracle;United States;Oracle;TRUE;M
+106000;Finance & Investments;United States;Omaha;Berkshire Hathaway;United States;Berkshire Hathaway Inc. (Cl A);TRUE;M
+104000;Technology;United States;Medina;Microsoft;United States;Bill & Melinda Gates Foundation;TRUE;M
+94500;Media & Entertainment;United States;New York;Bloomberg LP;United States;Bloomberg;TRUE;M
+93000;Telecom;Mexico;Mexico City;Telecom;Mexico;América Móvil;TRUE;M
+83400;Diversified;India;Mumbai;Diversified;India;Reliance Industries;FALSE;M
+80700;Technology;United States;Hunts Point;Microsoft;United States;Los Angeles Clippers;TRUE;M
+80500;Fashion & Retail;France;Paris;L'Oréal;France;;FALSE;F
+79200;Technology;United States;Palo Alto;Google;United States;Alphabet;TRUE;M
+77300;Fashion & Retail;Spain;La Coruna;Zara;Spain;;TRUE;M
+76000;Technology;United States;Los Altos;Google;United States;Alphabet;TRUE;M
+68000;Food & Beverage;China;Hangzhou;Beverages, pharmaceuticals;China;;TRUE;M
+64400;Technology;United States;Palo Alto;Facebook;United States;Meta Platforms;TRUE;M
+59000;Diversified;United States;Wichita;Koch Industries;United States;Koch Industries, Inc.;FALSE;M
+59000;Diversified;United States;New York;Koch Industries;United States;;FALSE;F
+58800;Fashion & Retail;United States;Bentonville;Walmart;United States;Arvest Bank Group, Inc.;FALSE;M
+57600;Fashion & Retail;United States;Bentonville;Walmart;United States;Walmart;FALSE;M
+56700;Fashion & Retail;United States;Fort Worth;Walmart;United States;Crystal Bridges Museum of American Art;FALSE;F
+54400;Media & Entertainment;Canada;Toronto;Media;Canada;Thomson Reuters Corporation;FALSE;M
+50100;Technology;United States;Austin;Dell Technologies;United States;Dell Inc.;TRUE;M
+47200;Diversified;India;Ahmedabad;Infrastructure, commodities;India;;TRUE;M
+45100;Fashion & Retail;United States;Hillsboro;Nike;United States;Nike;TRUE;M
+45000;Technology;China;Beijing;TikTok;China;ByteDance;TRUE;M
+42900;Fashion & Retail;Germany;Neckarsulm;Retail;Germany;;FALSE;M
+40100;Fashion & Retail;France;Paris;Luxury goods;France;;TRUE;M
+39100;Logistics;Switzerland;Schindellegi;Shipping;Germany;;FALSE;M
+38900;Food & Beverage;Belgium;Brussels;Nutella, chocolates;Italy;;FALSE;M
+38300;Food & Beverage;United States;The Plains;Candy, pet food;United States;;FALSE;F
+38300;Food & Beverage;United States;Jackson;Candy, pet food;United States;;FALSE;M
+38000;Diversified;Hong Kong;;Diversified;Hong Kong;CK Hutchison Holdings;TRUE;M
+35300;Technology;China;Shenzhen;Internet media;China;Tencent Holdings;TRUE;M
+35000;Gambling & Casinos;United States;Las Vegas;Casinos;United States;;FALSE;F
+35000;Finance & Investments;United States;Miami;Hedge funds;United States;Citadel LLC;TRUE;M
+34700;Food & Beverage;Austria;Salzburg;Red Bull;Austria;;FALSE;M
+33400;Automotive;China;Ningde;Batteries;Hong Kong;;TRUE;M
+32600;Fashion & Retail;Japan;Tokyo;Fashion retail;Japan;;TRUE;M
+32100;Diversified;United Kingdom;London;Music, chemicals;United States;;TRUE;M
+31600;Fashion & Retail;United States;New York;Chanel;France;;FALSE;M
+31600;Fashion & Retail;United States;New York;Chanel;France;;FALSE;M
+31200;Logistics;Switzerland;Geneva;Shipping;Switzerland;;TRUE;M
+31200;Logistics;Switzerland;Geneva;Shipping;Switzerland;;TRUE;F
+30200;Technology;China;Shanghai;E-commerce;China;;TRUE;M
+29700;Manufacturing;Germany;Kuenzelsau;Fasteners;Germany;;TRUE;M
+29500;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+28500;Finance & Investments;United States;Haverford;Trading, investments;United States;;TRUE;M
+28100;Finance & Investments;United States;East Setauket;Hedge funds;United States;Renaissance Technologies Corp.;TRUE;M
+27800;Finance & Investments;United States;New York;Investments;United States;Blackstone Group;TRUE;M
+27400;Automotive;Germany;Bad Homburg;BMW, pharmaceuticals;Germany;;FALSE;F
+27000;Metals & Mining;Australia;Perth;Mining;Australia;Hancock Prospecting;FALSE;F
+26700;Technology;China;Hangzhou;Online games;China;;TRUE;M
+26600;Metals & Mining;Mexico;Mexico City;Mining;Mexico;;FALSE;M
+25600;Technology;India;Delhi;software services;India;;TRUE;M
+25500;Energy;Indonesia;Jakarta;Coal;Indonesia;;TRUE;M
+25300;Finance & Investments;United States;Palm Beach;Discount brokerage;United States;;TRUE;M
+25200;Metals & Mining;United Arab Emirates;Ras Al Khaimah;Fertilizers, coal;Russia;;TRUE;M
+24600;Automotive;Germany;Frankfurt;BMW;Germany;;FALSE;M
+24400;Technology;United States;Seattle;Amazon;United States;;FALSE;F
+24200;Finance & Investments;Indonesia;Kudus;Banking, tobacco;Indonesia;;FALSE;M
+23700;Metals & Mining;Russia;Moscow;Metals;Russia;;TRUE;M
+23500;Technology;China;Hangzhou;E-commerce;China;;TRUE;M
+23400;Manufacturing;China;Foshan;Home appliances;China;;TRUE;M
+23100;Metals & Mining;Chile;Santiago;Mining;Chile;;FALSE;F
+23100;Manufacturing;Indonesia;Kudus;Banking, tobacco;Indonesia;;FALSE;M
+22900;Manufacturing;United Kingdom;London;Chemicals;United Kingdom;;TRUE;M
+22600;Healthcare;India;Pune;Vaccines;India;;FALSE;M
+22400;Telecom;Japan;Tokyo;Internet, telecom;Japan;SoftBank Group Corp.;TRUE;M
+22100;Metals & Mining;Russia;Moscow;Steel, transport;Russia;;TRUE;M
+22000;Food & Beverage;France;Laval;Cheese;France;;FALSE;M
+21600;Finance & Investments;United States;Milton;Fidelity;United States;Fidelity Investments;FALSE;F
+21600;Energy;Russia;Moscow;Gas, chemicals;Russia;;TRUE;M
+21200;Fashion & Retail;United States;Chicago;Walmart;United States;;FALSE;M
+21200;Service;China;Shenzhen;Package delivery;China;;TRUE;M
+21100;Technology;United States;Los Altos;Semiconductors;United States;Nvidia;TRUE;M
+21000;Fashion & Retail;United States;New York;Estee Lauder;United States;The Estée Lauder Companies;FALSE;M
+21000;Manufacturing;Japan;Osaka;Sensors;Japan;;TRUE;M
+20900;Metals & Mining;Russia;Moscow;Steel, investments;Russia;;TRUE;M
+20500;Energy;Russia;Moscow;Oil;Russia;;TRUE;M
+20200;Healthcare;United States;Nashville;Hospitals;United States;;TRUE;M
+19600;Metals & Mining;Australia;Perth;Mining;Australia;;TRUE;M
+19100;Finance & Investments;United States;Greenwich;Hedge funds;United States;Bridgewater Associates;TRUE;M
+19000;Automotive;China;Hangzhou;Automobiles;China;;TRUE;M
+19000;Metals & Mining;China;Shenzhen;Mining, copper products;China;;TRUE;M
+18900;Diversified;Monaco;Monte Carlo;Real estate, shipping;Israel;;FALSE;M
+18900;Food & Beverage;China;Nanyang;Pig breeding;China;;TRUE;M
+18700;Automotive;China;Shenzhen;Batteries, automobiles;China;;TRUE;M
+18500;Energy;United States;Oklahoma City;Oil & gas;United States;Continental Resources Inc. ;TRUE;M
+18500;Finance & Investments;United States;Palm Beach;Hedge funds;United States;Appaloosa Management;TRUE;M
+18500;Energy;Russia;Moscow;Oil, gas;Russia;;TRUE;M
+18000;Finance & Investments;United States;Franklin;Quicken Loans;United States;;TRUE;M
+17700;Metals & Mining;United Kingdom;London;Steel;India;ArcelorMittal (ADR);FALSE;M
+17500;Finance & Investments;United States;Greenwich;Hedge funds;United States;Point72 Asset Management;TRUE;M
+17500;Finance & Investments;United States;Indian Creek;Investments;United States;Icahn Capital Management;TRUE;M
+17500;Metals & Mining;India;Hisar;Steel;India;;FALSE;F
+17400;Real Estate;United States;Newport Beach;Real estate;United States;Irvine Company;TRUE;M
+17400;Fashion & Retail;United States;Eau Claire;Home improvement stores;United States;Menard, Inc.;TRUE;M
+17100;Media & Entertainment;United States;New York;Newspapers, TV network;United States;News Corp Class A;FALSE;M
+16700;Finance & Investments;Switzerland;Crans-Montana;Banking;Brazil;;FALSE;F
+16500;Fashion & Retail;Germany;Mulheim an der Ruhr;Aldi, Trader Joe's;Germany;;FALSE;M
+16500;Finance & Investments;Czech Republic;Prague;Finance, telecommunications;Czech Republic;;FALSE;F
+16300;Healthcare;China;Shenzhen;medical devices;Singapore;;TRUE;M
+16200;Fashion & Retail;Sweden;Stockholm;H&M;Sweden;Hennes & Mauritz Unsponsored ADR;FALSE;M
+16200;Technology;United States;Atherton;Google;United States;;TRUE;M
+16000;Finance & Investments;Switzerland;Geneva;Hedge funds;United Kingdom;BlueCrest Capital Management;TRUE;M
+15900;Food & Beverage;China;Foshan;Soy sauce;China;;TRUE;M
+15800;Fashion & Retail;Germany;;Supermarkets;Germany;;FALSE;M
+15800;Fashion & Retail;;;Supermarkets;Germany;;FALSE;F
+15800;Food & Beverage;Switzerland;Zurich;Beer;Brazil;;TRUE;M
+15800;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+15600;Healthcare;India;Mumbai;Pharmaceuticals;India;;TRUE;M
+15500;Technology;United States;San Jose;Wireless networking;United States;Ubiquiti;TRUE;M
+15300;Fashion & Retail;India;Mumbai;Retail, investments;India;;TRUE;M
+15200;Automotive;China;Ningde;Batteries;China;;TRUE;M
+14900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+14900;Fashion & Retail;United States;Oklahoma City;Retail;United States;Hobby Lobby;TRUE;M
+14800;Food & Beverage;Thailand;Bangkok;Alcohol, real estate;Thailand;;TRUE;M
+14700;Food & Beverage;United Kingdom;London;Heineken;Netherlands;;FALSE;F
+14600;Healthcare;China;Shenzhen;Medical devices;Hong Kong;;TRUE;M
+14500;Automotive;China;Baoding;Automobiles;China;;TRUE;M
+14400;Metals & Mining;Uzbekistan;Tashkent;Steel, telecom, investments;Russia;Metalloinvest;TRUE;M
+14300;Manufacturing;Singapore;Singapore;Paints;Singapore;;TRUE;M
+14200;Diversified;India;Mumbai;Commodities;India;;FALSE;M
+14200;Manufacturing;Nigeria;Lagos;Cement, sugar;Nigeria;Dangote Group;TRUE;M
+14100;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;F
+14000;Diversified;United Kingdom;London;Shipping;Israel;;FALSE;M
+13900;Healthcare;China;Changsha;Hospitals;China;;TRUE;M
+13900;Gambling & Casinos;Hong Kong;Hong Kong;Casinos/hotels;Hong Kong;;TRUE;M
+13700;Logistics;United Kingdom;London;Shipping;Cyprus;;TRUE;M
+13700;Construction & Engineering;United States;Afton;Building supplies;United States;ABC Supply;TRUE;F
+13700;Technology;United States;Atherton;WhatsApp;United States;WhatsApp Inc.;TRUE;M
+13300;Sports;United States;Dallas;Dallas Cowboys;United States;Dallas Cowboys;TRUE;M
+13300;Energy;United States;Tulsa;Oil & gas, banking;United States;BOK Financial Corp.;FALSE;M
+13300;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+13200;Automotive;China;Guangzhou;Automobiles, batteries;China;;TRUE;M
+13100;Real Estate;Australia;Sydney;Real estate;Australia;;TRUE;M
+12900;Finance & Investments;India;Mumbai;Banking;India;;TRUE;M
+12900;Sports;United States;Electra;Sports, real estate;United States;;TRUE;M
+12600;Energy;United Kingdom;London;Oil, banking, telecom;Russia;;TRUE;M
+12300;Energy;Thailand;Bangkok;Energy;Thailand;;TRUE;M
+12200;Metals & Mining;China;Yinchuan;Coal;China;;TRUE;M
+12200;Healthcare;China;Chongqing;Vaccines;China;;TRUE;M
+12100;Automotive;United States;Naples;Auto parts;United States;;TRUE;M
+12000;Technology;United States;Palo Alto;Apple, Disney;United States;Emerson Collective;FALSE;F
+11800;Diversified;Hong Kong;Hong Kong;Palm oil, shipping, property;Malaysia;;TRUE;M
+11600;Real Estate;United States;New York;Real estate;United States;;TRUE;M
+11500;Technology;United Arab Emirates;Dubai;Messaging app;United Arab Emirates;;TRUE;M
+11500;Healthcare;Germany;Tegernsee;Pharmaceuticals;Germany;;TRUE;M
+11500;Healthcare;Germany;Tegernsee;Pharmaceuticals;Germany;;TRUE;M
+11400;Food & Beverage;China;Chengdu;Agribusiness;China;;TRUE;M
+11400;Fashion & Retail;United States;Bryn Mawr;Online retail;United States;Kynetic;TRUE;M
+11300;Finance & Investments;United States;New York;Hedge funds;United States;Millennium Management, L.L.C.;TRUE;M
+11300;Manufacturing;Israel;Herzliya;Fertilizer, real estate;Russia;;TRUE;M
+11300;Manufacturing;Australia;Melbourne;Manufacturing;Australia;;FALSE;M
+11300;Finance & Investments;Switzerland;Frauenfeld;Investments;Russia;;TRUE;M
+11100;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;TRUE;M
+11100;Fashion & Retail;South Africa;Cape Town;Luxury goods;South Africa;;FALSE;M
+11000;Finance & Investments;Hong Kong;Hong Kong;Video surveillance;Hong Kong;;TRUE;M
+11000;Technology;China;Shenzhen;Internet media;China;;TRUE;M
+10900;Finance & Investments;United States;Denver;Energy, sports, entertainment;United States;;FALSE;M
+10900;Fashion & Retail;United States;Oklahoma City;Gas stations;United States;Love's Travel Stops and Country Stores;TRUE;F
+10900;Fashion & Retail;Mexico;Mexico City;Retail, media;Mexico;;FALSE;M
+10700;Media & Entertainment;United States;New York;Media;United States;;FALSE;M
+10600;Sports;United States;Brookline;Manufacturing, New England Patriots;United States;The Kraft Group;TRUE;M
+10600;Food & Beverage;Brazil;Sao Paulo;Beer;Brazil;;TRUE;M
+10500;Finance & Investments;Russia;Moscow;Gold;Russia;;TRUE;M
+10500;Fashion & Retail;China;Guangzhou;E-commerce;China;;TRUE;M
+10500;Finance & Investments;United Arab Emirates;Dubai;Cryptocurrency exchange;Canada;;TRUE;M
+10300;Finance & Investments;United States;Dallas;Banks, real estate;United States;;TRUE;M
+10200;Technology;Australia;Sydney;Software;Australia;;TRUE;M
+10200;Healthcare;United States;Bloomington;Medical devices;United States;;FALSE;M
+10200;Technology;United States;Incline Village;Business software;United States;Workday;TRUE;M
+10200;Energy;United States;Houston;Oil;United States;;TRUE;M
+10200;Manufacturing;Russia;Magnitogorsk;Steel;Russia;;TRUE;M
+10200;Technology;Singapore;Singapore;Facebook;Brazil;Meta Platforms;TRUE;M
+10200;Automotive;Germany;Herzogenaurach;Auto parts;Germany;;FALSE;M
+10200;Fashion & Retail;United States;Jackson;Walmart;United States;;FALSE;F
+10100;Technology;Australia;Sydney;Software;Australia;;TRUE;M
+10100;Diversified;Malaysia;Kuala Lumpur;Banking, property;Malaysia;;FALSE;M
+10100;Real Estate;China;Beijing;Real estate;China;;TRUE;F
+10000;Energy;United States;Midland;Oil;United States;;TRUE;M
+9900;Service;China;Shanghai;Diversified;China;East Hope Group;TRUE;M
+9800;Diversified;United Arab Emirates;Dubai;Infrastructure, commodities;Cyprus;;TRUE;M
+9800;Fashion & Retail;Switzerland;Martigny;Hermes;France;;FALSE;M
+9800;Logistics;France;Marseille;Shipping;France;;FALSE;M
+9800;Logistics;France;Marseille;Shipping;France;CMA CGM;FALSE;M
+9800;Logistics;France;Marseille;Shipping;France;;FALSE;F
+9800;Finance & Investments;Sweden;Stockholm;Investments;Sweden;;TRUE;M
+9700;Manufacturing;Russia;Moscow;Fertilizers;Russia;;TRUE;M
+9700;Finance & Investments;South Korea;Seoul;Private equity;United States;MBK Partners;TRUE;M
+9700;Technology;China;Beijing;Smartphones;China;Xiaomi;TRUE;M
+9700;Manufacturing;Germany;Haiger;Manufacturing;Germany;;FALSE;M
+9700;Healthcare;China;Lianyungang;Pharmaceuticals;China;;TRUE;M
+9600;Technology;United States;Keene;Warehouse automation;United States;C&S Wholesale Grocers;FALSE;M
+9600;Energy;China;Xingtai;Solar panels;China;;TRUE;M
+9600;Manufacturing;China;Ningbo;Chemicals;China;;TRUE;M
+9600;Food & Beverage;United States;Los Angeles;Candy, pet food;United States;;FALSE;F
+9600;Food & Beverage;United States;Alexandria;Candy, pet food;United States;;FALSE;F
+9600;Food & Beverage;United States;New York;Candy, pet food;United States;;FALSE;F
+9600;Food & Beverage;United States;Philadelphia;Candy, pet food;United States;;FALSE;F
+9500;Finance & Investments;France;Paris;Investments;France;;FALSE;M
+9500;Diversified;Canada;Vancouver;Diversified;Canada;Jim Pattison Group;TRUE;M
+9400;Healthcare;Switzerland;Gstaad;Biotech, investments;Switzerland;;FALSE;M
+9400;Technology;China;Beijing;Food delivery;China;;TRUE;M
+9300;Technology;United States;San Francisco;Airbnb;United States;Airbnb, Inc.;TRUE;M
+9300;Manufacturing;United Kingdom;Gloucestershire;Vacuums;United Kingdom;;TRUE;M
+9200;Diversified;Russia;Moscow;Steel, investments;Russia;;TRUE;M
+9200;Diversified;Sweden;Stockholm;Diversified;Sweden;;FALSE;F
+9200;Energy;Czech Republic;Prague;Energy, investments;Czech Republic;;TRUE;M
+9200;Media & Entertainment;United States;Elizabeth;Cable television;United States;;TRUE;M
+9200;Technology;India;Bangalore;Software services;India;Wipro Ltd.;FALSE;M
+9200;Finance & Investments;United States;Woodside;Discount brokerage;United States;Charles Schwab Corp.;TRUE;M
+9200;Fashion & Retail;United States;Beverly Hills;Hardware stores;United States;;TRUE;M
+9000;Technology;United States;Palo Alto;Google;Canada;Stanford University;TRUE;M
+9000;Metals & Mining;Switzerland;Ruschlikon;Mining;Switzerland;;TRUE;M
+9000;Real Estate;Germany;Hamburg;Real estate;Germany;;FALSE;M
+9000;Food & Beverage;Canada;Vancouver;Alcoholic beverages;Canada;;TRUE;M
+9000;Manufacturing;China;Changzhou;Hydraulic machinery;China;;TRUE;M
+8900;Food & Beverage;United Kingdom;London;Packaging;Sweden;;FALSE;M
+8900;Food & Beverage;United Kingdom;Surrey;Packaging;Sweden;;FALSE;M
+8900;Food & Beverage;United Kingdom;Newmarket;Packaging;Sweden;;FALSE;F
+8800;Fashion & Retail;Russia;Moscow region;Ecommerce;Russia;;TRUE;F
+8800;Technology;United States;Woodside;Venture capital;United States;Kleiner Perkins;TRUE;M
+8800;Technology;China;Beijing;E-commerce;China;;TRUE;M
+8800;Technology;United States;San Francisco;Facebook;United States;Asana;TRUE;M
+8800;Technology;United States;Honolulu;EBay, PayPal;United States;eBay;TRUE;M
+8800;Energy;China;Ningde;Batteries;China;;TRUE;M
+8800;Energy;United Kingdom;London;Oil;France;;FALSE;F
+8700;Manufacturing;China;Wujiang;Chemicals;China;;TRUE;M
+8700;Fashion & Retail;Germany;Hamburg;Retail, real estate;Germany;;FALSE;M
+8600;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+8600;Finance & Investments;New Zealand;Auckland;Investments;New Zealand;;TRUE;M
+8600;Food & Beverage;India;Delhi;Soft drinks, fast food;India;;FALSE;M
+8600;Technology;Germany;Heidelberg;Software;Germany;;TRUE;M
+8600;Food & Beverage;Switzerland;St. Gallen;Beer;Brazil;;TRUE;M
+8600;Real Estate;Philippines;Manila;Real estate;Philippines;;TRUE;M
+8600;Technology;United States;Palo Alto;Google;Germany;Arista Networks;TRUE;M
+8500;Finance & Investments;United States;New York;Investments;United States;Tiger Global Management;TRUE;M
+8500;Fashion & Retail;United States;Electra;Walmart;United States;;FALSE;F
+8500;Manufacturing;China;Xi'an;Solar wafers and modules;China;;TRUE;M
+8400;Media & Entertainment;United States;Atlanta;Media, automotive;United States;Cox Enterprises;FALSE;M
+8400;Metals & Mining;South Africa;Johannesburg;Diamonds;South Africa;;FALSE;M
+8400;Media & Entertainment;Australia;New South Wales;Media, automotive;United States;;FALSE;F
+8400;Metals & Mining;China;Binzhou;Aluminum products;China;;FALSE;F
+8300;Fashion & Retail;United States;Springfield;Sporting goods retail;United States;;TRUE;M
+8300;Fashion & Retail;Monaco;Monte Carlo;Drugstores;Monaco;;FALSE;M
+8300;Finance & Investments;Switzerland;Thurgau;Investments;Germany;;FALSE;F
+8200;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+8200;Energy;Russia;Moscow;Oil, banking, telecom;Russia;;TRUE;M
+8200;Diversified;Nigeria;Lagos;Cement, sugar;Nigeria;;FALSE;M
+8200;Finance & Investments;United States;Atherton;Private equity;United States;;TRUE;M
+8200;Real Estate;India;Delhi;Real estate;India;;FALSE;M
+8200;Real Estate;China;Beijing;Real estate;China;Dalian Wanda Group;TRUE;M
+8200;Real Estate;China;Foshan;Real estate;China;;FALSE;F
+8100;Diversified;France;Paris;Diversified;France;;FALSE;M
+8100;Diversified;France;Paris;Diversified;France;;FALSE;M
+8100;Food & Beverage;United States;Houston;Houston Rockets, entertainment;United States;Landry's Inc;TRUE;M
+8100;Diversified;France;Paris;Diversified;France;;FALSE;F
+8100;Gambling & Casinos;Switzerland;Verbier;Oil and gas, IT, lotteries;Czech Republic;;TRUE;M
+8000;Technology;United States;San Francisco;Airbnb;United States;;TRUE;M
+8000;Energy;Russia;Moscow;Oil;Russia;;TRUE;M
+8000;Fashion & Retail;United States;Atlanta;Home Depot;United States;Home Depot;TRUE;M
+8000;Finance & Investments;United States;Winnetka;Insurance;United States;Ryan Specialty Group;TRUE;M
+8000;Finance & Investments;United States;Austin;Private equity;United States;;TRUE;M
+8000;Metals & Mining;Czech Republic;Prague;Coal mines;Czech Republic;;TRUE;M
+8000;Finance & Investments;Monaco;;Investments;Belgium;;FALSE;M
+7900;Finance & Investments;United States;Miami Beach;Private equity;United States;;TRUE;M
+7900;Fashion & Retail;China;Quanzhou;Sports apparel;China;;TRUE;M
+7900;Fashion & Retail;United States;Henderson;Walmart;United States;;FALSE;F
+7900;Technology;South Korea;Seoul;Samsung;South Korea;;FALSE;M
+7900;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+7900;Finance & Investments;United States;New York;Hedge funds;United States;D. E. Shaw & Co., L.P.;TRUE;M
+7900;Metals & Mining;Russia;Moscow;Metals and mining;Russia;;TRUE;M
+7900;Diversified;Austria;Vienna;Real estate, construction;Austria;;TRUE;M
+7800;Telecom;United States;Saddle River;Telecom;United States;;TRUE;M
+7800;Manufacturing;China;Hangzhou;Petrochemicals;China;;TRUE;M
+7800;Manufacturing;Taiwan;Taipei;Petrochemicals;Taiwan;;TRUE;M
+7800;Technology;China;Shanghai;Financial information;China;;TRUE;M
+7800;Manufacturing;China;Guangzhou;Furniture;China;;TRUE;M
+7800;Fashion & Retail;Taiwan;Taoyuan;Shoes;Taiwan;;TRUE;M
+7700;Food & Beverage;France;Laval;Cheese;France;;FALSE;M
+7700;Food & Beverage;France;Laval;Cheese;France;;FALSE;F
+7700;Media & Entertainment;United States;Beverly Hills;Movies, record labels;United States;DreamWorks Animation SKG Inc. (Cl A);TRUE;M
+7700;Technology;China;Beijing;Internet search;China;Baidu;TRUE;M
+7700;Service;China;Chengdu;Agribusiness;China;;TRUE;M
+7700;Technology;United States;Newport Beach;Semiconductors;United States;Broadcom;TRUE;M
+7700;Healthcare;United States;Naples;Medical devices;United States;;TRUE;M
+7700;Real Estate;Norway;Oslo;Real estate;Norway;;TRUE;M
+7600;Energy;China;Hefei;Photovoltaic equipment;China;;TRUE;M
+7600;Healthcare;India;Ahmedabad;Pharmaceuticals;India;;TRUE;M
+7600;Manufacturing;United Kingdom;London;Chemicals;United Kingdom;;TRUE;M
+7600;Technology;United States;Austin;Airbnb;United States;Airbnb, Inc.;TRUE;M
+7600;Real Estate;Singapore;Singapore;Real Estate;Singapore;;FALSE;M
+7600;Manufacturing;United Kingdom;London;Chemicals;United Kingdom;;TRUE;M
+7600;Real Estate;United States;New York;Real estate;United States;Hartz Mountain Industries, Inc.;FALSE;M
+7600;Technology;Hong Kong;Hong Kong;E-commerce;Canada;;TRUE;M
+7600;Healthcare;China;Shanghai;Pharmaceuticals;China;;TRUE;F
+7500;Sports;United States;Atlanta;Home Depot;United States;Atlanta Falcons;TRUE;M
+7500;Fashion & Retail;United States;San Antonio;Supermarkets;United States;;FALSE;M
+7500;Fashion & Retail;China;Quanzhou;Sports apparel;China;;TRUE;M
+7500;Finance & Investments;United States;Palm Beach;Hedge funds;United States;Tudor Investment Corporation;TRUE;M
+7500;Finance & Investments;United States;New York;Private equity;United States;KKR & Co.;TRUE;M
+7500;Food & Beverage;Singapore;Singapore;Restaurants;Singapore;;TRUE;M
+7400;Technology;United States;Cary;Software;United States;SAS Institute;TRUE;M
+7400;Manufacturing;United Kingdom;London;Petrochemicals;Indonesia;;FALSE;M
+7400;Fashion & Retail;China;Ningbo;Textiles, apparel;China;;TRUE;M
+7400;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+7400;Manufacturing;United States;Santa Barbara;Manufacturing, investments;United States;Danaher;TRUE;M
+7400;Construction & Engineering;Egypt;Cairo;Construction, investments;Egypt;;FALSE;M
+7400;Food & Beverage;United States;Adel;Agriculture;United States;;TRUE;M
+7300;Manufacturing;India;Kolkata;Cement;India;;FALSE;M
+7300;Metals & Mining;Russia;Moscow;Mining, metals, machinery;Russia;;TRUE;M
+7300;Fashion & Retail;Denmark;Aarhus;Fashion retail;Denmark;;FALSE;M
+7300;Logistics;Philippines;Manila;Ports;Philippines;;FALSE;M
+7300;Technology;China;Shenzhen;Electronics components;Hong Kong;;TRUE;F
+7200;Finance & Investments;United States;Gladwyne;Trading, investments;United States;;TRUE;M
+7200;Technology;Taiwan;Taipei;Electronics;Taiwan;Hon Hai Precision Industries;TRUE;M
+7200;Real Estate;United States;Palm Beach;Real estate, investments;United States;;TRUE;M
+7200;Finance & Investments;United States;Malibu;Auto loans;United States;Hankey Group;TRUE;M
+7200;Energy;United States;Houston;Pipelines;United States;Kinder Morgan Inc;TRUE;M
+7200;Finance & Investments;United Arab Emirates;Dubai;Fintech;Switzerland;;TRUE;M
+7200;Fashion & Retail;Japan;Tokyo;Personal care goods;Japan;;FALSE;M
+7200;Food & Beverage;China;Hangzhou;Beverages;China;Hangzhou Wahaha Group;TRUE;M
+7100;Technology;United States;Madison;Healthcare software;United States;Epic Systems;TRUE;F
+7100;Gambling & Casinos;Austria;Vienna;Gambling;Austria;;TRUE;M
+7100;Service;United States;Lexington;Self storage;United States;;FALSE;F
+7100;Manufacturing;China;Changsha;Construction equipment;China;;TRUE;M
+7100;Healthcare;Switzerland;Lausanne;Health care;Sweden;;FALSE;M
+7100;Finance & Investments;Singapore;Singapore;Banking;Singapore;;FALSE;M
+7100;Manufacturing;China;Ningbo;Electronics;China;;TRUE;M
+7000;Technology;United States;San Francisco;Business software;United States;Salesforce.com;TRUE;M
+7000;Media & Entertainment;United Kingdom;London;Online games;Israel;;TRUE;M
+7000;Media & Entertainment;United Kingdom;London;Online games;Israel;;TRUE;M
+7000;Technology;United States;Redlands;Mapping software;United States;;TRUE;M
+7000;Manufacturing;India;Mumbai;Paints;India;;FALSE;M
+7000;Fashion & Retail;United States;New York;Apparel;United States;Ralph Lauren;TRUE;M
+7000;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+7000;Diversified;India;Mumbai;Diversified;India;;FALSE;F
+7000;Diversified;India;Mumbai;Diversified;Ireland;;FALSE;M
+7000;Food & Beverage;United States;Hobe Sound;Food distribution;United States;Reyes Holdings, LLC;TRUE;M
+7000;Food & Beverage;United States;Palm Beach;Food distribution;United States;Reyes Holdings, LLC;TRUE;M
+7000;Food & Beverage;United States;Port Washington;Beverages;United States;;TRUE;M
+6900;Diversified;Mexico;;Diversified;Mexico;;FALSE;M
+6900;Diversified;United States;Los Angeles;Homebuilding, insurance;United States;;FALSE;F
+6900;Food & Beverage;United States;St. Louis;Cargill;United States;;FALSE;F
+6900;Finance & Investments;United States;New York;Hedge fund;United States;Coatue Management;TRUE;M
+6900;Technology;China;Huizhou;Lithium batteries;China;;TRUE;M
+6900;Real Estate;United States;Lighthouse Point;Real estate;United States;;TRUE;M
+6900;Fashion & Retail;Spain;La Coruna;Zara;Spain;;FALSE;F
+6900;Healthcare;United States;Portage;Medical equipment;United States;;FALSE;F
+6800;Energy;United States;Houston;Pipelines;United States;;FALSE;F
+6800;Diversified;Italy;Milan;Media;Italy;;TRUE;M
+6800;Gambling & Casinos;United Kingdom;Stoke-on-Trent;Online gambling;United Kingdom;;TRUE;F
+6800;Energy;United States;Houston;Pipelines;United States;;FALSE;M
+6800;Energy;United States;Houston;Pipelines;United States;;FALSE;F
+6800;Finance & Investments;United States;Boston;Fidelity;United States;;FALSE;M
+6800;Finance & Investments;United States;Los Altos;Tech investments;Israel;DST Global;TRUE;M
+6800;Technology;United States;Woodside;Intel;United States;Intel Corp.;TRUE;M
+6800;Finance & Investments;United States;Millburn;Hedge funds;United States;Two Sigma;TRUE;M
+6800;Finance & Investments;United States;Scarsdale;Hedge funds;United States;Two Sigma;TRUE;M
+6800;Diversified;Russia;Moscow;Metals, investments;Russia;;TRUE;M
+6800;Technology;China;Shenzhen;Electronics components;Hong Kong;;TRUE;M
+6800;Energy;United States;Houston;Pipelines;United States;Enterprise GP Holdings;FALSE;F
+6700;Finance & Investments;United States;Dallas;Money management;United States;;TRUE;M
+6700;Finance & Investments;United Kingdom;London;Hedge funds;United Kingdom;The Children's Investment Fund Management;TRUE;M
+6700;Manufacturing;Denmark;Billund;Lego;Denmark;;FALSE;M
+6700;Manufacturing;Denmark;Billund;Lego;Denmark;;FALSE;F
+6700;Manufacturing;Denmark;Billund;Lego;Denmark;;FALSE;M
+6700;Healthcare;Italy;Fiesole;Pharmaceuticals;Italy;;FALSE;F
+6700;Automotive;China;Ningde;Batteries;Hong Kong;;TRUE;M
+6700;Manufacturing;China;Hangzhou;Solar panel components;China;;TRUE;M
+6700;Manufacturing;Switzerland;Feldmeilen;Chemicals;Switzerland;;FALSE;F
+6700;Telecom;France;Paris;Internet, telecom;France;;TRUE;M
+6700;Energy;United States;Boca Raton;Natural gas;United States;Buffalo Sabres;TRUE;M
+6700;Real Estate;United States;Los Angeles;Real estate;United States;Majestic Realty, Co.;FALSE;M
+6700;Real Estate;United States;Atherton;Real estate;United States;Sobrato Development Cos.;TRUE;M
+6700;Finance & Investments;United States;Katonah;Hedge funds;United States;Soros Fund Management LLC;TRUE;M
+6700;Technology;United States;Irvine;Computer hardware;United States;Kingston Technology Corporation;TRUE;M
+6700;Manufacturing;Denmark;Billund;Lego;Denmark;;FALSE;F
+6700;Technology;United States;Rolling Hills;Computer hardware;United States;Kingston Technology Corporation;TRUE;M
+6700;Food & Beverage;China;Quanzhou;Snacks, beverages;China;;TRUE;M
+6600;Manufacturing;Switzerland;Wilen bei Wollerau;Chemicals;Switzerland;;FALSE;F
+6600;Food & Beverage;United States;Atlanta;Chick-fil-A;United States;;FALSE;M
+6600;Food & Beverage;United States;Atlanta;Chick-fil-A;United States;;FALSE;M
+6600;Food & Beverage;United States;Hampton;Chick-fil-A;United States;;FALSE;F
+6600;Finance & Investments;United States;New York;Hedge funds;United States;Caxton Associates LP;TRUE;M
+6600;Technology;United States;Newport Coast;Semiconductors;United States;Broadcom;TRUE;M
+6600;Finance & Investments;Germany;Munich;Investments;Germany;;FALSE;F
+6500;Finance & Investments;United States;Fort Worth;Private equity;United States;;TRUE;M
+6500;Technology;United States;Medina;Microsoft;United States;Bill & Melinda Gates Foundation;FALSE;F
+6500;Fashion & Retail;Eswatini (Swaziland);Ezulwini;Retail, real estate;Eswatini (Swaziland);;TRUE;M
+6500;Real Estate;United States;Chevy Chase;Real estate;United States;;FALSE;F
+6500;Real Estate;United Kingdom;London;Investments, real estate;United Kingdom;;TRUE;M
+6500;Diversified;Monaco;Monaco;Real estate, investments;United Kingdom;;TRUE;M
+6500;Real Estate;Switzerland;Crans Montana;Real estate;Czech Republic;;TRUE;M
+6400;Finance & Investments;Sweden;Gothenberg;Investments;Sweden;;TRUE;M
+6400;Sports;United States;Hobe Sound;Staffing, Baltimore Ravens;United States;Baltimore Ravens;TRUE;M
+6400;Finance & Investments;United States;New York;Hedge funds;United States;Duquesne Family Office;TRUE;M
+6400;Healthcare;China;Beijing;Biomedical products;China;;TRUE;F
+6400;Energy;France;Paris;Oil, banking, telecom;Russia;;TRUE;M
+6400;Manufacturing;Monaco;Monaco;Fertilizer;Russia;;TRUE;M
+6400;Finance & Investments;Colombia;Bogota;Banking;Colombia;;TRUE;M
+6400;Logistics;United States;Missoula;Construction, mining;United States;;TRUE;M
+6300;Construction & Engineering;United Kingdom;Gloucestershire;Construction equipment;United Kingdom;;FALSE;M
+6300;Energy;China;Changzhou;Solar equipment;China;;TRUE;M
+6300;Finance & Investments;United Kingdom;London;Private equity;Ireland;;TRUE;M
+6300;Healthcare;France;Lyon;Pharmaceuticals;France;;FALSE;M
+6300;Energy;China;Langfang;Natural gas distribution;China;;TRUE;M
+6300;Manufacturing;Israel;Tel Aviv;Metalworking tools;Israel;;TRUE;M
+6200;Food & Beverage;Mexico;Mexico City;Beer, investments;Mexico;;FALSE;F
+6200;Diversified;Sweden;Stockholm;Investments;Sweden;;TRUE;M
+6200;Service;Netherlands;Amsterdam;Temp agency;Netherlands;;TRUE;M
+6200;Food & Beverage;China;Shenzhen;Beverages;China;;TRUE;M
+6200;Manufacturing;China;Ningbo;Power strips;Hong Kong;;TRUE;M
+6200;Manufacturing;China;Ningbo;Power strip;Hong Kong;;TRUE;M
+6200;Finance & Investments;Poland;Kielce;Investments;Poland;;TRUE;M
+6100;Diversified;Nigeria;Lagos;Telecom, oil;Nigeria;;TRUE;M
+6100;Finance & Investments;United States;Beverly Hills;Private equity;United States;;TRUE;M
+6100;Fashion & Retail;Germany;Hamburg;Coffee;Germany;;FALSE;M
+6100;Fashion & Retail;Germany;Hamburg;Coffee;Germany;;FALSE;M
+6100;Energy;Hong Kong;Hong Kong;Hotels, energy;Hong Kong;;FALSE;M
+6100;Telecom;;;Telecom;India;;TRUE;M
+6100;Technology;Hong Kong;Hong Kong;Smartphone screens;Hong Kong;Lens Technology;TRUE;F
+6000;Metals & Mining;Russia;Moscow;Steel, mining;Russia;;TRUE;M
+6000;Real Estate;Austria;;Real estate, retail;Austria;;TRUE;M
+6000;Real Estate;United States;Chicago;Real estate;United States;;TRUE;M
+6000;Fashion & Retail;Canada;Montreal;Convinience stores;Canada;Alimentation Couche Tard Inc. Cl A;TRUE;M
+6000;Technology;United States;Reno;Security software;United States;;TRUE;M
+6000;Fashion & Retail;India;Mumbai;Retail, investments;India;;TRUE;M
+6000;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+6000;Finance & Investments;Bahamas;Albany;Investments;United Kingdom;;TRUE;M
+6000;Finance & Investments;Israel;Tel Aviv;Investments;Australia;;TRUE;M
+6000;Finance & Investments;United States;Los Angeles;Investments;United States;;TRUE;M
+6000;Technology;United States;St. Louis;IT provider;United States;;TRUE;M
+6000;Fashion & Retail;United States;New Albany;Retail;United States;;TRUE;M
+5900;Real Estate;China;Chengdu;Real estate;China;;TRUE;M
+5900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+5900;Finance & Investments;United States;Darien;Hedge funds;Norway;Viking Global Investors;TRUE;M
+5900;Finance & Investments;United States;Los Angeles;Finance;United States;;TRUE;M
+5900;Food & Beverage;China;Shanghai;Food, beverages;Taiwan;;FALSE;M
+5800;Finance & Investments;United States;Miami;Private equity;United States;;TRUE;M
+5800;Healthcare;Denmark;Humlebaek;Medical devices;Denmark;;FALSE;M
+5800;Healthcare;United States;Los Angeles;Pharmaceuticals;United States;;TRUE;M
+5700;Metals & Mining;Ukraine;Donetsk;Steel, coal;Ukraine;;TRUE;M
+5700;Healthcare;United States;Atlanta;Medical equipment;United States;;TRUE;M
+5700;Media & Entertainment;Cayman Islands;Grand Cayman;Record label;United Kingdom;;TRUE;M
+5700;Energy;Canada;Saint John;Oil;Canada;;FALSE;M
+5700;Real Estate;Sweden;Stockholm;Real estate, investments;Sweden;;FALSE;M
+5700;Construction & Engineering;Switzerland;Jona;Cement;Switzerland;;FALSE;M
+5700;Logistics;Hong Kong;Hong Kong;Shipping;Austria;;FALSE;M
+5700;Finance & Investments;United States;New York;Investments;United States;;FALSE;M
+5700;Finance & Investments;United States;North Palm Beach;Investments;United States;;FALSE;M
+5700;Finance & Investments;United States;New York;Investments;United States;;FALSE;M
+5600;Logistics;Greece;;Shipping;Greece;;FALSE;F
+5600;Energy;United States;Dallas;Oil, real estate;United States;;FALSE;M
+5600;Logistics;China;Shanghai;Package delivery;China;;TRUE;M
+5600;Automotive;India;Delhi;Motorcycles;India;;FALSE;M
+5600;Finance & Investments;United States;Sands Point;Investments;United States;;TRUE;M
+5600;Healthcare;China;Shanghai;Pharmaceutical ingredients;United States;;TRUE;M
+5600;Finance & Investments;United States;Branford;Hotels, investments;United States;;FALSE;F
+5600;Service;United States;Dallas;Hotels, investments;United States;;FALSE;M
+5600;Gambling & Casinos;Israel;Tel Aviv;Gambling software;Israel;;TRUE;M
+5600;Healthcare;South Korea;Seoul;Biotech;South Korea;Celltrion Inc.;TRUE;M
+5600;Automotive;China;Ningbo;Auto parts;Hong Kong;;TRUE;M
+5500;Service;United States;Bal Harbour;Carnival Cruises;United States;Carnival Corp.;FALSE;M
+5500;Media & Entertainment;United States;Palisades;Media, automotive;United States;;FALSE;M
+5500;Technology;Taiwan;Taipei;Electronics;Taiwan;;TRUE;M
+5500;Technology;United States;San Francisco;Payments software;Ireland;Stripe;TRUE;M
+5500;Technology;United States;San Francisco;Payment software;Ireland;Stripe;TRUE;M
+5500;Manufacturing;United States;Redding;Timberland, lumber mills;United States;;TRUE;M
+5500;Automotive;Italy;Modena;Automobiles;Italy;;FALSE;M
+5500;Automotive;United States;Houston;Toyota dealerships;United States;Gulf States Toyota;FALSE;M
+5500;Diversified;Canada;Saint John;Diversified;Canada;;FALSE;M
+5500;Manufacturing;China;Chengdu;Chemicals;China;;TRUE;M
+5500;Healthcare;Germany;Heidelberg;Pharmaceuticals;Germany;;TRUE;M
+5500;Finance & Investments;Germany;Ulm;Pharmaceuticals;Germany;;FALSE;M
+5500;Manufacturing;United States;Potomac;Manufacturing, investments;United States;;TRUE;M
+5500;Media & Entertainment;United States;East Hampton;Media, automotive;United States;;FALSE;F
+5500;Finance & Investments;Hong Kong;Hong Kong;Finance;Chile;;TRUE;M
+5500;Finance & Investments;United States;New York;Hedge funds;United States;Elliott Management;TRUE;M
+5500;Healthcare;Italy;Venice;Medical packaging;Italy;;TRUE;M
+5500;Media & Entertainment;United States;Southampton;Media, automotive;United States;;FALSE;F
+5500;Technology;Australia;Sydney;Software;Australia;;TRUE;M
+5500;Diversified;China;Beijing;Biotech;China;;TRUE;F
+5400;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;TRUE;M
+5400;Manufacturing;India;Mumbai;Paints;India;;FALSE;M
+5400;Finance & Investments;United States;Bloomfield Hills;Mortgage lender;United States;;FALSE;M
+5400;Technology;Singapore;Singapore;IT provider;United States;;TRUE;M
+5400;Diversified;China;Suzhou;Textiles, petrochemicals;China;;TRUE;M
+5400;Manufacturing;Switzerland;Lucerne;Kitchen appliances;Switzerland;Artemis Real Estate Partners;TRUE;M
+5400;Fashion & Retail;Italy;Milan;Luxury goods;Italy;Prada;FALSE;F
+5400;Fashion & Retail;Germany;Passau;Consumer goods;Germany;;FALSE;M
+5400;Fashion & Retail;Germany;Munich;Consumer goods;Germany;;FALSE;M
+5400;Fashion & Retail;Austria;Vienna;Consumer goods;Germany;;FALSE;M
+5400;Fashion & Retail;Austria;Vienna;Consumer goods;Germany;;FALSE;F
+5300;Finance & Investments;United States;Darien;Finance;United States;;TRUE;M
+5300;Real Estate;United States;Los Angeles;Real estate;United States;;TRUE;M
+5300;Manufacturing;Turkey;Istanbul;Carpet;Turkey;;TRUE;M
+5300;Finance & Investments;United States;Boston;Fidelity;United States;;FALSE;F
+5300;Finance & Investments;United States;Atherton;Venture capital;United States;Sequoia;TRUE;M
+5300;Diversified;Indonesia;Jakarta;Petrochemicals;Indonesia;;FALSE;M
+5300;Finance & Investments;United States;Chicago;Hotels, investments;United States;Hyatt Hotels;FALSE;M
+5300;Food & Beverage;United States;Beverly Hills;Agriculture;United States;;TRUE;F
+5300;Food & Beverage;United States;Beverly Hills;Agriculture;United States;;TRUE;M
+5300;Service;United States;Atlanta;Pest control;United States;;FALSE;M
+5300;Finance & Investments;United States;Chicago;Finance, asset management;United States;Guggenheim Partners LLC;TRUE;M
+5300;Manufacturing;United States;Saint Petersburg;Furniture;United States;;TRUE;M
+5300;Food & Beverage;Germany;Visbek;Poultry genetics;Germany;;TRUE;M
+5300;Fashion & Retail;United Arab Emirates;Abu Dhabi;Retail;India;;TRUE;M
+5200;Finance & Investments;United States;Greenwich;Investments;Brazil;;TRUE;M
+5200;Food & Beverage;China;Foshan;Soy sauce;China;;TRUE;F
+5200;Real Estate;United States;Charleston;Real estate management;United States;;TRUE;M
+5200;Fashion & Retail;China;Changshu;Apparel;China;;TRUE;M
+5200;Fashion & Retail;United Arab Emirates;Dubai;Retail;India;;FALSE;M
+5200;Telecom;Malaysia;Kuala Lumpur;Telecoms, media, oil-services;Malaysia;;TRUE;M
+5200;Technology;Taiwan;Taipei;Electronics;Taiwan;;TRUE;M
+5200;Food & Beverage;United States;Islamorada;Frozen foods;United States;;FALSE;M
+5200;Gambling & Casinos;United Kingdom;Isle of Man;Online gambling;Canada;;TRUE;M
+5200;Technology;United States;Medina;Microsoft;United States;;TRUE;M
+5200;Real Estate;United States;Oak Brook;Plush toys, real estate;United States;;TRUE;M
+5200;Real Estate;United States;Chicago;Real estate, private equity;United States;;TRUE;M
+5100;Manufacturing;China;Beijing;Steel;China;;TRUE;M
+5100;Finance & Investments;India;Mumbai;Investments;India;;FALSE;F
+5100;Finance & Investments;United States;Palm Beach;Franklin Templeton;United States;Franklin Resources Inc.;FALSE;M
+5100;Media & Entertainment;South Korea;Seoul;Online games;South Korea;Smilegate Holdings;TRUE;M
+5100;Finance & Investments;United States;Miami Beach;Private equity;United States;;TRUE;M
+5100;Logistics;Norway;Vettre;Shipping, seafood;Norway;;TRUE;M
+5100;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+5100;Healthcare;Hong Kong;Hong Kong;Pharmaceuticals;China;;TRUE;M
+5100;Technology;United States;Palo Alto;Software;United States;Symphony Technology Group;TRUE;M
+5100;Healthcare;United States;Wilson;Medical devices;Switzerland;;TRUE;M
+5100;Sports;United States;Youngstown;San Francisco 49ers;United States;San Francisco 49ers;FALSE;F
+5000;Finance & Investments;United States;New York;Money management;United States;;TRUE;M
+5000;Energy;United States;Fort Worth;Oil, investments;United States;;FALSE;M
+5000;Healthcare;Switzerland;Gstaad;Biotech and investments;Switzerland;;FALSE;F
+5000;Finance & Investments;United Kingdom;London;Trading;United Kingdom;;TRUE;M
+5000;Technology;Switzerland;Zurich;Software, investments;Switzerland;;FALSE;M
+5000;Telecom;United States;Boston;Telecom;United States;;TRUE;M
+5000;Healthcare;Russia;Moscow;Pharmaceuticals;Russia;;TRUE;M
+5000;Technology;South Korea;Seoul;Online services;South Korea;;TRUE;M
+5000;Fashion & Retail;United States;New York;Estée Lauder;United States;;FALSE;F
+5000;Fashion & Retail;France;Lille;Sporting goods;France;;FALSE;M
+5000;Media & Entertainment;United States;San Anselmo;Star Wars;United States;;TRUE;M
+5000;Sports;United States;Houston;Energy, sports;United States;;FALSE;F
+5000;Healthcare;Germany;Mainz;Biotechnology;Germany;;TRUE;M
+5000;Real Estate;Germany;Munich;Real estate;Germany;;FALSE;F
+5000;Healthcare;Switzerland;Basel;Dental implants;Switzerland;;FALSE;M
+5000;Food & Beverage;Turkey;Istanbul;Food;Turkey;;FALSE;M
+5000;Fashion & Retail;Canada;Vancouver;Lululemon;Canada;Lululemon;TRUE;M
+5000;Real Estate;China;Beijing;Real estate;China;;FALSE;F
+4900;Manufacturing;United States;Newton;New Balance;United States;New Balance;TRUE;M
+4900;Healthcare;India;Hyderabad;Pharmaceuticals;India;;TRUE;M
+4900;Technology;United States;San Francisco;Dolby Laboratories;United States;;FALSE;F
+4900;Technology;Argentina;Buenos Aires;E-commerce;Argentina;;TRUE;M
+4900;Service;United States;Naples;Payroll services;United States;;TRUE;M
+4900;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+4900;Finance & Investments;Georgia;Tbilisi;Investments;Georgia;;TRUE;M
+4900;Metals & Mining;Indonesia;Jakarta;Palm oil, nickel mining;Indonesia;;TRUE;M
+4900;Healthcare;Switzerland;Binningen;Medical devices;Switzerland;;TRUE;M
+4900;Food & Beverage;Canada;Montreal;Cheese;Canada;Saputo;FALSE;M
+4900;Automotive;United States;Phoenix;U-Haul;United States;;FALSE;M
+4900;Sports;United States;Potomac;Washington Commanders;United States;;TRUE;M
+4900;Diversified;Indonesia;Jakarta;Diversified;Indonesia;;TRUE;M
+4900;Energy;United States;Dallas;Pipelines;United States;;TRUE;M
+4900;Fashion & Retail;China;Beijing;E-commerce;China;;TRUE;M
+4800;Fashion & Retail;United Kingdom;Hertfordshire;Sports retailing;United Kingdom;;TRUE;M
+4800;Fashion & Retail;Poland;Krotoszyn,;Supermarkets;Poland;;TRUE;M
+4800;Healthcare;Germany;Koenigstein;Hospitals;Germany;;TRUE;M
+4800;Fashion & Retail;United States;Knoxville;Gas stations, retail;United States;Pilot Flying J;FALSE;M
+4800;Manufacturing;United States;Racine;Cleaning products;United States;;FALSE;M
+4800;Manufacturing;United States;Racine;Cleaning products;United States;;FALSE;M
+4800;Manufacturing;United States;Racine;Cleaning products;United States;;FALSE;F
+4800;Technology;United States;Portola Valley;Venture capital;United States;Khosla Ventures;TRUE;M
+4800;Technology;United States;Austin;IT provider;United States;;TRUE;F
+4800;Manufacturing;United States;Virginia Beach;Cleaning products;United States;;FALSE;F
+4800;Healthcare;India;Ahmedabad;Pharmaceuticals;India;;FALSE;M
+4800;Manufacturing;Hong Kong;Hong Kong;Manufacturing;Germany;;TRUE;M
+4800;Finance & Investments;China;Shanghai;Mining;China;;TRUE;M
+4700;Diversified;Portugal;Grijo;Energy, investments;Portugal;;FALSE;F
+4700;Sports;United States;New Orleans;New Orleans Saints;United States;;FALSE;F
+4700;Technology;Taiwan;Taipei;Electronics;Singapore;;TRUE;M
+4700;Manufacturing;Turkey;Istanbul;Carpet;Turkey;;TRUE;M
+4700;Finance & Investments;Brazil;Sao paulo;Banking;Brazil;;TRUE;M
+4700;Real Estate;Canada;Toronto;Real estate;Canada;Orlando Corporation;FALSE;M
+4700;Technology;South Korea;Seoul;Samsung;South Korea;;FALSE;F
+4700;Manufacturing;China;Shanghai;Hair dryers;China;;TRUE;M
+4700;Media & Entertainment;United States;Croton-on-Hudson;Bloomberg LP;United States;;TRUE;M
+4700;Diversified;China;Longkou;Aluminum, diversified;China;;TRUE;M
+4700;Media & Entertainment;United States;Cary;Video games;United States;;TRUE;M
+4600;Food & Beverage;United States;Austin;Vodka;United States;;TRUE;M
+4600;Media & Entertainment;United States;Dallas;Online media, Dallas Mavericks;United States;Dallas Mavericks;TRUE;M
+4600;Media & Entertainment;United States;Oyster Bay;Cable television;United States;Cablevision Systems Corp.;TRUE;M
+4600;Technology;United States;San Francisco;Twitter, Square;United States;Twitter;TRUE;M
+4600;Energy;China;Wujiang;Petrochemicals;China;;TRUE;F
+4600;Metals & Mining;Kazakhstan;Almaty;Mining;Kazakhstan;;TRUE;M
+4600;Finance & Investments;Taiwan;Taipei;Financial services;Taiwan;;FALSE;M
+4600;Fashion & Retail;United States;New York;Estee Lauder;United States;;FALSE;M
+4600;Manufacturing;China;Fushun;Renewable energy;China;;TRUE;M
+4600;Media & Entertainment;Singapore;Singapore;Gaming;Singapore;;TRUE;M
+4600;Telecom;Hong Kong;Hong Kong;Telecom;Hong Kong;;FALSE;M
+4600;Fashion & Retail;United States;Grand Rapids;Supermarkets;United States;;FALSE;M
+4600;Fashion & Retail;United States;Grand Rapids;Supermarkets;United States;;FALSE;M
+4600;Fashion & Retail;United States;Grand Rapids;Supermarkets;United States;;FALSE;M
+4600;Food & Beverage;Algeria;Algiers;Food;Algeria;;TRUE;M
+4600;Logistics;United States;Memphis;FedEx;United States;FedEx Corp.;TRUE;M
+4600;Finance & Investments;United States;Miami;Private equity;United States;;TRUE;M
+4600;Manufacturing;Germany;Battenberg;Heating, cooling equipment;Germany;;FALSE;M
+4600;Food & Beverage;United States;Delray Beach;Energy drinks;United States;;TRUE;M
+4600;Healthcare;China;Wuhan;Healthcare;China;;TRUE;M
+4500;Food & Beverage;Mexico;;Tequila;Mexico;;FALSE;M
+4500;Technology;Germany;Walldorf;Software;Germany;;TRUE;M
+4500;Technology;China;Weifang;Acoustic components;China;;TRUE;M
+4500;Technology;United States;Austin;Software;United States;;TRUE;M
+4500;Food & Beverage;Switzerland;Zurich;Dairy;Germany;;FALSE;M
+4500;Technology;India;Bangalore;Software services;India;;TRUE;M
+4500;Fashion & Retail;Norway;Trondheim;Retail, real estate;Norway;;FALSE;M
+4500;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+4500;Real Estate;United Arab Emirates;Dubai;Real estate;United Arab Emirates;;TRUE;M
+4500;Finance & Investments;Brazil;Sao Paulo;Fintech;Colombia;;TRUE;M
+4500;Manufacturing;China;Guangzhou;Chemicals;China;;TRUE;M
+4500;Diversified;Taiwan;Taipei;Retail;Taiwan;;FALSE;M
+4500;Manufacturing;China;Wenzhou;Chemicals, spandex;China;;TRUE;M
+4400;Healthcare;United States;Boston;Biotech, vaccines;France;;TRUE;M
+4400;Technology;United States;Dallas;Computer services, real estate;United States;;FALSE;F
+4400;Manufacturing;United States;San Diego;Defense;United States;;TRUE;M
+4400;Service;United States;Cockeysville;Staffing & recruiting;United States;;TRUE;M
+4400;Construction & Engineering;Spain;Madrid;Construction;Spain;;FALSE;M
+4400;Healthcare;Switzerland;Liestal;Biochemicals;Switzerland;;TRUE;M
+4400;Fashion & Retail;Germany;Munich;Retail;Germany;;FALSE;M
+4400;Real Estate;India;Mumbai;Real estate;India;;TRUE;M
+4400;Sports;United States;Wynnewood;Philadelphia Eagles;United States;;FALSE;M
+4400;Finance & Investments;United States;Chicago;Investment research;United States;Morningstar Inc.;TRUE;M
+4400;Manufacturing;China;Suzhou;Home-cleaning robots;China;;TRUE;M
+4400;Metals & Mining;Russia;Moscow;Titanium;Russia;;TRUE;M
+4300;Telecom;Switzerland;Zermatt;Telecom;France;;TRUE;M
+4300;Finance & Investments;United States;Los Angeles;Private equity;United States;;TRUE;M
+4300;Finance & Investments;Spain;A Coruña;Banking;Venezuela;;TRUE;M
+4300;Finance & Investments;United States;Los Angeles;Private equity;United States;;TRUE;M
+4300;Healthcare;China;Beijing;Pharmaceuticals;China;;TRUE;M
+4300;Logistics;United States;Fayetteville;Trucking;United States;;TRUE;F
+4300;Food & Beverage;United States;Bingham Farms;Little Caesars Pizza;United States;;TRUE;F
+4300;Diversified;Canada;Edmonton;Pharmacies;Canada;Katz Group;TRUE;M
+4300;Metals & Mining;Russia;Verkhniaya Pyshma;Metals;Russia;;TRUE;M
+4300;Finance & Investments;Kazakhstan;Almaty;Banking;Kazakhstan;;TRUE;M
+4300;Finance & Investments;Kazakhstan;Almaty;Banking;Kazakhstan;;FALSE;F
+4300;Real Estate;;;Real estate;United Kingdom;;TRUE;M
+4300;Real Estate;;;Real estate;United Kingdom;;TRUE;M
+4300;Food & Beverage;United States;Rancho Santa Fe;Cargill;United States;;FALSE;F
+4300;Real Estate;United States;San Francisco;Real estate;United States;;TRUE;M
+4300;Diversified;Vietnam;Hanoi;Diversified;Vietnam;;TRUE;M
+4300;Healthcare;United States;New York;Medical equipment;United States;;FALSE;M
+4300;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+4300;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+4300;Technology;China;Shenzhen;Drones;China;DJI Technology Co.;TRUE;M
+4300;Manufacturing;China;Ningbo;Solar inverters;China;;TRUE;M
+4300;Technology;China;Beijing;Business software;China;;TRUE;M
+4300;Finance & Investments;United States;Coral Gables;Investments;United States;;TRUE;M
+4200;Service;Israel;Tel Aviv;Carnival Cruises;Israel;;FALSE;F
+4200;Finance & Investments;Latvia;;Oil, banking, telecom;Russia;;TRUE;M
+4200;Real Estate;China;Beijing;Real estate;China;;TRUE;F
+4200;Real Estate;China;Shenzhen;Real estate;China;;TRUE;M
+4200;Finance & Investments;United States;Erie;Insurance;United States;;FALSE;M
+4200;Finance & Investments;United States;Burlingame;Franklin Templeton;United States;Franklin Resources Inc.;FALSE;M
+4200;Energy;Indonesia;Jakarta;Coal;Indonesia;;TRUE;F
+4200;Technology;United States;Leawood;Navigation equipment;United States;;TRUE;M
+4200;Finance & Investments;France;Paris;Finance;France;;TRUE;M
+4200;Technology;United States;Glencoe;Groupon, investments;United States;Groupon;TRUE;M
+4200;Technology;China;Shenzhen;Smartphones;United States;;TRUE;M
+4200;Finance & Investments;China;Shenzhen;Investments;China;;TRUE;M
+4200;Technology;United States;San Francisco;Venture capital;United States;Sequoia;TRUE;M
+4200;Service;United States;Los Angeles;Hotels, investments;United States;;FALSE;F
+4200;Automotive;United States;Phoenix;U-Haul;United States;;FALSE;M
+4200;Technology;United States;Los Angeles;EBay;United States;;TRUE;M
+4200;Food & Beverage;United States;Glendora;In-N-Out Burger;United States;;FALSE;F
+4200;Fashion & Retail;Indonesia;Jakarta;Supermarkets;Indonesia;;TRUE;M
+4200;Diversified;Indonesia;Jakarta;Diversified;Indonesia;;TRUE;M
+4200;Finance & Investments;United States;Los Angeles;Facebook, investments;United States;Founders Fund;TRUE;M
+4100;Food & Beverage;Czech Republic;Prague;Agriculture;Czech Republic;;TRUE;M
+4100;Service;France;Paris;Food services;France;;FALSE;F
+4100;Media & Entertainment;Germany;Munich;Publishing;Germany;;FALSE;M
+4100;Food & Beverage;United States;Plantation;Beverages;United States;;TRUE;M
+4100;Energy;United States;New York;Oil, real estate;United States;;TRUE;M
+4100;Technology;United States;Woodside;Software;United States;;TRUE;M
+4100;Food & Beverage;Italy;Milan;Spirits;Italy;;FALSE;M
+4100;Manufacturing;Finland;Kirkkonummi;Elevators, escalators;Finland;;FALSE;M
+4100;Manufacturing;China;Putian;Paint;China;;TRUE;M
+4100;Service;United States;East Aurora;Food service;United States;;FALSE;M
+4100;Fashion & Retail;Russia;Moscow;Tobacco distribution, retail;Russia;;TRUE;M
+4100;Food & Beverage;United States;Coatesville;Campbell Soup;United States;;FALSE;F
+4100;Diversified;Brazil;Rio de Janeiro;Banking, minerals;Brazil;;FALSE;M
+4100;Finance & Investments;Brazil;Rio de Janeiro;Banking, minerals;Brazil;;FALSE;M
+4100;Sports;United States;Phoenix;Billboards, Los Angeles Angels;United States;;TRUE;M
+4100;Manufacturing;Switzerland;Weiningen;Train cars;Switzerland;;TRUE;M
+4100;Real Estate;United States;Beverly Hills;Real estate;United States;;TRUE;M
+4100;Diversified;Australia;Perth;Construction equipment, media;Australia;;TRUE;M
+4100;Technology;United States;Los Altos Hills;Cybersecurity;United States;;TRUE;M
+4100;Healthcare;China;Beijing;Biotech;China;;TRUE;M
+4000;Energy;United States;Fort Worth;Oil, investments;United States;;FALSE;M
+4000;Technology;United States;Atlanta;Email marketing;United States;;TRUE;M
+4000;Food & Beverage;United States;;Subway;United States;;FALSE;F
+4000;Diversified;China;Shanghai;Conglomerate;China;;TRUE;M
+4000;Manufacturing;India;Delhi;Electrical equipment;India;;FALSE;F
+4000;Sports;United States;Boca Raton;Sports;United States;;TRUE;M
+4000;Technology;United States;Los Angeles;Uber;United States;Uber Technologies Inc.;TRUE;M
+4000;Manufacturing;Malaysia;Petaling Jaya;Aluminum;Malaysia;;TRUE;M
+4000;Technology;United States;Atlanta;Email marketing;United States;;TRUE;M
+4000;Manufacturing;China;Yuxi;Battery separators;United States;;TRUE;M
+4000;Technology;Canada;Ottawa;E-commerce;Canada;;TRUE;M
+4000;Automotive;United States;Salt Lake City;Car dealerships;United States;;TRUE;F
+4000;Telecom;India;Delhi;Telecom;India;;FALSE;M
+4000;Telecom;India;Delhi;Telecom;India;;FALSE;M
+4000;Media & Entertainment;United States;Palm Beach;Marvel comics;United States;Marvel Entertainment;TRUE;M
+4000;Finance & Investments;United States;Chevy Chase;Banking, real estate;United States;Saul Centers;FALSE;M
+4000;Telecom;Italy;Milan;Telecom;Israel;;TRUE;M
+4000;Media & Entertainment;United States;Pacific Palisades;Movies;United States;;TRUE;M
+4000;Healthcare;Poland;Konstancin;Pharmaceuticals;Poland;;TRUE;M
+4000;Energy;Switzerland;Geneva;Oil trading;Sweden;;TRUE;M
+4000;Metals & Mining;Mexico;Mexico City;Steel;Mexico;;TRUE;M
+4000;Diversified;China;Shaoxing;Valves;China;;TRUE;M
+3900;Manufacturing;Germany;Bruchsal;Auto parts;Germany;;FALSE;M
+3900;Food & Beverage;United States;Livingston;Cargill;United States;;FALSE;M
+3900;Food & Beverage;United States;Birchwood;Cargill;United States;;FALSE;M
+3900;Finance & Investments;Thailand;Bangkok;Insurance, beverages;Thailand;;TRUE;M
+3900;Finance & Investments;China;Beijing;Insurance;China;;TRUE;M
+3900;Automotive;South Korea;Seoul;Hyundai;South Korea;;FALSE;M
+3900;Finance & Investments;Cayman Islands;George Town;Investments;Belize;;FALSE;M
+3900;Fashion & Retail;Italy;Treviso;Coffee makers;Italy;;FALSE;M
+3900;Healthcare;Germany;Hamburg;Optometry;Germany;;TRUE;M
+3900;Energy;United States;Dallas;Oil;United States;;FALSE;M
+3900;Sports;United States;Carmel;Indianapolis Colts;United States;Indianapolis Colts;FALSE;M
+3900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;F
+3900;Food & Beverage;United States;Bozeman;Cargill;United States;;FALSE;F
+3900;Healthcare;Brazil;Rio de Janeiro;Hospitals;Brazil;;TRUE;M
+3900;Diversified;Brazil;Sao Paulo;Banking, minerals;Brazil;;FALSE;M
+3900;Diversified;Brazil;Sao Paulo;Banking, minerals;Brazil;;FALSE;M
+3900;Gambling & Casinos;United States;Seattle;Videogames;United States;Valve Corporation;TRUE;M
+3900;Fashion & Retail;Germany;Bielefeld;Consumer goods;Germany;;FALSE;M
+3900;Fashion & Retail;Germany;Bielefeld;Consumer goods;Germany;;FALSE;M
+3900;Fashion & Retail;Germany;Bielefeld;Consumer goods;Germany;;FALSE;F
+3900;Manufacturing;China;Jiaxing;Glass;China;;TRUE;M
+3900;Finance & Investments;United States;Steamboat Springs;Venture capital;United States;;TRUE;M
+3900;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+3900;Food & Beverage;India;Mumbai;Consumer goods;India;;FALSE;M
+3900;Healthcare;China;Shijiazhuang;Pharmaceuticals;China;;TRUE;M
+3900;Manufacturing;China;Ningbo;Semiconductors;China;;TRUE;M
+3900;Healthcare;China;Shenzhen;Pharmaceuticals;China;;TRUE;M
+3800;Service;India;Delhi;Aviation;India;;FALSE;M
+3800;Construction & Engineering;Italy;Rome;Cement, diversified;Italy;;TRUE;M
+3800;Media & Entertainment;United States;New York;Online media;United States;;TRUE;M
+3800;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+3800;Finance & Investments;United States;New York;Private equity;United States;Cerberus Capital Management;TRUE;M
+3800;Service;United States;Miami;Airline;United States;;TRUE;M
+3800;Food & Beverage;United States;Chicago;Poultry processing;United States;;TRUE;M
+3800;Media & Entertainment;United States;Nashville;Book distribution, transportation;United States;Ingram Industries, Inc.;FALSE;F
+3800;Automotive;China;Beijing;Electric vehicles;China;;TRUE;M
+3800;Real Estate;United States;Dallas;Real estate;United States;;FALSE;M
+3800;Real Estate;India;Mumbai;Real estate;India;;FALSE;M
+3800;Energy;United States;Dallas;Oil & gas;United States;;TRUE;M
+3800;Telecom;Japan;Tokyo;Mobile phone retailer;Japan;;TRUE;M
+3800;Healthcare;China;Xiamen;Healthcare;China;;TRUE;M
+3800;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+3800;Service;United States;Westlake;Aircraft leasing;United States;Air Lease Corp.;TRUE;M
+3800;Manufacturing;United States;Lake Forest;Packaging materials;United States;;TRUE;F
+3800;Manufacturing;United States;Lake Forest;Packaging materials;United States;;TRUE;M
+3700;Finance & Investments;United States;Austin;Fintech;United States;;TRUE;M
+3700;Finance & Investments;United States;Coconut Grove;Insurance;United States;WR Berkley;TRUE;M
+3700;Real Estate;United States;New York;Real estate;United States;;FALSE;M
+3700;Real Estate;United Kingdom;London;Real estate;Cyprus;;TRUE;M
+3700;Technology;China;Wuhan;Imaging systems;China;;TRUE;M
+3700;Logistics;United States;Greenwich;Logistics;United States;;TRUE;M
+3700;Real Estate;China;Shanghai;Hotels, motels;China;;TRUE;M
+3700;Media & Entertainment;China;Shanghai;Advertising;Singapore;;TRUE;M
+3700;Technology;United States;St. Louis;IT provider;United States;;TRUE;M
+3700;Real Estate;United States;New York;Real estate;United States;;FALSE;M
+3700;Finance & Investments;Kazakhstan;Almaty;Fintech;Georgia;;TRUE;M
+3700;Fashion & Retail;United Kingdom;Merseyside;Retail;United Kingdom;;TRUE;M
+3700;Manufacturing;Japan;Kyoto;Motors;Japan;;TRUE;M
+3700;Finance & Investments;United States;Miami Beach;Hedge funds;United States;Och-Ziff Capital Management;TRUE;M
+3700;Fashion & Retail;Chile;Santiago;Retail;Chile;;TRUE;M
+3700;Service;United States;Los Angeles;Hotels, investments;United States;;FALSE;M
+3700;Technology;United States;Cary;Software;United States;SAS Institute;TRUE;M
+3700;Food & Beverage;United States;Seattle;Starbucks;United States;;TRUE;M
+3700;Fashion & Retail;United States;Naples;Best Buy;United States;Best Buy Co. Inc.;TRUE;M
+3700;Real Estate;Israel;Netanya;Real estate;Israel;;TRUE;M
+3700;Manufacturing;China;Wuxi;Electrical equipment;China;;TRUE;M
+3600;Diversified;India;Pune;Diversified;India;;FALSE;M
+3600;Diversified;India;Pune;Diversified;India;;FALSE;M
+3600;Finance & Investments;Italy;Florence;Venture capital;Canada;;TRUE;M
+3600;Finance & Investments;United States;San Francisco;Private equity;United States;;TRUE;M
+3600;Automotive;Switzerland;Anzere;Auto parts, distribution;Belgium;;FALSE;M
+3600;Food & Beverage;Bermuda;;Beer;Colombia;;FALSE;F
+3600;Real Estate;Canada;Vancouver;Hotels;Canada;;TRUE;M
+3600;Finance & Investments;United Kingdom;London;Banking;Colombia;;FALSE;M
+3600;Gambling & Casinos;Hong Kong;Hong Kong;Casinos;Hong Kong;;FALSE;F
+3600;Finance & Investments;Switzerland;Geneva;Hedge funds;United Kingdom;Brevan Howard Asset Management;TRUE;M
+3600;Automotive;China;Beijing;Car dealerships;Hong Kong;;TRUE;M
+3600;Finance & Investments;United States;Short Hills;Investments;United States;;FALSE;M
+3600;Finance & Investments;Kazakhstan;Almaty;Fintech;Kazakhstan;;TRUE;M
+3600;Finance & Investments;United States;New York City;Venture capital;United States;Thrive Capital;TRUE;M
+3600;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+3600;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+3600;Finance & Investments;United States;Greenwich;Hedge funds;United States;Lone Pine Capital;TRUE;M
+3600;Diversified;United Kingdom;London;Diversified;Egypt;;TRUE;M
+3600;Fashion & Retail;Japan;Tokyo;Shoes;Japan;;TRUE;M
+3600;Technology;Japan;Tokyo;Software;Japan;;TRUE;M
+3600;Technology;Australia;Sydney;Software;Australia;;TRUE;M
+3600;Technology;Australia;Sydney;Software;Australia;Canva;TRUE;F
+3600;Finance & Investments;United States;Springfield;Hotels, investments;United States;;FALSE;M
+3600;Fashion & Retail;Spain;Valencia;Supermarkets;Spain;;FALSE;M
+3600;Real Estate;United States;New York;Real estate;United States;;TRUE;M
+3600;Fashion & Retail;Switzerland;Geneva;Fashion investments;Canada;;TRUE;M
+3600;Logistics;Hong Kong;Hong Kong;Shipping;Hong Kong;;FALSE;M
+3600;Food & Beverage;China;Chengdu;Liquor;China;;TRUE;M
+3600;Automotive;China;Shenzhen;Automobiles, batteries;China;;TRUE;M
+3600;Technology;China;Shenzhen;Smartphone components;China;;TRUE;F
+3600;Manufacturing;China;Tianjin;Electric bikes, scooters;China;;TRUE;M
+3500;Fashion & Retail;United States;Los Angeles;Eyeglasses;Italy;;FALSE;M
+3500;Healthcare;Brazil;Sao Paulo;Generic drugs;Brazil;;FALSE;M
+3500;Finance & Investments;China;Fuzhou;Investments;China;;TRUE;M
+3500;Manufacturing;Italy;Cernusco Lombardone;Microchip testing;Italy;;TRUE;M
+3500;Finance & Investments;United States;Vienna;Private equity;United States;;TRUE;M
+3500;Fashion & Retail;United States;Muttontown;Eyeglasses;Italy;;FALSE;M
+3500;Fashion & Retail;Italy;Milan;Eyeglases;Italy;;FALSE;M
+3500;Fashion & Retail;Italy;Milan;Eyeglasses;Italy;;FALSE;M
+3500;Fashion & Retail;Italy;Milan;Eyeglasses;Italy;;FALSE;M
+3500;Fashion & Retail;Italy;Rome;Eyeglasses;Italy;;FALSE;F
+3500;Fashion & Retail;Luxembourg;Luxembourg;Eyeglasses;Italy;;FALSE;F
+3500;Finance & Investments;Germany;Dusseldorf;Investing;Germany;;TRUE;M
+3500;Fashion & Retail;China;Xian;Skincare;China;;TRUE;F
+3500;Technology;United States;Pleasanton;Software;United States;;TRUE;M
+3500;Energy;Russia;Moscow;Oil, coal, real estate;Russia;;TRUE;M
+3500;Manufacturing;Hong Kong;Hong Kong;Paper;Hong Kong;;TRUE;M
+3500;Food & Beverage;China;Beijing;Infant formula;China;;TRUE;M
+3500;Finance & Investments;United States;New York;Hedge funds;United States;Third Point;TRUE;M
+3500;Food & Beverage;Switzerland;Davos;Commodities;Switzerland;Louis Dreyfus SAS;FALSE;F
+3500;Healthcare;Thailand;Bangkok;Hospitals;Thailand;;TRUE;M
+3500;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+3500;Fashion & Retail;Germany;Lower-Saxony;Drugstores;Germany;;TRUE;M
+3500;Construction & Engineering;Russia;Moscow;Construction, pipes, banking;Russia;;TRUE;M
+3500;Fashion & Retail;Italy;Como;Winter jackets;Italy;;TRUE;M
+3500;Healthcare;Germany;Northeim;Biopharmaceuticals;Germany;;FALSE;F
+3500;Automotive;India;Delhi;Auto parts;Australia;;TRUE;M
+3500;Finance & Investments;United States;New York;Private equity;United States;Tiger Global Management;TRUE;M
+3500;Technology;United States;Woodside;Business software;United States;;TRUE;M
+3500;Manufacturing;Netherlands;Eindhoven;Manufacturing;Netherlands;;FALSE;M
+3500;Diversified;China;Beijing;Fertilizer;China;;TRUE;M
+3500;Technology;United States;Los Altos Hills;Cybersecurity;United States;;TRUE;M
+3500;Logistics;China;Qingdao;Shipping;China;;TRUE;M
+3500;Fashion & Retail;Monaco;Monaco;Eyeglasses;Italy;;FALSE;F
+3500;Manufacturing;Canada;Windsor;Steel;Canada;;FALSE;M
+3400;Finance & Investments;United States;New York;Hedge funds;United States;Pershing Square Capital Management, L.P.;TRUE;M
+3400;Energy;Thailand;Bangkok;Renewable energy;Thailand;;TRUE;M
+3400;Metals & Mining;Russia;Yekaterinburg;Metals;Russia;;TRUE;M
+3400;Food & Beverage;Philippines;Manila;Diversified;Philippines;;TRUE;M
+3400;Food & Beverage;India;Haridwar;Consumer goods;India;;TRUE;M
+3400;Manufacturing;Switzerland;Wilen bei Wollerau;Chemicals;Switzerland;;FALSE;M
+3400;Diversified;British Virgin Islands;Necker Island;Virgin;United Kingdom;;TRUE;M
+3400;Finance & Investments;South Korea;Seoul;Finance;South Korea;Meritz Financial Group;FALSE;M
+3400;Food & Beverage;Italy;Milan;Spirits;Italy;;FALSE;F
+3400;Fashion & Retail;Switzerland;Gstaad;Diamond jewelry;United Kingdom;;TRUE;M
+3400;Media & Entertainment;United States;Boston;Cable television;United States;Pilot House Associates;TRUE;M
+3400;Sports;United States;Palm Beach;Johnson & Johnson, sports;United States;;FALSE;M
+3400;Finance & Investments;United States;New York;Investments;United States;New Mountain Capital;TRUE;M
+3400;Fashion & Retail;United States;New York;Estee Lauder;United States;;FALSE;M
+3400;Food & Beverage;United States;Bryn Mawr;Tobacco;United States;;FALSE;M
+3400;Fashion & Retail;Japan;Tokyo;Online retail;Japan;;TRUE;M
+3400;Technology;United States;Scottsdale;Web hosting;United States;;TRUE;M
+3400;Finance & Investments;United States;Little Jackson Hole;TD Ameritrade;United States;;TRUE;M
+3400;Real Estate;United States;Indianapolis;Real estate;United States;Simon Property Group;TRUE;M
+3400;Healthcare;India;Mumbai;Pharmaceuticals;India;;FALSE;F
+3400;Media & Entertainment;Germany;Stuttgart;Publishing;Germany;;FALSE;M
+3400;Food & Beverage;Switzerland;Zug;Flavorings;Switzerland;;FALSE;M
+3400;Healthcare;China;Chongqing;Pharmaceuticals;China;;TRUE;M
+3400;Technology;China;Hangzhou;Software;China;;TRUE;M
+3400;Technology;United States;Santa Clara;Zoom Video Communications;United States;Zoom Video Communications;TRUE;M
+3400;Media & Entertainment;United States;New York;Bloomberg LP;United States;;TRUE;M
+3300;Construction & Engineering;France;Montpellier;Scaffolding, cement mixers;France;;TRUE;M
+3300;Finance & Investments;United States;Houston;Hedge funds;United States;Centaurus Advisors;TRUE;M
+3300;Manufacturing;United States;Brownsville;Hearing aids;United States;;TRUE;M
+3300;Manufacturing;China;Lianyungang;Quartz products;China;;TRUE;M
+3300;Food & Beverage;United States;Paradise Valley;Campbell Soup;United States;;FALSE;M
+3300;Food & Beverage;Brazil;Rio de Janeiro;Beer;Brazil;;TRUE;M
+3300;Automotive;Switzerland;Küsnacht;Car dealerships;Switzerland;;FALSE;M
+3300;Technology;China;Hangzhou;Surveillance equipment;China;;TRUE;M
+3300;Real Estate;Australia;Melbourne;Shopping malls;Australia;;FALSE;M
+3300;Construction & Engineering;Canada;Oakville;Homebuilding;Canada;Mattamy Group Corp.;TRUE;M
+3300;Diversified;Singapore;Singapore;Diversified;Singapore;;FALSE;M
+3300;Finance & Investments;United States;Sag Harbor;Investments;United States;;TRUE;M
+3300;Media & Entertainment;Israel;Tel Aviv;Movie making;Israel;;TRUE;M
+3300;Fashion & Retail;Japan;Hokkaido;Home furnishings;Japan;;TRUE;M
+3300;Metals & Mining;Chile;Santiago;Fertilizer;Chile;;TRUE;M
+3300;Finance & Investments;United States;St. Louis;Discount brokerage;United States;Scottrade, Inc.;TRUE;M
+3300;Diversified;United States;Las Vegas;Casinos, real estate;United States;;TRUE;M
+3300;Telecom;Egypt;Cairo;Telecom;Egypt;;FALSE;M
+3300;Finance & Investments;China;Hong Kong;Venture capital;Hong Kong;Sequoia China;TRUE;M
+3300;Technology;Israel;Tel Aviv;Software;Israel;;TRUE;M
+3300;Finance & Investments;Canada;Toronto;Finance and investments;Canada;;TRUE;M
+3300;Finance & Investments;United Kingdom;London;Fintech;United Kingdom;;TRUE;M
+3300;Finance & Investments;United States;Larchmont;Hedge fund;United States;Element Capital Management;TRUE;M
+3300;Finance & Investments;United States;Dallas;Investments;United States;;TRUE;M
+3300;Manufacturing;United States;St. Petersburg;Furniture;United States;;FALSE;M
+3300;Manufacturing;China;Guangzhou;Agribusiness;China;;TRUE;M
+3300;Fashion & Retail;Singapore;Singapore;Retail;Japan;;TRUE;M
+3200;Food & Beverage;;;Tequila;Mexico;;FALSE;F
+3200;Fashion & Retail;Italy;Treviso;Fashion retail, investments;Italy;;TRUE;F
+3200;Fashion & Retail;Italy;Ponzano Veneto;Fashion retail, investments;Italy;;TRUE;M
+3200;Manufacturing;India;Delhi;Chemicals;India;;FALSE;M
+3200;Finance & Investments;United Kingdom;London;Supermarkets, investments;United States;The Yucaipa Companies, LLC;TRUE;M
+3200;Manufacturing;China;Guangzhou;Household chemicals;China;;TRUE;M
+3200;Fashion & Retail;Italy;Solomeo;Fashion;Italy;;TRUE;M
+3200;Manufacturing;Mexico;Mexico City;Chemicals;Mexico;;TRUE;M
+3200;Healthcare;Italy;torino;Biotech;Italy;;TRUE;M
+3200;Automotive;China;Wuxi;Electric scooters;China;;TRUE;M
+3200;Media & Entertainment;United States;Denver;Satellite TV;United States;DISH Network;TRUE;M
+3200;Technology;United States;Palo Alto;Yahoo;United States;Yahoo!;TRUE;M
+3200;Logistics;Australia;Melbourne;Logistics, real estate;Australia;;TRUE;M
+3200;Fashion & Retail;Russia;Krasnodar;Retail;Russia;;TRUE;M
+3200;Technology;India;Bangalore;Software services;India;;TRUE;M
+3200;Fashion & Retail;Brazil;Brusque;Department stores;Brazil;;TRUE;M
+3200;Finance & Investments;United Kingdom;London;Investment;Australia;CQS LLP;TRUE;M
+3200;Healthcare;China;Shaoxing;Pharmaceuticals;China;;TRUE;M
+3200;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+3200;Technology;South Korea;Seoul;Samsung;South Korea;;FALSE;F
+3200;Manufacturing;China;Xinyu;Lithium;China;;TRUE;M
+3200;Manufacturing;China;Shanghai;Manufacturing;China;;TRUE;M
+3200;Healthcare;India;Ahmedabad;Pharmaceuticals, power;India;;FALSE;M
+3200;Healthcare;India;Ahmedabad;Pharmaceuticals, power;India;;FALSE;M
+3200;Metals & Mining;Switzerland;Zug;Mining, commodities;Greece;;TRUE;M
+3200;Real Estate;United States;Beverly Hills;Real estate;United States;;FALSE;M
+3200;Automotive;United States;Birmingham;Cars;United States;;TRUE;M
+3200;Construction & Engineering;United Arab Emirates;Dubai;Construction;India;;TRUE;M
+3200;Finance & Investments;United States;Bethesda;Private equity;United States;Carlyle Group;TRUE;M
+3200;Food & Beverage;United States;Irvine;Energy drinks;United Kingdom;;TRUE;M
+3200;Service;Germany;Bremen;Ticketing service;Germany;;TRUE;M
+3200;Energy;United States;Tulsa;Oil & gas, investments;United States;;FALSE;F
+3200;Manufacturing;Italy;Bologna;Packaging;Italy;;FALSE;F
+3200;Fashion & Retail;China;Beijing;Retail;China;;TRUE;M
+3200;Finance & Investments;United States;Little Rock;Investment banking;United States;;FALSE;M
+3200;Healthcare;United States;Fort Collins;Medical equipment;United States;;FALSE;F
+3200;Logistics;Russia;Moscow;Transport, engineering, real estate;Russia;;TRUE;M
+3200;Technology;Germany;Heidelberg;Software;Germany;;FALSE;M
+3200;Technology;Germany;Wiesloch;Software;Germany;;FALSE;M
+3200;Finance & Investments;United States;New York;Electronic trading;United States;;TRUE;M
+3200;Food & Beverage;China;Daye;Wine;China;;TRUE;M
+3200;Gambling & Casinos;United States;Palm Beach;Casinos, hotels;United States;Wynn Resorts;TRUE;M
+3200;Gambling & Casinos;United States;Franklin;Video games;United States;;TRUE;M
+3200;Manufacturing;China;Changzhou;Auto parts;China;;TRUE;M
+3100;Manufacturing;China;Fuqing;Auto parts;Hong Kong;;TRUE;M
+3100;Gambling & Casinos;United Kingdom;Stoke-On-Trent;Online gambling;United Kingdom;;TRUE;M
+3100;Finance & Investments;United States;Bal Harbour;Investments;Canada;;TRUE;M
+3100;Food & Beverage;China;Chengdu;Flavorings;China;;TRUE;M
+3100;Manufacturing;India;Delhi;Paints;India;;TRUE;M
+3100;Manufacturing;India;Delhi;Paints;India;;TRUE;M
+3100;Finance & Investments;Switzerland;Wilen;Investments;Switzerland;;TRUE;M
+3100;Manufacturing;France;Paris;Aviation;France;;TRUE;M
+3100;Real Estate;Russia;Moscow;Real estate;Russia;;TRUE;M
+3100;Media & Entertainment;United States;Newbury Park;Digital advertising;United States;;TRUE;M
+3100;Technology;United States;Santa Cruz;Netflix;United States;Netflix;TRUE;M
+3100;Service;Switzerland;Lucerne;Education;Sweden;;TRUE;M
+3100;Fashion & Retail;Brazil;Sao Jose dos Pinhais;Cosmetics;Brazil;;TRUE;M
+3100;Manufacturing;Singapore;Singapore;Palm oil;Singapore;;FALSE;M
+3100;Fashion & Retail;United States;New York;Estee Lauder;United States;;FALSE;F
+3100;Food & Beverage;United States;Highland Park;Meat processing;United States;;TRUE;M
+3100;Manufacturing;Hong Kong;Hong Kong;Glass;China;;TRUE;M
+3100;Manufacturing;Russia;Saint Petersburg;Chemical industry;Russia;;TRUE;M
+3100;Metals & Mining;Switzerland;Kanton Schwyz;Mining, commodities;Spain;;TRUE;M
+3100;Fashion & Retail;India;Kolkata;Readymade garments;India;;TRUE;M
+3100;Diversified;Monaco;Monaco;Diversified;United Kingdom;;TRUE;M
+3100;Finance & Investments;United States;Providence;Private equity;United States;Providence Equity Partners;TRUE;M
+3100;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+3100;Real Estate;United States;New York;Real estate;Germany;;FALSE;F
+3100;Finance & Investments;Switzerland;;Banking;Russia;;TRUE;M
+3100;Finance & Investments;United States;Chicago;Hotels, investments;United States;Inspired Capital;FALSE;F
+3100;Diversified;Indonesia;Jakarta;Diversified;Indonesia;;FALSE;M
+3100;Fashion & Retail;Italy;Bassano del Grappa;Fashion;Italy;;TRUE;M
+3100;Media & Entertainment;Germany;Berlin;Publishing;Germany;;FALSE;F
+3100;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;F
+3100;Finance & Investments;Kazakhstan;Almaty;Stock brokerage;Kazakhstan;;TRUE;M
+3100;Fashion & Retail;United States;Idaho Falls;Nutrition, wellness products;United States;;TRUE;M
+3100;Media & Entertainment;South Korea;Jeju-do;Online games;South Korea;;TRUE;F
+3000;Diversified;United Arab Emirates;Dubai;Diversified;United Arab Emirates;;FALSE;M
+3000;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;F
+3000;Real Estate;United States;Beverly Hills;Real estate, investments;United States;;FALSE;M
+3000;Energy;United States;The Woodlands;Oil & gas;United States;;TRUE;M
+3000;Automotive;United States;Miami;Art, car dealerships;United States;;TRUE;M
+3000;Technology;Switzerland;Zurich;Software, investments;Switzerland;;FALSE;F
+3000;Healthcare;China;Luancheng;Pharmaceuticals;China;;TRUE;M
+3000;Food & Beverage;France;Paris;Spirits;France;;FALSE;M
+3000;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;F
+3000;Fashion & Retail;United States;Clearwater;Hair care products;United States;;TRUE;M
+3000;Real Estate;China;Guangzhou;Real estate;China;;TRUE;M
+3000;Finance & Investments;United States;McLean;Private equity;United States;Carlyle Group;TRUE;M
+3000;Fashion & Retail;Canada;Montreal;Drugstores;Canada;Jean Coutu Group (PJC) Inc. (Cl A);TRUE;M
+3000;Automotive;;;Auto parts, distribution;Belgium;;FALSE;F
+3000;Real Estate;United States;Tampa;Shopping centers;United States;;FALSE;M
+3000;Finance & Investments;United States;St. John;Private equity;United States;;TRUE;M
+3000;Metals & Mining;China;Zhuji;Copper, education;China;;TRUE;M
+3000;Automotive;United States;Tempe;Used cars;United States;;TRUE;M
+3000;Food & Beverage;Singapore;Singapore;Frozen foods;Singapore;;TRUE;M
+3000;Diversified;Mexico;Mexico City;Banking;Mexico;;FALSE;M
+3000;Manufacturing;Italy;Milan;Hearing aids;Italy;;FALSE;F
+3000;Real Estate;China;Shenzhen;Real estate;China;;TRUE;M
+3000;Manufacturing;India;Delhi;Chemicals;India;;FALSE;M
+3000;Fashion & Retail;Germany;Brunswick;Fashion retail;Germany;;TRUE;M
+3000;Healthcare;Switzerland;Grimisuat;Pharmaceuticals;Russia;;TRUE;M
+3000;Fashion & Retail;Taiwan;Taipei;Supermarkets;Taiwan;;TRUE;M
+3000;Technology;China;Xiamen;Electronics;China;;TRUE;M
+3000;Food & Beverage;India;Mumbai;Consumer goods;India;;FALSE;M
+3000;Healthcare;France;Nantes;Laboratory services;France;;TRUE;M
+3000;Healthcare;Switzerland;Basel;Pharmaceuticals;Switzerland;;FALSE;F
+3000;Finance & Investments;United States;New York;Hedge funds;United States;Paulson & Co. Inc.;TRUE;M
+3000;Healthcare;India;Mumbai;Pharmaceuticals;India;;FALSE;M
+3000;Fashion & Retail;China;Wenzhou;Fashion retail;China;;TRUE;M
+3000;Fashion & Retail;United Kingdom;London;Sports apparel;United Kingdom;;FALSE;M
+3000;Food & Beverage;United States;Delray Beach;Liquor;United States;;FALSE;M
+3000;Real Estate;Sweden;Göteborg;Real estate;Sweden;;TRUE;M
+3000;Food & Beverage;China;Chengdu;Restaurants;China;;TRUE;M
+3000;Manufacturing;Singapore;Singapore;Palm oil;Indonesia;;TRUE;M
+3000;Diversified;China;Urumqi;Diversified;China;;TRUE;M
+3000;Diversified;Singapore;Singapore;Diversified;Indonesia;;TRUE;M
+3000;Service;United Arab Emirates;Dubai;Education;India;;FALSE;M
+3000;Media & Entertainment;Singapore;Singapore;Gaming;Singapore;;TRUE;M
+3000;Healthcare;China;Hangzhou;Pharmaceuticals;China;;TRUE;M
+3000;Finance & Investments;Hong Kong;Hong Kong;Investments;China;;TRUE;M
+3000;Manufacturing;China;Shanghai;Solar panel materials;China;;TRUE;M
+2900;Fashion & Retail;Spain;Barcelona;Fashion retail;Spain;;TRUE;M
+2900;Automotive;Italy;Bergamo;Automotive brakes;Italy;;FALSE;M
+2900;Healthcare;China;Taixing;Pharmaceuticals;China;;TRUE;M
+2900;Real Estate;United States;Greensboro;Real estate;United States;;TRUE;M
+2900;Telecom;United Kingdom;Stoke-on-Trent;Mobile phones;United Kingdom;;TRUE;M
+2900;Technology;United States;Palm Beach;Netscape, investments;United States;Netscape Communications Corporation;TRUE;M
+2900;Fashion & Retail;Canada;Montreal;Convenience stores;Canada;Alimentation Couche Tard Inc. Cl A;TRUE;M
+2900;Fashion & Retail;United States;Austin;Hair products, tequila;United States;;TRUE;M
+2900;Sports;United Kingdom;London;Formula One;United Kingdom;;TRUE;M
+2900;Technology;Israel;Tel Aviv;Defense, hotels;Israel;;TRUE;M
+2900;Media & Entertainment;United States;Sarasota;Live entertainment;United States;Feld Entertainment;FALSE;M
+2900;Manufacturing;China;Hangzhou;Furniture;China;;TRUE;M
+2900;Construction & Engineering;Switzerland;Luzerne;Engineering;Germany;;FALSE;M
+2900;Healthcare;Germany;Ohningen;Medical devices;Germany;;FALSE;F
+2900;Real Estate;United States;Fort Worth;Homebuilding;United States;;TRUE;M
+2900;Real Estate;Russia;Moscow;Real estate;Russia;;TRUE;M
+2900;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;F
+2900;Technology;South Korea;Seoul;Samsung;South Korea;;FALSE;F
+2900;Healthcare;China;Shenzhen;Consumer products;Hong Kong;;TRUE;M
+2900;Healthcare;China;Changsha;Healthcare;China;;TRUE;M
+2900;Manufacturing;China;Yuxi;Packaging;China;;TRUE;M
+2900;Manufacturing;China;Shanghai;Flavorings;China;;TRUE;M
+2900;Technology;Sweden;Stockholm;Spotify;Sweden;;TRUE;M
+2900;Energy;Hong Kong;Hong Kong;Energy;Hong Kong;;FALSE;M
+2900;Fashion & Retail;Germany;Ulm;Drugstores;Germany;;TRUE;M
+2900;Technology;Germany;Munich;Software;Germany;;TRUE;M
+2900;Real Estate;Russia;Moscow;Real estate;Russia;;TRUE;M
+2900;Real Estate;India;Mumbai;Real estate;India;;FALSE;M
+2900;Energy;Argentina;Buenos Aires;Oil & gas;Argentina;;TRUE;M
+2900;Finance & Investments;Chile;Santiago;Investments;Chile;Chile;TRUE;M
+2900;Automotive;India;Mumbai;Tires;India;;FALSE;M
+2900;Healthcare;Russia;Moscow;Pharmaceuticals;Russia;;TRUE;M
+2900;Media & Entertainment;United States;Beverly Hills;TV network, investments;United States;;TRUE;M
+2900;Food & Beverage;United States;Laguna Beach;Energy drinks;United States;Monster Beverage;TRUE;M
+2900;Finance & Investments;United States;New York;Hedge fund;India;;TRUE;M
+2900;Healthcare;Germany;Leipzig;Medical devices;Germany;;FALSE;F
+2900;Finance & Investments;United States;New York;Hedge funds;United States;;TRUE;M
+2900;Food & Beverage;United States;North Palm Beach;Chewing gum;United States;Wrigley Management, Inc.;FALSE;M
+2900;Fashion & Retail;China;Beijing;Supermarkets;China;;TRUE;M
+2900;Fashion & Retail;China;Jiangyin;Fashion retail;China;;TRUE;M
+2800;Fashion & Retail;India;Cochin;Jewelry;India;;FALSE;M
+2800;Healthcare;China;Xinxiang;Pharmaceuticals;China;;TRUE;M
+2800;Technology;United States;San Francisco;Uber;Canada;Uber Technologies Inc.;TRUE;M
+2800;Gambling & Casinos;Cambodia;Phnom Penh;Casinos, property, energy;Malaysia;;TRUE;M
+2800;Real Estate;Singapore;Singapore;Hotels;Singapore;;TRUE;M
+2800;Automotive;South Korea;Seoul;Hyundai;South Korea;Hyundai Motor Co. Ltd.;FALSE;M
+2800;Diversified;India;Mumbai;Consumer goods;India;;FALSE;F
+2800;Fashion & Retail;United States;San Marcos;Supermarkets;United States;;FALSE;F
+2800;Manufacturing;China;Beijing;Chemicals;China;;TRUE;M
+2800;Sports;United States;Las Vegas;Casinos, mixed martial arts;United States;;FALSE;M
+2800;Technology;Germany;Munich;Sensor technology;Germany;;FALSE;M
+2800;Diversified;India;Mumbai;Consumer goods;India;;FALSE;M
+2800;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2800;Real Estate;Malaysia;;Palm oil, property;Malaysia;;FALSE;M
+2800;Manufacturing;China;Beijing;Construction materials;China;;TRUE;M
+2800;Manufacturing;Russia;Moscow;Chemicals;Russia;;TRUE;M
+2800;Fashion & Retail;United States;Temple;Walmart, logistics;United States;;FALSE;M
+2800;Telecom;Lebanon;Beirut;Telecom;Lebanon;;TRUE;M
+2800;Telecom;Lebanon;Beirut;Telecom;Lebanon;;TRUE;M
+2800;Real Estate;Japan;Tokyo;Real estate;Japan;;FALSE;M
+2800;Diversified;India;Mumbai;Consumer goods;India;;FALSE;M
+2800;Diversified;France;Paris;Art collection;Greece;;FALSE;M
+2800;Technology;India;Bangalore;Software services;India;;TRUE;M
+2800;Fashion & Retail;Germany;Hamburg;Retail;Germany;;FALSE;M
+2800;Diversified;Germany;Berlin;Retail, real estate;Germany;;FALSE;F
+2800;Service;India;Bangalore;Education;India;;FALSE;M
+2800;Manufacturing;India;Mumbai;Adhesives;India;;FALSE;M
+2800;Technology;United States;Los Angeles;Facebook;United States;;TRUE;M
+2800;Healthcare;United States;New York;Drug distribution;United States;;FALSE;M
+2800;Media & Entertainment;China;Beijing;Video streaming;China;;TRUE;M
+2800;Manufacturing;China;Yingkou;Metals, coal;China;;TRUE;M
+2800;Manufacturing;Taiwan;;Petrochemicals;Taiwan;;FALSE;M
+2800;Logistics;Hong Kong;Hong Kong;Shipping;Hong Kong;;FALSE;M
+2800;Technology;United States;Los Angeles;EBay;United States;Quibi;TRUE;F
+2800;Manufacturing;Hong Kong;Hong Kong;Building materials;China;;TRUE;M
+2800;Healthcare;Hong Kong;Hong Kong;Pharmaceuticals;Hong Kong;;TRUE;M
+2800;Manufacturing;China;Shenzhen;Electrical equipment;China;;TRUE;M
+2700;Finance & Investments;Brazil;Rio de Janeiro;Investments;Brazil;;FALSE;M
+2700;Finance & Investments;Spain;Madrid;Investments;Spain;;FALSE;M
+2700;Diversified;Oman;Muscat;Diversified;Oman;;TRUE;M
+2700;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2700;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2700;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2700;Finance & Investments;Hong Kong;Hong Kong;Commodities;India;;TRUE;M
+2700;Healthcare;Germany;Munich;Biopharmaceuticals;Germany;;FALSE;F
+2700;Healthcare;United Kingdom;;Pharmaceuticals;France;;FALSE;F
+2700;Healthcare;United Kingdom;London;Pharmaceuticals;France;;FALSE;M
+2700;Manufacturing;Russia;Moscow;Metals, mining;Russia;;TRUE;M
+2700;Food & Beverage;Australia;Sydney;Fast food;Australia;;TRUE;M
+2700;Finance & Investments;United States;New York;Hedge funds;United States;;TRUE;M
+2700;Energy;United Kingdom;London;Oil & gas;Canada;;TRUE;M
+2700;Sports;United States;Las Vegas;Casinos, mixed martial arts;United States;;FALSE;M
+2700;Automotive;India;Pune;Automobiles;India;;FALSE;M
+2700;Finance & Investments;United Kingdom;London;Money management;Canada;;TRUE;M
+2700;Service;Spain;Esporles;Hotels;Spain;;FALSE;M
+2700;Metals & Mining;Singapore;Singapore;Mining;United States;Ivanhoe Mines Ltd.;TRUE;M
+2700;Metals & Mining;Russia;Moscow;Mining, steel;Russia;;TRUE;M
+2700;Diversified;India;Mumbai;Consumer goods;India;;FALSE;M
+2700;Service;United States;Belle Vernon;Building materials;United States;;FALSE;F
+2700;Finance & Investments;India;Bangalore;Financial services;India;;TRUE;M
+2700;Construction & Engineering;Russia;Moscow;Real estate;Russia;;TRUE;M
+2700;Real Estate;Hong Kong;Hong Kong;Real estate;China;;TRUE;M
+2700;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;M
+2700;Finance & Investments;Russia;St. Petersburg;Banking, insurance, media;Russia;;TRUE;M
+2700;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+2700;Real Estate;Hong Kong;Hong Kong;Real Estate;Hong Kong;;FALSE;M
+2700;Manufacturing;Germany;Gräfelfing;3D printing;Germany;;TRUE;M
+2700;Manufacturing;United States;Boston;Scientific equipment;United States;;FALSE;M
+2700;Real Estate;United Kingdom;London;Real estate;United Kingdom;;TRUE;F
+2700;Real Estate;Hong Kong;Hong Kong;Casinos;Hong Kong;;FALSE;F
+2700;Technology;China;Beijing;Software;China;;TRUE;M
+2700;Food & Beverage;China;Guangzhou;Nutritional supplements;China;;TRUE;M
+2700;Sports;United States;Greenwich;Entertainment;United States;;TRUE;M
+2700;Metals & Mining;South Africa;Johannesburg;Mining;South Africa;;TRUE;M
+2700;Telecom;Ireland;Dublin;Telecom;Ireland;;TRUE;M
+2700;Food & Beverage;;;Candy;Germany;;FALSE;M
+2700;Diversified;Sweden;Gothenburg;Diversified;Sweden;;FALSE;M
+2700;Technology;Japan;Tokyo;Copy machines, software;Japan;;FALSE;M
+2700;Fashion & Retail;Hong Kong;Hong Kong;Consumer goods;Canada;;TRUE;F
+2700;Diversified;India;Ahmedabad;Consumer goods;India;;TRUE;M
+2700;Real Estate;United States;Palo Alto;Real estate;United States;;TRUE;M
+2700;Metals & Mining;;;Pipe Manufacturing;Italy;;FALSE;M
+2700;Metals & Mining;;;Pipe Manufacturing;Italy;;FALSE;M
+2700;Healthcare;United States;Delray Beach;Biotech investing;United States;;TRUE;M
+2700;Technology;United States;Palo Alto;Facebook;United States;Meta Platforms;TRUE;M
+2700;Technology;United States;Atlanta;Technology services;United States;;TRUE;M
+2700;Media & Entertainment;;;Publishing;Germany;;FALSE;F
+2700;Manufacturing;India;Delhi;Agrochemicals;India;;FALSE;M
+2700;Logistics;Russia;Moscow;Real estate, airport;Russia;;TRUE;M
+2700;Technology;United States;Los Angeles;Snapchat;United States;Snap;TRUE;M
+2700;Service;United States;Mankato;Printing;United States;;TRUE;M
+2700;Media & Entertainment;United States;Pittsburgh;Movies, investments;United States;;TRUE;M
+2700;Metals & Mining;Kazakhstan;Nur-Sultan;Mining, banking, hotels;Kazakhstan;;TRUE;M
+2700;Food & Beverage;Norway;Kverva;Fish farming;Norway;;FALSE;M
+2700;Manufacturing;Hong Kong;Hong Kong;Furniture;Hong Kong;;TRUE;M
+2700;Healthcare;China;Danyang;Medical equipment;China;;TRUE;M
+2700;Healthcare;China;Chengdu;Pharmaceuticals;China;;TRUE;M
+2600;Real Estate;United States;New York;Real estate;United States;;TRUE;M
+2600;Finance & Investments;United States;New York;Biotech investing;United States;;TRUE;M
+2600;Finance & Investments;United States;New York;Investing;United States;;TRUE;M
+2600;Media & Entertainment;United States;San Francisco;Online games;United States;;TRUE;M
+2600;Food & Beverage;Brazil;Sao Paulo;Beef processing;Brazil;;FALSE;M
+2600;Food & Beverage;Brazil;Sao Paulo;Beef packing;Brazil;;FALSE;M
+2600;Media & Entertainment;Germany;Hamburg;Magazines, media;Germany;;FALSE;F
+2600;Manufacturing;Switzerland;Rheinfelden;Chemicals;Switzerland;;FALSE;F
+2600;Healthcare;China;Lianyungang;Pharmaceuticals;China;;TRUE;M
+2600;Finance & Investments;Singapore;Singapore;Investments;New Zealand;;FALSE;M
+2600;Manufacturing;China;Shenzhen;E-cigarettes;China;;TRUE;M
+2600;Service;Mexico;Mexico City;Airport management;Mexico;;TRUE;M
+2600;Energy;United States;Dallas;Pipelines;United States;;TRUE;M
+2600;Construction & Engineering;Spain;Madrid;Construction;Spain;;FALSE;F
+2600;Manufacturing;China;Changsha;Battery components;China;;TRUE;M
+2600;Food & Beverage;Ireland;Dublin;Campbell Soup;Ireland;;FALSE;M
+2600;Diversified;Sweden;Stockholm;Investments;Sweden;;FALSE;M
+2600;Diversified;Sweden;Stockholm;Investments;Sweden;;FALSE;M
+2600;Manufacturing;Australia;Melbourne;Manufacturing;Australia;;FALSE;F
+2600;Finance & Investments;United States;Phoenix;Berkshire Hathaway;United States;;TRUE;M
+2600;Healthcare;China;Hangzhou;Cosmetics;China;;TRUE;M
+2600;Construction & Engineering;China;Shantou;Construction;China;;TRUE;M
+2600;Service;Russia;Moscow;Airport;Russia;;TRUE;M
+2600;Finance & Investments;Spain;Madrid;Construction, investments;Spain;;FALSE;F
+2600;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+2600;Finance & Investments;United States;Lake Worth;Hedge funds;United States;;TRUE;M
+2600;Food & Beverage;France;Paris;Bakeries;France;;TRUE;M
+2600;Technology;Canada;Toronto;Software;Canada;;TRUE;M
+2600;Automotive;China;Beijing;Auto dealerships;China;;TRUE;M
+2600;Service;China;Beijing;Education;China;;TRUE;M
+2600;Finance & Investments;Singapore;Singapore;Investments;Singapore;;TRUE;M
+2600;Diversified;China;Hangzhou;Diversified;China;;FALSE;M
+2600;Service;Switzerland;Lugano;Travel;Switzerland;;TRUE;M
+2600;Finance & Investments;Netherlands;Vorden;Chemicals, investments;Netherlands;;TRUE;M
+2600;Food & Beverage;United States;Palm Beach;Investments;United States;;TRUE;M
+2600;Manufacturing;Germany;Duderstadt;Prosthetics;Germany;;FALSE;M
+2600;Fashion & Retail;India;Mumbai;Retailing;India;Nykaa;TRUE;F
+2600;Finance & Investments;United States;Los Angeles;Investments;Australia;;FALSE;M
+2600;Logistics;Russia;Moscow;Real estate, airport;Russia;;TRUE;M
+2600;Finance & Investments;United States;Nicasio;Hotels, investments;United States;;FALSE;M
+2600;Food & Beverage;United States;New York;Beer;United States;;FALSE;M
+2600;Technology;United States;Highland Park;Payroll software;United States;;TRUE;M
+2600;Automotive;Germany;Herzogenaurach;Auto parts;Germany;;FALSE;F
+2600;Healthcare;United States;Tarrytown;Pharmaceuticals;United States;Regeneron Pharmaceuticals;TRUE;M
+2600;Manufacturing;Germany;Hamburg;Chemicals;Germany;;FALSE;M
+2600;Energy;United States;Miami Beach;Liquefied natural gas;United States;;TRUE;M
+2600;Manufacturing;Germany;Munich;Brakes, investments;Germany;;FALSE;F
+2600;Food & Beverage;United States;Springdale;Food processing;United States;;FALSE;M
+2600;Manufacturing;Germany;Battenberg;Heating and cooling equipment;Germany;;FALSE;F
+2600;Construction & Engineering;;;Construction Vehicles;Germany;;FALSE;M
+2600;Construction & Engineering;;;Construction Vehicles;Germany;;FALSE;M
+2600;Technology;China;Shanghai;Electronics;China;;TRUE;M
+2600;Technology;China;Beijing;Security software;China;;TRUE;M
+2500;Food & Beverage;United States;Palm Beach;Slim-Fast;United States;S. Daniel Abraham Center for Middle East Peace;TRUE;M
+2500;Fashion & Retail;United States;Boston;Shoes;United States;;FALSE;M
+2500;Fashion & Retail;United States;Scarborough;Shoes;United States;;FALSE;F
+2500;Fashion & Retail;United States;Weston;Shoes;United States;;FALSE;M
+2500;Construction & Engineering;United States;San Francisco;Engineering, construction;United States;Bechtel Corp.;FALSE;M
+2500;Diversified;United Kingdom;London;Investments;Iceland;;TRUE;M
+2500;Food & Beverage;United States;Palm Beach;Liquor;Canada;;FALSE;M
+2500;Food & Beverage;India;Delhi;Consumer goods;India;;FALSE;M
+2500;Automotive;United States;Boston;Car dealerships;United States;;TRUE;M
+2500;Media & Entertainment;China;Beijing;Video streaming app;China;;TRUE;M
+2500;Food & Beverage;United States;Las Vegas;Fast food;United States;;TRUE;M
+2500;Food & Beverage;United States;Las Vegas;Fast food;United States;;TRUE;F
+2500;Finance & Investments;United States;Boca Raton;Hedge funds;United States;Omega Advisors, Inc.;TRUE;M
+2500;Manufacturing;India;Delhi;Cement;India;;FALSE;M
+2500;Food & Beverage;United States;Omaha;Beef processing;United States;;FALSE;M
+2500;Metals & Mining;Russia;Moscow;Aluminum, utilities;Russia;;TRUE;M
+2500;Technology;Cyprus;Paralimni;Software;Cyprus;;TRUE;M
+2500;Finance & Investments;United States;New York;Hedge funds;United States;Perceptive Advisors;TRUE;M
+2500;Manufacturing;India;Ahmedabad;Plastic pipes;India;;TRUE;M
+2500;Energy;Brazil;Curitiba;Fertilizer;Brazil;;TRUE;M
+2500;Technology;Canada;Westmount;Information technology;Canada;CGI Group;TRUE;M
+2500;Finance & Investments;United States;Beverly Hills;Private equity;United States;;TRUE;M
+2500;Fashion & Retail;United States;Knoxville;Gas stations;United States;;FALSE;M
+2500;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+2500;Media & Entertainment;United States;New York;Music;United States;;TRUE;M
+2500;Automotive;India;Pune;Engineering;India;;FALSE;M
+2500;Energy;Turkey;Istanbul;Energy;Turkey;;FALSE;M
+2500;Real Estate;United States;Franklin;Tobacco;United States;;TRUE;M
+2500;Construction & Engineering;Austria;Graz;Engineering;Austria;;TRUE;M
+2500;Manufacturing;China;Yanzhou;Paper & related products;China;;TRUE;M
+2500;Real Estate;Taiwan;Taipei;Real estate;Taiwan;;TRUE;M
+2500;Fashion & Retail;China;Shenzhen;Jewelry;China;;TRUE;F
+2500;Food & Beverage;Thailand;Bangkok;Coffee, shipping;Thailand;;FALSE;M
+2500;Healthcare;Switzerland;Burgdorf;Medical devices;Switzerland;;TRUE;M
+2500;Automotive;India;Delhi;Tractors;India;;FALSE;M
+2500;Technology;United States;Venice;Snapchat;United States;Snap;TRUE;M
+2500;Real Estate;Spain;Marbella;Shopping centers;Spain;;TRUE;M
+2500;Manufacturing;United States;Reno;Aerospace;United States;;TRUE;F
+2500;Finance & Investments;United States;San Francisco;Hotels, investments;United States;;FALSE;M
+2500;Technology;China;Shangyu;Semiconductors;China;;TRUE;F
+2500;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;M
+2500;Metals & Mining;China;Zhangjiagang;Steel production;China;;TRUE;M
+2500;Diversified;China;Shanghai;Online games, investments;China;;TRUE;M
+2500;Real Estate;United States;New York;Real estate;United States;;TRUE;M
+2500;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;M
+2500;Diversified;Philippines;Manila;Diversified;Philippines;;TRUE;M
+2500;Energy;Singapore;Singapore;Oil & gas, investments;India;;TRUE;M
+2500;Finance & Investments;United States;Winnetka;Investments;United States;;TRUE;M
+2500;Real Estate;United States;Palm Beach;Real estate;United States;;FALSE;M
+2500;Automotive;Germany;Neustadt an der Waldnaab;Auto repair;Germany;;TRUE;M
+2500;Fashion & Retail;China;Nanjing;Retail;United States;;TRUE;M
+2500;Media & Entertainment;United States;Montecito;TV shows;United States;;TRUE;F
+2500;Food & Beverage;China;Shenyang;Bakery chain;China;;TRUE;M
+2500;Metals & Mining;Singapore;;Cobalt;Taiwan;;TRUE;M
+2500;Fashion & Retail;China;Guangzhou;Retail;China;;TRUE;M
+2400;Technology;United States;Palo Alto;WhatsApp;United States;WhatsApp Inc.;TRUE;M
+2400;Automotive;United Arab Emirates;Dubai;Auto dealers, investments;United Arab Emirates;;FALSE;M
+2400;Energy;United States;Fort Worth;Oil, investments;United States;;FALSE;M
+2400;Media & Entertainment;South Africa;Cape Town;Media, investments;South Africa;;TRUE;M
+2400;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;M
+2400;Fashion & Retail;United States;Los Angeles;Herbal products;Taiwan;;TRUE;M
+2400;Fashion & Retail;Brazil;Sao Paulo;Retail;Brazil;;FALSE;M
+2400;Finance & Investments;Switzerland;Zug;Private equity;Switzerland;;TRUE;M
+2400;Fashion & Retail;United States;San Francisco;Gap;United States;Gap Inc.;TRUE;F
+2400;Finance & Investments;United States;Dallas;Banking;United States;Ford Financial Fund;TRUE;M
+2400;Healthcare;France;Paris;Pharmaceuticals;France;;TRUE;M
+2400;Finance & Investments;Switzerland;Zug;Private equity;Switzerland;;TRUE;M
+2400;Gambling & Casinos;Germany;Espelkamp;Gambling;Germany;;TRUE;M
+2400;Real Estate;Canada;North York;Real estate;Canada;SmartCentres;TRUE;M
+2400;Finance & Investments;United Kingdom;Bristol;Financial services;United Kingdom;;TRUE;M
+2400;Healthcare;China;Taizhou;Pharmaceuticals;China;;TRUE;M
+2400;Diversified;Singapore;Singapore;Diversified;Singapore;;FALSE;M
+2400;Manufacturing;United States;Fort Lauderdale;Valve manufacturing;United States;;FALSE;F
+2400;Media & Entertainment;India;Chennai;Media;India;;TRUE;M
+2400;Finance & Investments;United States;Berkeley;Cryptocurrency;United States;;TRUE;M
+2400;Manufacturing;United States;Reno;Aerospace;United States;;TRUE;M
+2400;Food & Beverage;China;foshan;Soy sauce;China;;TRUE;M
+2400;Metals & Mining;Switzerland;Zug;Commodities;United States;;TRUE;M
+2400;Finance & Investments;United States;Marin County;Hotels, investments;United States;;FALSE;M
+2400;Real Estate;China;Hangzhou;Real estate;China;;TRUE;M
+2400;Manufacturing;China;Hangzhou;Hand tools;China;;TRUE;M
+2400;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2400;Finance & Investments;Switzerland;Zurich;Financial services;Switzerland;;TRUE;M
+2400;Technology;Netherlands;Amsterdam;Payments software;Netherlands;;TRUE;M
+2400;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;M
+2400;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;M
+2400;Diversified;Philippines;Manila;Diversified;Philippines;;TRUE;M
+2400;Technology;Taiwan;Hsinchu;Semiconductors;Taiwan;;TRUE;M
+2400;Media & Entertainment;United States;Atlanta;Cable television;United States;;FALSE;M
+2400;Real Estate;United States;New York;Real estate;United States;;TRUE;M
+2400;Finance & Investments;Switzerland;Zug;Private equity;Switzerland;;TRUE;M
+2400;Technology;United States;Los Altos Hills;Yahoo;United States;Yahoo!;TRUE;M
+2400;Manufacturing;China;Wuxi;Machinery;China;;TRUE;M
+2400;Manufacturing;China;Jiaxing;Chemicals;China;;TRUE;M
+2400;Real Estate;United States;New York;Real estate, media;United States;Boston Properties;TRUE;M
+2300;Finance & Investments;United Kingdom;London;Hedge funds;Ireland;Egerton Capital;TRUE;M
+2300;Energy;United States;Fort Worth;Oil, investments;United States;;FALSE;M
+2300;Technology;United States;San Francisco;Sensor systems;United States;;TRUE;M
+2300;Technology;United States;San Francisco;Sensor systems;United States;;TRUE;M
+2300;Fashion & Retail;United States;Portland;Columbia Sportswear;United States;;TRUE;M
+2300;Technology;Taiwan;Hsinchu;Semiconductors;Taiwan;;TRUE;M
+2300;Real Estate;Taiwan;Taipei;Real estate;Taiwan;;TRUE;M
+2300;Finance & Investments;;;Investments;Taiwan;;TRUE;M
+2300;Manufacturing;Hong Kong;Hong Kong;Flavorings;Hong Kong;;TRUE;F
+2300;Technology;India;Bangalore;Software services;India;;TRUE;M
+2300;Diversified;United States;Hattiesburg;Tires, diversified;United States;;TRUE;M
+2300;Diversified;United States;Hattiesburg;Tires, diversified;United States;;TRUE;M
+2300;Technology;Sweden;Stockholm;Spotify;Sweden;Spotify;TRUE;M
+2300;Fashion & Retail;United States;San Francisco;Gap;United States;Pisces, Inc.;FALSE;M
+2300;Fashion & Retail;Germany;Berlin;Retail;Germany;;FALSE;M
+2300;Construction & Engineering;Turkey;Ankara;Construction;Turkey;;TRUE;M
+2300;Finance & Investments;United States;Chicago;Private equity;United States;;FALSE;M
+2300;Technology;China;Weifang;Manufacturing;China;;TRUE;M
+2300;Finance & Investments;United States;Los Angeles;Private equity;United States;Oaktree Capital Group LLC;TRUE;M
+2300;Technology;South Korea;Seoul;Online retailing;United States;Coupang;TRUE;M
+2300;Food & Beverage;China;Foshan;Soy sauce;China;;TRUE;M
+2300;Healthcare;Hong Kong;Hong Kong;Pharmaceuticals;China;;TRUE;M
+2300;Finance & Investments;Guernsey;St. Peter Port;Financial services;Guernsey;;TRUE;M
+2300;Fashion & Retail;;;Drugstores;Germany;;FALSE;M
+2300;Food & Beverage;China;Chengdu;Restaurants;China;;TRUE;F
+2300;Finance & Investments;China;Shenzhen;Financial services;China;;TRUE;M
+2300;Gambling & Casinos;Malaysia;Kuala Lumpur;Casinos;Malaysia;;FALSE;M
+2300;Food & Beverage;India;Mumbai;Consumer goods;India;;FALSE;M
+2300;Food & Beverage;United States;Brookville;Pet food;United States;;TRUE;M
+2300;Fashion & Retail;China;Urumqi;Retail;China;;TRUE;M
+2300;Food & Beverage;Russia;Moscow;Agriculture, land;Russia;;TRUE;M
+2300;Food & Beverage;United States;Ventura;Dole, real estate;United States;;TRUE;M
+2300;Fashion & Retail;United States;New York;Art collection;Monaco;;TRUE;M
+2300;Finance & Investments;Brazil;Manaus;Investments;Brazil;;TRUE;M
+2300;Food & Beverage;Switzerland;Lugano;Candy;Italy;;FALSE;M
+2300;Food & Beverage;Switzerland;Lugano;Candy;Italy;;FALSE;M
+2300;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;FALSE;M
+2300;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;FALSE;F
+2300;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;F
+2300;Food & Beverage;United States;Delray Beach;Liquor;United States;;FALSE;M
+2300;Finance & Investments;Switzerland;Hurden;Investments;Switzerland;;FALSE;M
+2300;Healthcare;Switzerland;Lugano;Medical devices;Switzerland;;FALSE;M
+2300;Real Estate;United States;Delray Beach;Real estate, grains;United States;;FALSE;M
+2300;Fashion & Retail;Hong Kong;Hong Kong;Fashion retail;Hong Kong;;TRUE;M
+2300;Technology;China;Hefei;Measuring instruments;China;;TRUE;M
+2300;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+2300;Technology;United States;Saratoga;Computer networking;United States;Arista;TRUE;F
+2300;Finance & Investments;United Kingdom;London;Real estate, investments;Switzerland;;FALSE;M
+2300;Real Estate;Australia;Sydney;Real estate;Australia;;TRUE;M
+2300;Manufacturing;China;Zhaoyuan;Tires;China;;TRUE;M
+2300;Real Estate;China;Shanghai;Real estate;China;;TRUE;M
+2300;Food & Beverage;Germany;Rechterfeld;Chicken processing;Germany;;TRUE;M
+2300;Fashion & Retail;China;Fuzhou;Pearlescent pigments;China;;TRUE;M
+2300;Manufacturing;China;Hangzhou;Construction, mining machinery;China;;TRUE;M
+2300;Healthcare;Liechtenstein;Vaduz;Dental materials;Liechtenstein;;FALSE;M
+2300;Manufacturing;China;Ningbo;Precision machinery;China;;TRUE;M
+2200;Real Estate;United States;Newport Beach;Real estate, investments;United States;Arnel & Affiliates;TRUE;M
+2200;Finance & Investments;United States;San Francisco;Cryptocurrency;United States;;TRUE;M
+2200;Energy;Russia;Moscow;Oil, mining;Russia;;TRUE;M
+2200;Diversified;Turkey;Ankara;Diversified;Turkey;;TRUE;M
+2200;Technology;United States;San Francisco;Business software;United States;Workday;TRUE;M
+2200;Fashion & Retail;Bahamas;Paradise Island;Retail, agribusiness;Australia;;TRUE;M
+2200;Finance & Investments;United States;Ormond Beach;Insurance;United States;;FALSE;M
+2200;Finance & Investments;China;Shanghai;Investments;China;;FALSE;F
+2200;Healthcare;China;Weihai;Pharmaceuticals;China;;TRUE;M
+2200;Finance & Investments;Ireland;Dublin;Finance;Ireland;;TRUE;M
+2200;Healthcare;China;Lianyungang;Pharmaceuticals;China;;TRUE;M
+2200;Fashion & Retail;United States;Los Angeles;Fashion;United States;;TRUE;M
+2200;Food & Beverage;China;Nanping;Poultry;China;;TRUE;M
+2200;Finance & Investments;United States;New York;Hedge funds;United States;TOMS Capital;TRUE;M
+2200;Finance & Investments;United States;Los Angeles;Investments;United States;DoubleLine Capital;TRUE;M
+2200;Healthcare;China;Tianjin;Pharmaceuticals;United States;;TRUE;M
+2200;Automotive;Israel;Tel Aviv;Automotive;Israel;;FALSE;M
+2200;Technology;Germany;Weinheim;SAP;Germany;;TRUE;M
+2200;Healthcare;Germany;Grebenhain;Hospitals;Germany;;TRUE;M
+2200;Real Estate;China;Shenzhen;Real estate;Canada;;TRUE;M
+2200;Finance & Investments;United States;Saint Petersburg;Finance;United States;;FALSE;M
+2200;Fashion & Retail;United States;San Juan Islands;Sunglasses;United States;;TRUE;M
+2200;Automotive;United States;Franklin;Damaged cars;United States;;TRUE;M
+2200;Fashion & Retail;China;Quanzhou;Sports apparel;China;;TRUE;M
+2200;Finance & Investments;United States;San Francisco;Cryptocurrency;United States;;TRUE;M
+2200;Fashion & Retail;Australia;Melbourne;Retail;Australia;;TRUE;M
+2200;Diversified;Singapore;Singapore;Conglomerate;Singapore;;TRUE;M
+2200;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+2200;Technology;United States;San Francisco;Software;Canada;;TRUE;M
+2200;Energy;United States;Miami;Investments;Cyprus;;TRUE;M
+2200;Finance & Investments;United States;New York;Private equity;United States;Oaktree Capital Group LLC;TRUE;M
+2200;Finance & Investments;United States;Los Angeles;Berkshire Hathaway;United States;Berkshire Hathaway Inc. (Cl A);TRUE;M
+2200;Real Estate;United States;Miami;WeWork;Israel;;TRUE;M
+2200;Diversified;Vietnam;Ho Chi Minh City;Airlines;Vietnam;Sovico Holdings;TRUE;F
+2200;Food & Beverage;China;Liuan;Beverages;China;;TRUE;M
+2200;Manufacturing;Australia;Melbourne;Manufacturing, investment;Australia;;FALSE;F
+2200;Technology;China;Beijing;Software;China;;TRUE;M
+2200;Technology;United States;Boston;Health IT;United States;;TRUE;M
+2200;Healthcare;India;Chennai;Healthcare;India;;TRUE;M
+2200;Sports;United States;Chicago;Sports teams;United States;;TRUE;M
+2200;Technology;United States;Edmond;Payroll processing;United States;;TRUE;M
+2200;Fashion & Retail;Switzerland;Geneva;Jewelry;Switzerland;;TRUE;M
+2200;Healthcare;United States;El Cerrito;Biotech;United States;;TRUE;F
+2200;Technology;Canada;;Software;Canada;;TRUE;M
+2200;Technology;United States;Menlo Park;Venture capital, Google;United States;Sherpalo Ventures;TRUE;M
+2200;Real Estate;United States;Aventura;Real estate;United States;;FALSE;M
+2200;Technology;United States;East Lyme;Software;United States;;TRUE;M
+2200;Finance & Investments;United States;New York;Hedge funds;United States;Talpion Fund Management;TRUE;M
+2200;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;M
+2200;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;F
+2200;Real Estate;Japan;Tokyo;Real estate;Japan;;TRUE;M
+2200;Manufacturing;China;Suzhou;Textiles, petrochemicals;China;;TRUE;M
+2200;Technology;China;Shanghai;Software;Hong Kong;;TRUE;M
+2200;Fashion & Retail;Sweden;Stockholm;H&M;Sweden;;FALSE;F
+2200;Healthcare;United Arab Emirates;Abu Dhabi;Healthcare;India;;FALSE;M
+2200;Technology;India;Chennai;Business software;India;;FALSE;F
+2200;Fashion & Retail;China;Quanzhou;Sports apparel;China;;TRUE;M
+2200;Service;China;Shanghai;Budget airline;China;;TRUE;M
+2200;Food & Beverage;Israel;;Coca-Cola Israel;Israel;;FALSE;M
+2200;Energy;China;Ningde;Batteries;China;;TRUE;M
+2200;Food & Beverage;China;Guangzhou;Agribusiness;China;;TRUE;M
+2200;Manufacturing;Hong Kong;Hong Kong;Electronics;Hong Kong;;TRUE;M
+2200;Logistics;China;Shanghai;Package delivery;China;Shanghai YTO Express (Logistics);TRUE;M
+2200;Finance & Investments;United States;Los Altos;Investments;Israel;;TRUE;M
+2200;Manufacturing;Canada;Windsor;Steel;Canada;;FALSE;M
+2200;Energy;China;Ningde;Batteries;China;;TRUE;M
+2100;Metals & Mining;United Kingdom;London;Mining, commodities;United Kingdom;;TRUE;M
+2100;Food & Beverage;United States;Grants Pass;Coffee;United States;;TRUE;M
+2100;Construction & Engineering;France;Paris;Construction, media;France;;FALSE;M
+2100;Construction & Engineering;;;Construction, media;France;;FALSE;M
+2100;Gambling & Casinos;United States;Las Vegas;Casinos, banking;United States;;TRUE;M
+2100;Food & Beverage;India;Delhi;Consumer goods;India;;FALSE;M
+2100;Manufacturing;China;Hangzhou;Manufacturing;China;;TRUE;M
+2100;Technology;Taiwan;Taipei;Electronics;Taiwan;;TRUE;M
+2100;Technology;China;Beijing;Software;China;;FALSE;M
+2100;Energy;Hong Kong;Hong Kong;Oil & gas;Hong Kong;;TRUE;M
+2100;Healthcare;Switzerland;Zurich;Hearing aids;Switzerland;;TRUE;M
+2100;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;TRUE;M
+2100;Technology;Germany;Montabaur;Internet service provider;Germany;;TRUE;M
+2100;Diversified;United Kingdom;London;Animal health, investments;Bulgaria;;TRUE;M
+2100;Diversified;United Kingdom;London;Animal health, investments;Bulgaria;;TRUE;M
+2100;Real Estate;Australia;Surfers Paradise;Real estate;Australia;;TRUE;M
+2100;Energy;United States;El Paso;Oil refining;United States;Western Refining;TRUE;M
+2100;Fashion & Retail;Italy;Milan;Luxury goods;Italy;;TRUE;M
+2100;Manufacturing;China;Huzhou;Steel;China;;TRUE;M
+2100;Energy;United States;San Francisco;Getty Oil;United States;Ann & Gordon Getty Foundation;FALSE;M
+2100;Energy;United States;Naples;Space, energy;United States;;TRUE;M
+2100;Healthcare;United States;Durham;Clinical trials;United Kingdom;;TRUE;M
+2100;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2100;Diversified;India;Kolkata;Diversified;India;;FALSE;M
+2100;Real Estate;United States;New York;Real estate;United States;;FALSE;F
+2100;Fashion & Retail;Norway;Oslo;Consumer goods;Norway;;TRUE;M
+2100;Real Estate;Switzerland;Geneva;Real estate, investments;Lebanon;;FALSE;M
+2100;Fashion & Retail;Spain;Valencia;Supermarkets;Spain;;FALSE;F
+2100;Diversified;Taiwan;Taipei;Diversified;Taiwan;;FALSE;M
+2100;Manufacturing;China;Suzhou;Machinery;China;;TRUE;M
+2100;Technology;United States;Easton;Payment processing;United States;;TRUE;M
+2100;Technology;Russia;Moscow;Software;Russia;;TRUE;M
+2100;Fashion & Retail;Cyprus;Limassol;Retail;Russia;;TRUE;M
+2100;Food & Beverage;Russia;Moscow;Retail;Russia;;TRUE;M
+2100;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+2100;Manufacturing;Hong Kong;Hong Kong;Smartphone screens;Hong Kong;Biel Crystal;TRUE;F
+2100;Finance & Investments;United States;New York;Hedge funds;United States;Avenue Capital Group;TRUE;M
+2100;Finance & Investments;France;Lyon;Accounting services;France;;TRUE;M
+2100;Sports;United States;Bethesda;Sports teams;United States;;TRUE;M
+2100;Real Estate;Taiwan;Taipei;Real estate;Taiwan;;FALSE;F
+2100;Manufacturing;China;Shenzhen;Power supply equipment;China;;TRUE;M
+2100;Fashion & Retail;Cyprus;Paphos;Retail;Russia;;TRUE;M
+2100;Food & Beverage;United States;New York;Snack bars;United States;;TRUE;M
+2100;Technology;China;Beijing;Internet search;China;;TRUE;F
+2100;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+2100;Fashion & Retail;India;Mumbai;Footwear;India;;FALSE;M
+2100;Diversified;Sweden;Stockholm;Investments;Sweden;;FALSE;F
+2100;Healthcare;India;Bangalore;Biopharmaceuticals;India;Biocon;TRUE;F
+2100;Automotive;India;Gurgaon;Auto parts;India;;FALSE;M
+2100;Technology;China;Beijing;E-commerce;China;;TRUE;M
+2100;Manufacturing;Ireland;Kingscourt;Building materials;Ireland;;TRUE;M
+2100;Finance & Investments;Russia;Moscow;Metals, banking, fertilizers;Russia;;TRUE;M
+2100;Manufacturing;China;Suzhou;Appliances;China;;TRUE;M
+2100;Construction & Engineering;Spain;Madrid;Construction;Spain;;TRUE;M
+2100;Metals & Mining;Ukraine;Kiev;Steel pipes, diversified;Ukraine;;TRUE;M
+2100;Technology;United States;;E-commerce;United States;;TRUE;M
+2100;Technology;India;Bangalore;Education technology;India;;TRUE;M
+2100;Construction & Engineering;India;Hyderabad;Infrastructure;India;;TRUE;M
+2100;Fashion & Retail;United States;Los Angeles;Fast fashion;United States;;TRUE;M
+2100;Healthcare;China;Beijing;Medical cosmetics;China;;TRUE;M
+2100;Finance & Investments;United Arab Emirates;Dubai;Investments;Thailand;;TRUE;M
+2100;Food & Beverage;Singapore;Singapore;Restaurants;Singapore;;TRUE;F
+2100;Healthcare;United States;Chestnut Hill;Biotech;United States;;TRUE;M
+2100;Automotive;India;Chennai;Two-wheelers;India;;FALSE;M
+2100;Fashion & Retail;United States;Sewickley;Dick's Sporting Goods;United States;Dick's Sporting Goods;TRUE;M
+2100;Food & Beverage;China;Yantai;Edible oil;China;;TRUE;M
+2100;Finance & Investments;Russia;Moscow;Real estate;Russia;;TRUE;M
+2100;Fashion & Retail;Germany;Krefeld;Pet food;Germany;;TRUE;M
+2100;Food & Beverage;United States;Fayetteville;Food processing;United States;;FALSE;F
+2100;Food & Beverage;United States;Norwich;Greek yogurt;Turkey;Chobani;TRUE;M
+2100;Construction & Engineering;China;Beijing;Furniture retailing;China;;TRUE;M
+2100;Food & Beverage;China;Tianjin;Food, beverages;Taiwan;;TRUE;M
+2100;Food & Beverage;Taiwan;Taipei;Food, beverages;Taiwan;;TRUE;M
+2100;Food & Beverage;China;Shanghai;Food, beverages;Taiwan;;TRUE;M
+2100;Food & Beverage;Taiwan;Taipei;Food, beverages;Taiwan;;TRUE;M
+2100;Gambling & Casinos;United States;Las Vegas;Casinos, hotels;United States;Wynn Las Vegas, LLC;TRUE;F
+2100;Automotive;China;Ningbo;Auto parts;China;;TRUE;M
+2100;Fashion & Retail;Hong Kong;Hong Kong;Retail;Hong Kong;;TRUE;M
+2100;Manufacturing;China;Ningbo;Glass;China;;TRUE;M
+2100;Manufacturing;China;Suzhou;Metal processing;China;;TRUE;M
+2100;Manufacturing;China;Shanghai;Chemicals;Canada;;TRUE;F
+2100;Healthcare;China;Xi'an;Pharmaceuticals;Singapore;;FALSE;M
+2000;Construction & Engineering;India;Pune;Engineering;India;;FALSE;F
+2000;Fashion & Retail;United Kingdom;London;Retail, investments;Egypt;;TRUE;M
+2000;Technology;United Kingdom;London;Online dating;United Kingdom;;TRUE;M
+2000;Finance & Investments;Turks and Caicos Islands;Turks and Caicos Islands;Security;United Kingdom;;TRUE;M
+2000;Technology;Czech Republic;Prague;Software;Czech Republic;;TRUE;M
+2000;Healthcare;Germany;;Pharmaceuticals;Germany;;TRUE;M
+2000;Manufacturing;China;Shangyu;Semiconductors;China;;TRUE;M
+2000;Manufacturing;China;Shanghai;Stationery;China;;TRUE;M
+2000;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+2000;Diversified;China;Hangzhou;Energy, chemicals;China;;TRUE;M
+2000;Food & Beverage;Monaco;Monaco;Nutella, chocolates;Italy;;FALSE;F
+2000;Diversified;United States;Houston;Low-cost airlines;United States;;TRUE;M
+2000;Healthcare;Monaco;Monaco;Pharmaceuticals;Switzerland;;FALSE;M
+2000;Real Estate;United States;Rhinebeck;Real estate;United States;;FALSE;F
+2000;Metals & Mining;United Kingdom;London;Mining;Australia;;FALSE;M
+2000;Technology;China;Hangzhou;Technology;China;;TRUE;M
+2000;Manufacturing;Hong Kong;Hong Kong;Silicon;Hong Kong;;TRUE;M
+2000;Media & Entertainment;China;Hangzhou;Amusement parks;China;;TRUE;M
+2000;Finance & Investments;United States;Fort Lauderdale;Finance;United States;;TRUE;M
+2000;Sports;United States;Jupiter;Charlotte Hornets, endorsements;United States;;TRUE;M
+2000;Real Estate;United States;New York;Real estate;United States;;FALSE;F
+2000;Technology;Israel;Tel Aviv;Software, investments;Israel;;TRUE;M
+2000;Healthcare;Finland;Helsinki;Dental products;Finland;;TRUE;M
+2000;Technology;Hong Kong;Hong Kong;E-commerce;Hong Kong;;TRUE;M
+2000;Technology;China;Fuzhou;Semiconductor;China;;TRUE;M
+2000;Technology;China;Beijing;TikTok;China;;TRUE;M
+2000;Manufacturing;China;Foshan;Appliances;China;;FALSE;M
+2000;Energy;China;Linyi;Energy, real estate;China;;TRUE;M
+2000;Manufacturing;Thailand;Bangkok;Petrochemicals;India;;FALSE;M
+2000;Real Estate;Canada;Ottawa;Real estate;Canada;;TRUE;M
+2000;Finance & Investments;Israel;Tel Aviv;Investments;Russia;;TRUE;M
+2000;Telecom;United States;Hunts Point;Telecom;United States;;FALSE;M
+2000;Manufacturing;China;Wenzhou;Power equipment;China;;TRUE;M
+2000;Service;China;Shanghai;Logistics;China;;TRUE;M
+2000;Finance & Investments;Singapore;Singapore;Investments;Singapore;;FALSE;M
+2000;Metals & Mining;Australia;Brisbane;Mining;Australia;;TRUE;M
+2000;Technology;United States;Park City;Cybersecurity;United States;;TRUE;M
+2000;Service;United States;Missoula;Hotels, investments;United States;;FALSE;F
+2000;Construction & Engineering;India;Hyderabad;Infrastructure;India;;TRUE;M
+2000;Metals & Mining;Australia;Brisbane;Mining;Australia;;FALSE;F
+2000;Metals & Mining;Australia;Sydney;Mining;Australia;;FALSE;F
+2000;Finance & Investments;United States;Sioux Falls;Banking, credit cards;United States;;TRUE;M
+2000;Manufacturing;India;Ahmedabad;Engineering;India;;TRUE;M
+2000;Media & Entertainment;Poland;Warsaw;TV broadcasting;Poland;;TRUE;M
+2000;Manufacturing;;;Defense Contracting;Czech Republic;;FALSE;M
+2000;Fashion & Retail;Germany;Darmstadt;Cosmetics;Germany;;FALSE;F
+2000;Technology;Indonesia;Jakarta;Data centers;Indonesia;;TRUE;M
+2000;Sports;Canada;Toronto;Sports;Canada;;TRUE;M
+2000;Finance & Investments;Thailand;Bangkok;Investments;Thailand;;TRUE;M
+2000;Finance & Investments;Romania;Bucharest;Banking, insurance;Romania;;TRUE;M
+2000;Metals & Mining;United States;New York;Mining;Australia;;FALSE;F
+2000;Manufacturing;United States;Ypsilanti;Plastics;United States;;TRUE;M
+2000;Fashion & Retail;;;E-commerce;Czech Republic;;TRUE;M
+2000;Technology;China;Shenzhen;Touch screens;China;;TRUE;M
+2000;Technology;China;Beijing;Semiconductor;China;;TRUE;M
+2000;Manufacturing;China;Chaozhou;Electronics components;China;;TRUE;M
+2000;Technology;China;Beijing;Software;China;;TRUE;M
+2000;Energy;China;Shenzhen;Solar energy equipment;China;;TRUE;M
+2000;Healthcare;China;Shanghai;Healthcare;China;;TRUE;M
+1900;Diversified;Chile;Santiago;Forestry, mining;Chile;;FALSE;M
+1900;Energy;Finland;Helsinki;Oil & gas;Finland;;TRUE;M
+1900;Sports;United States;New York;Sports;United States;;TRUE;M
+1900;Finance & Investments;Brazil;Rio de Janeiro;Banking;Brazil;;TRUE;M
+1900;Energy;Russia;Irkutsk;Oil, gas;Russia;;TRUE;M
+1900;Fashion & Retail;Italy;Rome;Luxury goods;Italy;;FALSE;M
+1900;Fashion & Retail;United States;San Antonio;Supermarkets;United States;;FALSE;M
+1900;Fashion & Retail;;;Supermarkets;United States;;FALSE;M
+1900;Fashion & Retail;China;Shanghai;Furniture retailing;China;;TRUE;M
+1900;Manufacturing;China;Shanghai;Stationery;China;;TRUE;M
+1900;Energy;China;Ningde;Batteries;China;;TRUE;F
+1900;Technology;China;Xiamen;Communication equipment;China;;TRUE;M
+1900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+1900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+1900;Food & Beverage;United States;Old Lyme;Cargill;United States;;FALSE;F
+1900;Food & Beverage;Spain;Madrid;Coca-Cola bottler;Spain;;FALSE;F
+1900;Sports;United States;Henderson;Las Vegas Raiders;United States;;FALSE;M
+1900;Finance & Investments;United States;North Salem;Hedge funds;United States;York Capital Management;TRUE;M
+1900;Healthcare;China;Zhuhai;Medical devices;China;;TRUE;M
+1900;Automotive;Germany;Landshut;Auto parts;Germany;;FALSE;M
+1900;Diversified;Turkey;Istanbul;Pharmaceuticals, diversified;Turkey;;FALSE;M
+1900;Diversified;Turkey;Istanbul;Pharmaceuticals, diversified;Turkey;;FALSE;M
+1900;Diversified;Argentina;Buenos Aires;Airports, investments;Argentina;;TRUE;M
+1900;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+1900;Fashion & Retail;China;Kunming;Cosmetics;Canada;;TRUE;M
+1900;Manufacturing;India;Delhi;Electrical equipment;India;;FALSE;M
+1900;Diversified;Switzerland;Wollerau;Conglomerate;Norway;;FALSE;F
+1900;Finance & Investments;Mexico;Mexico City;Banking, investments;Mexico;;TRUE;M
+1900;Technology;United States;Palo Alto;LinkedIn;United States;Greylock;TRUE;M
+1900;Manufacturing;China;Jinhua;Chemicals;China;;TRUE;M
+1900;Real Estate;United States;Jackson;Storage facilities;United States;;FALSE;M
+1900;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+1900;Finance & Investments;United States;Naples;Private equity;United States;;TRUE;M
+1900;Finance & Investments;United States;Santa Monica;Investments;United States;;TRUE;M
+1900;Finance & Investments;United Kingdom;London;Diversified;Poland;;FALSE;F
+1900;Finance & Investments;United States;Miami Beach;Sears;United States;ESL Investments Inc.;TRUE;M
+1900;Diversified;Thailand;Bangkok;Diversified;Thailand;;FALSE;M
+1900;Food & Beverage;United States;Indian Hills;Cheese;United States;Leprino Foods;FALSE;M
+1900;Real Estate;United States;Monsey;Real estate;United States;;TRUE;M
+1900;Real Estate;China;Beijing;Real estate;Hong Kong;;TRUE;M
+1900;Food & Beverage;United States;Los Angeles;Cargill;United States;;FALSE;F
+1900;Telecom;United Kingdom;London;Telecom;Zimbabwe;;TRUE;M
+1900;Fashion & Retail;Hong Kong;Hong Kong;Retail;United Kingdom;;TRUE;M
+1900;Technology;United Kingdom;St. Brelade, Jersey;Price comparison website;United Kingdom;;TRUE;M
+1900;Food & Beverage;Japan;Tokyo;Restaurants;Japan;;TRUE;M
+1900;Manufacturing;India;Mumbai;Adhesives;India;;FALSE;M
+1900;Manufacturing;India;Mumbai;Adhesives;India;;FALSE;M
+1900;Finance & Investments;United States;Chicago;Hotels, investments;United States;Tawani Enterprises;FALSE;F
+1900;Fashion & Retail;India;Chennai;Jewellery;India;;TRUE;M
+1900;Manufacturing;China;Hangzhou;Kitchen appliances;China;;TRUE;M
+1900;Finance & Investments;United States;Alpine;Hedge funds;United States;Glenview Capital Management;TRUE;M
+1900;Construction & Engineering;United States;Palm Beach;Homebuilding, NFL team;United States;;TRUE;M
+1900;Energy;China;Hangzhou;Photovoltaics;China;;TRUE;M
+1900;Manufacturing;China;Hangzhou;Diversified;China;;TRUE;M
+1900;Technology;China;Jiaxing;Semiconductors;United States;;TRUE;M
+1900;Manufacturing;Taiwan;Tainan;Plastics;Taiwan;;TRUE;M
+1900;Finance & Investments;Indonesia;Surabaya;Investments;Indonesia;;TRUE;M
+1900;Food & Beverage;United States;Greenwich;Cargill;United States;;FALSE;F
+1900;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;F
+1900;Manufacturing;Indonesia;Surabaya;Paints;Indonesia;;FALSE;M
+1900;Construction & Engineering;Turkey;Istanbul;Construction;Turkey;;FALSE;M
+1900;Fashion & Retail;Japan;Fukuoka;Drugstores;Japan;;TRUE;M
+1900;Energy;Greece;Athens;Oil and gas;Greece;;TRUE;M
+1900;Real Estate;India;Bangalore;Real estate;India;;FALSE;M
+1900;Real Estate;China;Zhengzhou;Real estate;China;;TRUE;M
+1900;Fashion & Retail;China;Zhengzhou;Retail;Taiwan;;TRUE;M
+1900;Food & Beverage;United States;Hobe Sound;Campbell Soup;United States;Campbell Soup;FALSE;F
+1900;Healthcare;China;Nanjing;Pharmaceuticals;China;;FALSE;F
+1900;Manufacturing;China;Hangzhou;Chemicals, logistics;China;Transfar Group;TRUE;M
+1900;Finance & Investments;Israel;;Precious metals, real estate;Russia;;TRUE;M
+1900;Diversified;China;Beijing;Oil, banking;China;;TRUE;M
+1900;Manufacturing;United States;Charleston;Chemicals;United States;;FALSE;F
+1800;Technology;Australia;Sydney;Software;Australia;;TRUE;M
+1800;Fashion & Retail;United Kingdom;;Home furnishings;United Kingdom;;FALSE;M
+1800;Diversified;Qatar;Doha;Hotels, diversified;Qatar;;TRUE;M
+1800;Sports;United States;Houston;Sports team;United States;;TRUE;M
+1800;Real Estate;Japan;Tokyo;Home sales;Japan;;TRUE;M
+1800;Fashion & Retail;Italy;Treviso;Fashion retail, investments;Italy;;FALSE;F
+1800;Technology;India;Delhi;Internet;India;;TRUE;M
+1800;Finance & Investments;United States;New York;Hedge funds;United States;;TRUE;M
+1800;Energy;Uruguay;Manantiales;Oil & gas;Argentina;;FALSE;M
+1800;Food & Beverage;India;Chennai;Dairy;India;;TRUE;M
+1800;Diversified;Nepal;Kathmandu;Diversified;Nepal;;FALSE;M
+1800;Technology;United States;San Francisco;Software;United States;;TRUE;M
+1800;Technology;United States;Cupertino;Apple;United States;Apple;TRUE;M
+1800;Finance & Investments;United Kingdom;London;Finance;United Kingdom;;TRUE;M
+1800;Media & Entertainment;Netherlands;Blaricum;TV programs;Netherlands;;TRUE;M
+1800;Construction & Engineering;Spain;Madrid;Construction;Spain;;FALSE;M
+1800;Technology;China;Beijing;Software;China;;TRUE;M
+1800;Healthcare;United States;Clearwater;Pharmaceuticals;United States;;TRUE;M
+1800;Sports;United States;Daytona Beach;Nascar, racing;United States;;FALSE;M
+1800;Healthcare;United States;Miami Beach;Pharmaceuticals;United States;;TRUE;M
+1800;Finance & Investments;Brazil;Sao Paulo;Insurance;Brazil;;FALSE;M
+1800;Food & Beverage;United States;San Antonio;Salsa;United States;Silver Ventures;FALSE;M
+1800;Healthcare;India;Mumbai;Pharmaceuticals;India;;FALSE;M
+1800;Finance & Investments;United States;New York;Hedge funds;United States;King Street Capital Management;TRUE;M
+1800;Real Estate;China;Hangzhou;Real estate;China;;TRUE;M
+1800;Automotive;China;Shanghai;Auto parts;China;;TRUE;M
+1800;Healthcare;China;Changchun;Pharmaceuticals;China;;TRUE;M
+1800;Healthcare;China;Beijing;Medical equipment;China;;TRUE;M
+1800;Technology;Cyprus;Peyia;Software;Cyprus;;TRUE;M
+1800;Diversified;South Korea;Seoul;LG;South Korea;;FALSE;M
+1800;Technology;United States;Paradise Valley;Security software;United States;;TRUE;M
+1800;Sports;United States;Atherton;Golden State Warriors;United States;;TRUE;M
+1800;Technology;United States;Stanford;Blockchain, technology;United States;;TRUE;M
+1800;Diversified;Sweden;Stockholm;Investments;Sweden;;FALSE;F
+1800;Metals & Mining;China;Panzhihua;Mining;China;;TRUE;M
+1800;Media & Entertainment;Brazil;Rio de Janeiro;Media;Brazil;;FALSE;M
+1800;Media & Entertainment;Brazil;Rio de Janeiro;Media;Brazil;;FALSE;M
+1800;Media & Entertainment;Brazil;Rio de Janeiro;Media;Brazil;;FALSE;M
+1800;Healthcare;United States;Los Angeles;Medical patents;United States;;TRUE;M
+1800;Technology;Canada;Montreal;Electronics components;Canada;Future Electronics;TRUE;M
+1800;Real Estate;Sweden;Stockholm;Real estate;Sweden;;TRUE;M
+1800;Technology;Netherlands;Amsterdam;Fintech;Netherlands;;TRUE;M
+1800;Real Estate;India;Mumbai;Real estate;India;;TRUE;M
+1800;Finance & Investments;Monaco;Monte Carlo;Art;Monaco;;FALSE;M
+1800;Manufacturing;India;Nagpur;Industrial explosives;India;;TRUE;M
+1800;Food & Beverage;;;Candy;Germany;;FALSE;F
+1800;Diversified;Turkey;Ankara;Diversified;Turkey;;TRUE;M
+1800;Technology;China;Shenzhen;Electronics;China;;TRUE;M
+1800;Media & Entertainment;Canada;Montreal;Media;Canada;;FALSE;M
+1800;Finance & Investments;United States;New York;Leveraged buyouts;United States;;TRUE;M
+1800;Technology;United States;New York;Cloud computing;France;Datadog;TRUE;M
+1800;Media & Entertainment;Thailand;Bangkok;Media, real estate;Thailand;;FALSE;M
+1800;Manufacturing;India;Mumbai;Chemicals;India;;TRUE;M
+1800;Technology;Germany;Gaildorf;Information technology;Germany;;FALSE;F
+1800;Metals & Mining;Russia;Moscow;Steel pipes;Russia;;TRUE;M
+1800;Food & Beverage;China;Beijing;Agribusiness;China;;TRUE;M
+1800;Energy;China;Yixing;Chemical;China;;TRUE;M
+1800;Technology;India;Bangalore;Software services;India;;TRUE;M
+1800;Fashion & Retail;South Korea;Seoul;Cosmetics;South Korea;Amorepacific Corp. (New);FALSE;M
+1800;Food & Beverage;Indonesia;;Dairy & consumer products;Indonesia;;TRUE;M
+1800;Manufacturing;China;Jinjiang;Hygiene products;China;;TRUE;M
+1800;Logistics;Hong Kong;Hong Kong;Logistics;United States;;TRUE;M
+1800;Manufacturing;Vietnam;Hanoi;Steel;Vietnam;;TRUE;M
+1800;Technology;United States;Brookline;Software;United States;;TRUE;M
+1800;Finance & Investments;United States;Malibu;E-cigarettes;United States;;TRUE;M
+1800;Technology;Netherlands;Amsterdam;Payments software;Netherlands;;TRUE;M
+1800;Manufacturing;Germany;Allendorf;Heating and cooling equipment;Germany;;FALSE;M
+1800;Technology;United States;San Francisco;Blockchain technology;United States;;TRUE;M
+1800;Media & Entertainment;United States;Dallas;Online media;United States;;TRUE;M
+1800;Technology;United States;San Francisco;Twitter;United States;Twitter;TRUE;M
+1800;Metals & Mining;Australia;Sydney;Investments;Malaysia;;FALSE;M
+1800;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+1800;Energy;China;Ningde;Batteries;China;;TRUE;M
+1800;Healthcare;United States;Wilson;Medical equipment;United States;;FALSE;F
+1800;Real Estate;China;Wuhan;Real estate;China;;TRUE;M
+1800;Fashion & Retail;Japan;;cosmetics;Japan;;TRUE;M
+1800;Manufacturing;United States;Bloomfield Hills;Steel;Canada;;FALSE;M
+1800;Real Estate;China;Guangzhou;Real estate;China;;TRUE;M
+1700;Sports;United States;Nashville;Tennessee Titans;United States;Tennessee Titans;FALSE;F
+1700;Finance & Investments;United States;Atherton;Venture capital investing;United States;Andreessen Horowitz;TRUE;M
+1700;Metals & Mining;Italy;Cremona;Steel;Italy;;TRUE;M
+1700;Real Estate;Netherlands;Amsterdam;Real estate;Netherlands;;FALSE;M
+1700;Media & Entertainment;South Korea;Seoul;Entertainment;South Korea;;TRUE;M
+1700;Finance & Investments;United States;Austin;Mutual funds;United States;Dimensional Fund Advisors;TRUE;M
+1700;Technology;United States;Austin;Venture capital;United States;Breyer Capital;TRUE;M
+1700;Manufacturing;China;Guangzhou;Household chemicals;China;;TRUE;M
+1700;Manufacturing;Netherlands;Gorinchem;Shipbuilding;Netherlands;;FALSE;M
+1700;Food & Beverage;United States;Delray Beach;Energy drink;United States;;TRUE;M
+1700;Finance & Investments;Czech Republic;Prague;Investments;Czech Republic;;TRUE;M
+1700;Healthcare;United States;Annapolis;Health IT;United States;;TRUE;M
+1700;Finance & Investments;Italy;Turin;FIAT, investments;Italy;;FALSE;M
+1700;Automotive;France;Paris;Motorhomes, RVs;France;;FALSE;M
+1700;Media & Entertainment;Japan;Tokyo;Video games;Japan;;TRUE;M
+1700;Finance & Investments;United States;Greenwich;Money management;United States;;TRUE;M
+1700;Finance & Investments;Switzerland;Zurich;Insurance;Germany;;FALSE;M
+1700;Real Estate;United States;Fort Worth;Real estate;United States;;TRUE;M
+1700;Fashion & Retail;Brazil;Porto Alegre;Shoes;Brazil;;TRUE;M
+1700;Fashion & Retail;Australia;Sydney;Retail;Australia;;TRUE;M
+1700;Technology;China;Shenzhen;Software;China;;TRUE;M
+1700;Real Estate;Thailand;Bangkok;Hotels;Thailand;;TRUE;M
+1700;Finance & Investments;Canada;Toronto;Real estate finance;Canada;;TRUE;M
+1700;Manufacturing;Finland;Helsinki;Elevators, escalators;Finland;;FALSE;M
+1700;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+1700;Finance & Investments;Canada;Toronto;Insurance, investments;Canada;;TRUE;M
+1700;Manufacturing;India;Delhi;Chemicals;India;;FALSE;M
+1700;Real Estate;Thailand;Bangkok;Transportation;Thailand;;TRUE;M
+1700;Healthcare;United States;La Jolla;Biotech;United States;Samumed;TRUE;M
+1700;Fashion & Retail;South Korea;Seoul;Apparel;South Korea;;TRUE;M
+1700;Media & Entertainment;;;Online gaming;South Korea;;FALSE;F
+1700;Media & Entertainment;;;Online gaming;South Korea;;FALSE;F
+1700;Fashion & Retail;Turkey;Istanbul;Fashion retail;Turkey;;TRUE;M
+1700;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+1700;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+1700;Logistics;China;Shanghai;Express delivery;China;;TRUE;M
+1700;Diversified;Malaysia;Tawau, Sabah;Palm oil, property;Malaysia;;FALSE;M
+1700;Technology;United States;New York;Cloud computing;United States;Datadog;TRUE;M
+1700;Healthcare;China;Lanzhou;Pharmaceuticals;China;;TRUE;F
+1700;Healthcare;United States;San Antonio;Medical products;United States;;TRUE;M
+1700;Food & Beverage;China;Foshan;Soy sauce;China;;TRUE;F
+1700;Food & Beverage;United States;Key Largo;Sandwich chain;United States;;TRUE;M
+1700;Metals & Mining;China;Bayannur;Iron ore mining;China;;TRUE;M
+1700;Technology;China;Shenzhen;Drones;China;;TRUE;M
+1700;Technology;United States;Newport Beach;Virtual reality;United States;Oculus VR;TRUE;M
+1700;Finance & Investments;United States;Princeton;Bloomberg LP;United States;;TRUE;M
+1700;Technology;Japan;Chiba;Online retail;Japan;;TRUE;M
+1700;Fashion & Retail;Brazil;Sao Luis;Supermarkets;Brazil;;TRUE;M
+1700;Manufacturing;China;Langfang;Chemicals;China;;TRUE;M
+1700;Fashion & Retail;Spain;Madrid;Wedding dresses;Spain;;TRUE;M
+1700;Manufacturing;India;Mumbai;Adhesives;India;;FALSE;F
+1700;Fashion & Retail;Romania;Bacau;Retail;Romania;;TRUE;M
+1700;Real Estate;United States;Miami;Real estate;United States;;TRUE;M
+1700;Metals & Mining;Russia;Moscow;Steel pipes;Russia;;TRUE;M
+1700;Healthcare;China;Nanjing;Pharmaceutical;China;;TRUE;M
+1700;Media & Entertainment;United States;Philadelphia;Comcast;United States;Comcast;FALSE;M
+1700;Food & Beverage;United States;Atlanta;Waffle House;United States;;FALSE;M
+1700;Manufacturing;China;Shangyu;Chemicals;China;;TRUE;M
+1700;Real Estate;United States;Palm Beach;Homebuilder;United States;;TRUE;M
+1700;Diversified;Russia;Rostov-on-Don;Agribusiness;Russia;;TRUE;M
+1700;Healthcare;Japan;Tokyo;Healthcare;Japan;;TRUE;M
+1700;Manufacturing;India;Mumbai;Agrochemicals;India;;TRUE;M
+1700;Fashion & Retail;China;Guangzhou;Cosmetics;China;;TRUE;M
+1700;Real Estate;France;Paris;Real estate development;France;;TRUE;M
+1700;Diversified;United States;New York;Insurance, NFL team;United States;;FALSE;M
+1700;Service;United States;Denver;Call centers;United States;;TRUE;M
+1700;Manufacturing;Taiwan;Yunlin;Footwear;Taiwan;;TRUE;M
+1700;Technology;China;Beijing;Semiconductor;China;;TRUE;M
+1700;Sports;United States;Los Angeles;Sports teams;United States;;TRUE;M
+1700;Real Estate;United States;Dallas;Real estate services;United States;;TRUE;M
+1700;Energy;United Kingdom;Aberdeen;Energy services;United Kingdom;;FALSE;M
+1700;Manufacturing;China;Shenzhen;Packaging;China;;TRUE;F
+1700;Food & Beverage;China;Shenzhen;Bars;China;;TRUE;M
+1700;Manufacturing;China;Beijing;Coking;China;;TRUE;M
+1700;Telecom;Russia;Moscow;Telecom, investments;Russia;;TRUE;M
+1700;Technology;United States;Atlanta;Financial technology;United States;GreenSky;TRUE;M
+1700;Logistics;China;Shanghai;Logistics;China;;TRUE;F
+1700;Manufacturing;China;Shanghai;Manufacturing;China;;TRUE;M
+1700;Manufacturing;China;Zhuzhou;Electronics;China;;TRUE;F
+1600;Healthcare;United States;Lexington;Biotech;United States;;TRUE;M
+1600;Construction & Engineering;Malaysia;Kuala Lumpur;Engineering, automotive;Malaysia;;TRUE;M
+1600;Finance & Investments;United States;New York;Investment banking;United States;;FALSE;M
+1600;Metals & Mining;Switzerland;;Real estate;Russia;;TRUE;M
+1600;Finance & Investments;United States;Greenwich;Money management;United States;AQR Capital Management;TRUE;M
+1600;Finance & Investments;United States;Oyster Bay;Hedge funds;United States;Moore Capital Management, LP;TRUE;M
+1600;Manufacturing;China;Dongguan;Hardware;China;;TRUE;M
+1600;Fashion & Retail;;;Shoes;Germany;;FALSE;M
+1600;Fashion & Retail;Austria;Kitzbuhel;Shoes;Germany;;FALSE;M
+1600;Food & Beverage;Germany;Straelen;Frozen foods;Germany;;TRUE;M
+1600;Technology;China;Jiujiang;Electronics;China;;TRUE;M
+1600;Technology;China;Beijing;Semiconductors;China;;TRUE;M
+1600;Real Estate;Taiwan;Taipei;Real estate;Taiwan;;TRUE;M
+1600;Technology;South Korea;Seoul;Oil, semiconductor;South Korea;SK Holdings;FALSE;M
+1600;Real Estate;Slovakia;Bratislava;Real estate;Slovakia;;TRUE;M
+1600;Construction & Engineering;United States;St. Louis;Construction;United States;;TRUE;M
+1600;Finance & Investments;Canada;Toronto;Real estate, private equity;Canada;;TRUE;M
+1600;Finance & Investments;United States;Palo Alto;Venture capital;United States;;TRUE;M
+1600;Sports;United States;Houston;Logistics, baseball;United States;;TRUE;M
+1600;Logistics;France;Lyon;Transport, logistics;France;;TRUE;M
+1600;Finance & Investments;United States;New York;Banking;United States;JPMorgan Chase & Co.;TRUE;M
+1600;Technology;United States;New York;Software;Romania;;TRUE;M
+1600;Finance & Investments;Brazil;Sao Paulo;Banking;Brazil;;FALSE;M
+1600;Metals & Mining;Switzerland;Gstaad;Commodities, investments;Switzerland;;TRUE;M
+1600;Finance & Investments;United States;Las Vegas;Financial services;United States;;TRUE;M
+1600;Fashion & Retail;Canada;Boucherville;Convinience stores;Canada;;TRUE;M
+1600;Healthcare;China;Changsha;Pharmaceuticals;China;;TRUE;M
+1600;Healthcare;Switzerland;Montagnola;Pharmaceuticals;Switzerland;;FALSE;M
+1600;Finance & Investments;United States;Laguna Beach;Investments;United States;Pacific Investment Management Company LLC;TRUE;M
+1600;Finance & Investments;United States;Laguna Beach;Investments;United States;;FALSE;F
+1600;Sports;United States;Portola Valley;Telecommunication, sports;United States;;TRUE;M
+1600;Energy;United States;Dallas;Oil & gas, investments;United States;;FALSE;M
+1600;Manufacturing;Finland;Helsinki;Elevators, escalators;Finland;;FALSE;F
+1600;Diversified;United States;Naples;Executive search, investments;United States;;TRUE;M
+1600;Media & Entertainment;United States;St. Paul;DirecTV;United States;Hubbard Broadcasting, Inc.;FALSE;M
+1600;Manufacturing;China;Jinjiang;Hygiene products;China;;TRUE;M
+1600;Metals & Mining;China;Yinchuan;Non-ferrous metals;China;;TRUE;M
+1600;Real Estate;China;Shanghai;Real estate;China;;TRUE;M
+1600;Fashion & Retail;Russia;Moscow;Retail, wholesale;Russia;;TRUE;M
+1600;Media & Entertainment;;;Online games;South Korea;;TRUE;M
+1600;Healthcare;United States;Manalapan;Pharmaceuticals;United States;;TRUE;M
+1600;Energy;United States;Palm Beach;Oil, investments;United States;;FALSE;M
+1600;Manufacturing;Austria;Wien;Investments;Russia;;TRUE;M
+1600;Logistics;Japan;Osaka;Package delivery;Japan;;TRUE;M
+1600;Healthcare;United States;Boston;Biotech;United States;;TRUE;M
+1600;Diversified;United Kingdom;Nottinghamshire;Manufacturing;United Kingdom;;TRUE;M
+1600;Diversified;Greece;Athens;Banking, shipping;Greece;;FALSE;F
+1600;Real Estate;Malaysia;;Palm oil, property;Malaysia;;FALSE;M
+1600;Real Estate;China;Guangzhou;Real estate;Hong Kong;;TRUE;M
+1600;Real Estate;China;Shenzhen;Real estate;Hong Kong;;TRUE;M
+1600;Technology;China;Shanghai;Online games;China;;TRUE;M
+1600;Technology;China;Yangzhou;Semiconductor devices;China;;TRUE;F
+1600;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+1600;Telecom;Canada;Ottawa;Telecom;Canada;;TRUE;M
+1600;Technology;United States;St. Louis;Mobile payments;United States;;TRUE;M
+1600;Real Estate;United Arab Emirates;Dubai;Real estate;Oman;;TRUE;M
+1600;Energy;Italy;Milan;Oil refinery;Italy;;FALSE;M
+1600;Finance & Investments;Israel;Tel Aviv;Investments;Israel;;FALSE;F
+1600;Automotive;Austria;Wels;Automotive;Austria;;TRUE;M
+1600;Finance & Investments;Germany;Marburg;Mutual funds;Germany;;FALSE;M
+1600;Finance & Investments;Germany;Marburg;Mutual funds;Germany;;FALSE;M
+1600;Energy;United States;Chicago;Electric power;United States;;TRUE;M
+1600;Manufacturing;Spain;Madrid;Steel, autoparts;Spain;;FALSE;M
+1600;Metals & Mining;Spain;Madrid;Steel, investments;Spain;;FALSE;M
+1600;Food & Beverage;United States;New York;Beer;United States;;FALSE;M
+1600;Food & Beverage;Thailand;Bangkok;energy drinks;Thailand;;TRUE;M
+1600;Manufacturing;China;Hefei;Manufacturing;China;;TRUE;M
+1600;Food & Beverage;Switzerland;Geneva;Alcohol;Russia;;TRUE;M
+1600;Metals & Mining;United Kingdom;London;Metals, investments;United States;;TRUE;M
+1600;Technology;United States;Provo;Cloud computing;United States;Qualtrics;TRUE;M
+1600;Diversified;Russia;Saint Petersburg;Pulp and paper, diversified;Russia;;TRUE;M
+1600;Service;United States;Phoenix;Education;United States;;FALSE;M
+1600;Diversified;United States;New York;Insurance, NFL team;United States;;FALSE;F
+1600;Diversified;United States;Beverly Hills;Insurance;United States;;FALSE;M
+1600;Manufacturing;Austria;Vienna;Batteries, investments;Austria;;TRUE;M
+1600;Healthcare;United States;Cincinnati;Pharmaceutical services;United States;;TRUE;M
+1600;Manufacturing;Taiwan;;Petrochemicals;Taiwan;;FALSE;F
+1600;Technology;India;Chennai;Business software;India;;TRUE;M
+1600;Energy;Australia;Brisbane;Mining;Australia;;TRUE;M
+1600;Media & Entertainment;China;Beijing;TV, movie production;China;;TRUE;M
+1600;Media & Entertainment;China;Beijing;Toys;China;;TRUE;M
+1600;Technology;United States;Logan;Fitness equipment;United States;;TRUE;M
+1600;Energy;United States;Cisco;Natural gas;United States;;TRUE;M
+1600;Fashion & Retail;Australia;Melbourne;Retailing;Australia;;FALSE;M
+1600;Fashion & Retail;Australia;Melbourne;Retailing;Australia;;FALSE;M
+1600;Fashion & Retail;Australia;Melbourne;Retailing;Australia;;FALSE;M
+1600;Technology;United States;Palo Alto;Roku;United States;;TRUE;M
+1600;Manufacturing;China;Xianyang;Materials;China;;TRUE;M
+1600;Healthcare;China;Lianyungang;Pharmaceuticals;China;;TRUE;F
+1600;Technology;China;Xiamen;electronics;China;;TRUE;M
+1600;Manufacturing;China;Wenzhou;Waste disposal;China;;TRUE;M
+1600;Technology;China;Beijing;Software;China;;TRUE;M
+1600;Healthcare;United States;Yorktown Heights;Pharmaceuticals;United States;;TRUE;M
+1600;Technology;China;Changsha;Electronics;China;;TRUE;M
+1600;Automotive;China;Dongguan;Auto dealerships;China;;TRUE;M
+1600;Diversified;China;Changsha;Conglomerate;China;;TRUE;M
+1600;Manufacturing;China;Changsha;Electronic components;China;;TRUE;F
+1600;Technology;China;Shanghai;Online games;China;;TRUE;M
+1600;Metals & Mining;China;Liaocheng;Aluminum;China;;TRUE;M
+1600;Food & Beverage;China;Suqian;Wine;China;;TRUE;M
+1600;Gambling & Casinos;Sweden;Stockholm;Gambling products;Sweden;;TRUE;M
+1500;Food & Beverage;India;Nagpur;Snacks;India;;FALSE;M
+1500;Diversified;Morocco;Casablanca;Petroleum, diversified;Morocco;;FALSE;M
+1500;Diversified;Turkey;Istanbul;Diversified;Turkey;;TRUE;M
+1500;Manufacturing;Italy;Cesena;Gym equipment;Italy;;TRUE;M
+1500;Diversified;Norway;Oslo;Investments;Norway;;FALSE;F
+1500;Diversified;Norway;Oslo;Investments;Norway;;FALSE;F
+1500;Diversified;Chile;Santiago;Forestry, mining;Chile;;FALSE;F
+1500;Healthcare;Israel;Herzliya Pituach;Pharmaceuticals;Israel;;TRUE;M
+1500;Fashion & Retail;Italy;Campodoro;Fashion retail, investments;Italy;;FALSE;F
+1500;Metals & Mining;Australia;Perth;Mining;Australia;;FALSE;F
+1500;Diversified;Israel;Tel Aviv;Banking, oil;Israel;;TRUE;M
+1500;Fashion & Retail;Italy;Rome;Luxury goods;Italy;;FALSE;M
+1500;Food & Beverage;United Arab Emirates;Dubai;Consumer goods;United Kingdom;;FALSE;M
+1500;Diversified;Turkey;Istanbul;Energy, banking, construction;Turkey;;TRUE;M
+1500;Technology;United States;Redwood City;Software;United States;Oracle;TRUE;F
+1500;Logistics;Taiwan;Taipei;Shipping, airlines;Taiwan;;FALSE;M
+1500;Manufacturing;China;Hangzhou;Manufacturing;China;;TRUE;M
+1500;Diversified;Hungary;Budapest;Finance, real estate;Hungary;;TRUE;M
+1500;Finance & Investments;Brazil;Sao Paulo;Banking;Brazil;;FALSE;F
+1500;Manufacturing;Italy;Milan;Electrodes;Italy;;FALSE;M
+1500;Technology;United States;Fisher Island;IT consulting;United States;Syntel;TRUE;M
+1500;Diversified;Tanzania;Dar es Salaam;Diversified;Tanzania;;FALSE;M
+1500;Finance & Investments;United States;Atherton;Private equity;United States;;TRUE;M
+1500;Manufacturing;China;Ningbo;Manufacturing;China;;TRUE;M
+1500;Media & Entertainment;United States;Liberty;Cable television;United States;;TRUE;M
+1500;Fashion & Retail;France;Pujols;Retail stores;France;;TRUE;M
+1500;Logistics;Malaysia;Kuala Lumpur;Ports;Malaysia;;TRUE;M
+1500;Fashion & Retail;Switzerland;Basel;Art collection;Switzerland;;FALSE;F
+1500;Manufacturing;China;Shenzhen;Consumer electronics;China;;TRUE;M
+1500;Technology;United States;Portola Valley;Software;United States;;TRUE;M
+1500;Finance & Investments;United States;Hillsborough;Private equity;United States;;TRUE;M
+1500;Finance & Investments;Slovakia;Bratislava;Investments;Slovakia;;TRUE;M
+1500;Manufacturing;China;Leshan;Chemicals;China;;TRUE;M
+1500;Real Estate;India;Mumbai;Real estate;India;;TRUE;M
+1500;Finance & Investments;Vietnam;Hanoi;Consumer products, banking;Vietnam;;TRUE;M
+1500;Technology;Taiwan;Taipei;Semiconductors;Taiwan;;TRUE;M
+1500;Media & Entertainment;New Zealand;Wellington;Movies, digital effects;New Zealand;Film;TRUE;M
+1500;Finance & Investments;Canada;Montreal;Money management;Canada;Jarislowsky & Fraser;TRUE;M
+1500;Healthcare;India;Delhi;Phamaceuticals;India;;TRUE;M
+1500;Healthcare;India;Delhi;Pharmaceuticals;India;;TRUE;M
+1500;Diversified;China;Xiamen;Investments;China;;TRUE;M
+1500;Diversified;South Korea;Seoul;Diversified;South Korea;Dongbu Insurance Co. Ltd.;TRUE;M
+1500;Fashion & Retail;United States;New York;Retail;United States;;TRUE;M
+1500;Food & Beverage;United States;Newton;Beer;United States;;TRUE;M
+1500;Real Estate;Singapore;Singapore;Real estate, hotels;Singapore;;TRUE;M
+1500;Diversified;Switzerland;Geneva;Banking, shipping;Greece;;FALSE;M
+1500;Manufacturing;Germany;Schwieberdingen;Machine tools;Germany;;FALSE;M
+1500;Manufacturing;Germany;Berlin;Machine tools;Germany;;FALSE;F
+1500;Manufacturing;Germany;Berlin;Manufacturing;Germany;;FALSE;F
+1500;Manufacturing;China;Shenzhen;Lithium-ion battery cap;China;;TRUE;M
+1500;Manufacturing;China;Chengdu;Chemicals;China;;TRUE;M
+1500;Fashion & Retail;China;Ningbo;Apparel;China;;TRUE;M
+1500;Manufacturing;China;Kunshan;Stainless steel products;Taiwan;;TRUE;M
+1500;Technology;Taiwan;Taichung;Optical components;Taiwan;;TRUE;M
+1500;Manufacturing;China;Shanghai;Chemicals;United States;;TRUE;M
+1500;Automotive;China;Tonghua;Education;China;;TRUE;F
+1500;Logistics;China;Shanghai;Logistics;China;;TRUE;M
+1500;Diversified;Egypt;Cairo;Diversified;Egypt;;TRUE;M
+1500;Real Estate;Australia;Gold Coast;Hotels;Australia;;TRUE;M
+1500;Diversified;Italy;Spilamberto;Utilities, diversified;Italy;;TRUE;M
+1500;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+1500;Fashion & Retail;Italy;Crocetta del Montello;Shoes;Italy;;TRUE;M
+1500;Service;Bahrain;Manama;Fine jewelry;Lebanon;;FALSE;M
+1500;Logistics;United States;Tolleson;Transportation;United States;;TRUE;M
+1500;Technology;United States;Los Altos;Semiconductors;United States;;TRUE;M
+1500;Diversified;United Kingdom;London;Diversified;Sweden;;FALSE;M
+1500;Energy;Brazil;Sao Paulo;Sugar, ethanol;Brazil;;FALSE;M
+1500;Finance & Investments;;;Finance;Peru;;FALSE;F
+1500;Finance & Investments;;;Finance;Peru;;FALSE;M
+1500;Finance & Investments;United States;Bedford;Investments;United States;Trian Fund Management;TRUE;M
+1500;Construction & Engineering;Mexico;Mexico City;Toll roads;Mexico;;FALSE;M
+1500;Fashion & Retail;Sweden;Stockholm;H&M;Sweden;;FALSE;M
+1500;Food & Beverage;United States;Windermere;Sports drink;United States;;TRUE;M
+1500;Food & Beverage;United States;Palm Beach;Beer distribution;United States;;FALSE;M
+1500;Real Estate;Singapore;Singapore;Real estate, hotels;Singapore;;FALSE;M
+1500;Finance & Investments;Peru;Lima;Finance;Peru;;FALSE;M
+1500;Finance & Investments;United Kingdom;London;Hedge fund;United Kingdom;Rokos Capital Management;TRUE;M
+1500;Service;United States;Coral Gables;Healthcare services;United States;;TRUE;M
+1500;Technology;United States;Menlo Park;Facebook;United States;Meta Platforms;TRUE;F
+1500;Automotive;Israel;Kfar Shmaryahu;Automotive technology;Israel;;TRUE;M
+1500;Media & Entertainment;United States;San Francisco;Social media;United States;Pinterest;TRUE;M
+1500;Fashion & Retail;Singapore;Singapore;retail;Singapore;;TRUE;M
+1500;Finance & Investments;Russia;Moscow;Investments;Russia;;TRUE;M
+1500;Healthcare;India;Mumbai;Pharmaceuticals;India;;TRUE;M
+1500;Technology;United States;Pleasanton;Software;United States;;TRUE;M
+1500;Real Estate;Australia;Canberra;Airports, real estate;Australia;;TRUE;M
+1500;Real Estate;United States;Sagaponack;Real estate;United States;;TRUE;M
+1500;Finance & Investments;United States;San Francisco;Hedge funds;United States;;TRUE;M
+1500;Fashion & Retail;Russia;Moscow;Liquor stores, supermarkets;Russia;;TRUE;M
+1500;Real Estate;China;Shantou;Utilities, real estate;China;;TRUE;F
+1500;Technology;United States;San Francisco;Instagram;United States;Instagram;TRUE;M
+1500;Food & Beverage;China;Guangzhou;Feed;China;;TRUE;F
+1500;Food & Beverage;China;Beijing;Beverages;China;;TRUE;M
+1500;Technology;China;Shanghai;Semiconductors;China;;TRUE;M
+1500;Manufacturing;Thailand;Bangkok;Paints;Thailand;;TRUE;M
+1500;Healthcare;United States;Palo Alto;Healthcare IT;United States;Doximity;TRUE;M
+1500;Fashion & Retail;China;Hefei;Contact Lens;China;;TRUE;M
+1500;Telecom;Australia;Sydney;Telecom;Australia;;TRUE;M
+1500;Manufacturing;Andorra;;Investments, art;Spain;;FALSE;F
+1500;Automotive;Vietnam;Ho Chi Minh City;Automotive;Vietnam;;TRUE;M
+1500;Telecom;United States;Dallas;Telecom;United States;;TRUE;M
+1500;Gambling & Casinos;Sweden;Stockholm;Gambling products;Sweden;;TRUE;M
+1500;Healthcare;China;Chengdu;Pharmaceuticals;China;;TRUE;M
+1500;Healthcare;China;Shenzhen;Medical devices;China;;TRUE;M
+1500;Energy;United States;Cisco;Natural gas;United States;;TRUE;M
+1500;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;TRUE;M
+1500;Technology;China;Shenzhen;Software;China;;TRUE;M
+1500;Media & Entertainment;China;Shanghai;Online games;China;;TRUE;M
+1500;Technology;China;Wuxi;Electronics;China;;TRUE;M
+1500;Food & Beverage;China;Suqian;Brewery;China;;TRUE;M
+1500;Service;China;Beijing;Education;China;;TRUE;M
+1500;Media & Entertainment;China;Shanghai;Online games;China;;TRUE;M
+1500;Service;China;Beijing;Education;China;;TRUE;M
+1500;Energy;China;Hangzhou;Solar;China;;TRUE;F
+1500;Fashion & Retail;China;Shenzhen;Jewelry;China;;TRUE;M
+1400;Diversified;Finland;Helsinki;Diversified;Finland;;FALSE;M
+1400;Finance & Investments;Spain;Madrid;Investments;Spain;;TRUE;M
+1400;Fashion & Retail;Australia;Melbourne;Retail;Australia;;TRUE;M
+1400;Technology;Singapore;Singapore;Flipkart;India;;TRUE;M
+1400;Healthcare;India;Mumbai;Pharmaceuticals;India;;TRUE;M
+1400;Diversified;United Kingdom;Aberdyfi;Real estate, manufacturing;United Kingdom;;TRUE;M
+1400;Energy;Russia;Surgut;Oil;Russia;;TRUE;M
+1400;Food & Beverage;India;Delhi;Consumer goods;India;;FALSE;M
+1400;Metals & Mining;China;Ningbo;Nickel;China;;TRUE;M
+1400;Technology;United States;McLean;AOL;United States;;TRUE;M
+1400;Technology;China;Suzhou;Testing equipment;China;;TRUE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;TRUE;M
+1400;Finance & Investments;Brazil;Sao Paulo;Banking;Brazil;;TRUE;M
+1400;Metals & Mining;Australia;Perth;Mining;Australia;;TRUE;M
+1400;Manufacturing;United States;New York;Chemicals;United States;;TRUE;M
+1400;Finance & Investments;United States;Palm Beach;Investments;United States;J.C. Flowers & Co. LLC;TRUE;M
+1400;Fashion & Retail;Switzerland;Geneva;Beauty products;Austria;;TRUE;M
+1400;Technology;United States;San Francisco;Data analytics;Sweden;;TRUE;M
+1400;Diversified;Philippines;Manila;Diversified;Philippines;;FALSE;M
+1400;Food & Beverage;China;Guangzhou;Restaurant;China;;TRUE;M
+1400;Manufacturing;India;Ludhiana;Textiles, paper;India;;TRUE;M
+1400;Service;Switzerland;Lucerne;Cruises;Norway;;TRUE;M
+1400;Construction & Engineering;France;Paris;Construction, investments;Lebanon;;FALSE;M
+1400;Finance & Investments;Mexico;Mexico City;Banking, investments;Mexico;;TRUE;M
+1400;Automotive;China;Guangzhou;Electric vehicles;China;;TRUE;M
+1400;Fashion & Retail;United Kingdom;London;Consumer goods;Germany;;FALSE;M
+1400;Fashion & Retail;United States;Kearney;Fashion retail;United States;;FALSE;M
+1400;Technology;United States;Austin;Cloud storage service;United States;Dropbox;TRUE;M
+1400;Manufacturing;China;Xuancheng;Chemicals;China;;TRUE;M
+1400;Manufacturing;India;Mumbai;Textiles;India;;TRUE;M
+1400;Healthcare;China;Chengdu;Pharmaceuticals;China;;TRUE;M
+1400;Media & Entertainment;South Korea;Seoul;Online games;South Korea;NCSOFT Corporation;TRUE;M
+1400;Real Estate;Singapore;Singapore;Real estate, hotels;Singapore;;TRUE;M
+1400;Manufacturing;Russia;Moscow;Building materials;Russia;;TRUE;M
+1400;Finance & Investments;India;Mumbai;Financial services;India;;FALSE;M
+1400;Finance & Investments;Switzerland;;Diversified;Poland;;FALSE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;FALSE;M
+1400;Diversified;Singapore;Singapore;Diversified;Singapore;;FALSE;M
+1400;Diversified;Singapore;Singapore;Diversified;Singapore;;FALSE;M
+1400;Real Estate;Hong Kong;Hong Kong;Real estate;Hong Kong;;FALSE;M
+1400;Diversified;South Korea;Seoul;Diversified;South Korea;Taekwang Industrial;FALSE;M
+1400;Finance & Investments;Canada;Burlington;Mutual funds;Canada;;TRUE;M
+1400;Service;Monaco;Monte Carlo;Cruises;Italy;;FALSE;M
+1400;Fashion & Retail;United Kingdom;London;Fashion retailer;United Kingdom;;TRUE;M
+1400;Metals & Mining;China;Chifeng;Mining;China;;FALSE;F
+1400;Automotive;China;Beijing;Electric vehicles;China;;TRUE;M
+1400;Manufacturing;Sweden;Helsingborg;Powdered metal;Sweden;;FALSE;F
+1400;Healthcare;China;Shanghai;Medical equipment;China;;TRUE;M
+1400;Technology;Taiwan;Taipei;Manufacturing;Taiwan;;TRUE;M
+1400;Manufacturing;Hong Kong;Hong Kong;Paper;Brazil;;TRUE;M
+1400;Metals & Mining;Russia;Moscow;Investments;Russia;;TRUE;M
+1400;Food & Beverage;Canada;Vancouver;Drugstores;Canada;;FALSE;M
+1400;Diversified;Brazil;Rondonopolis;Agribusiness;Brazil;;TRUE;F
+1400;Media & Entertainment;United States;Denver;Cable TV, investments;United States;;FALSE;M
+1400;Technology;China;Ningbo;Cooking appliances;China;;TRUE;M
+1400;Manufacturing;United Kingdom;Wotton-under-Edge;Manufacturing;United Kingdom;;TRUE;M
+1400;Manufacturing;India;Vadodara;Chemicals;India;;FALSE;M
+1400;Real Estate;China;Shenzhen;Real estate;China;;TRUE;M
+1400;Healthcare;China;Zhengzhou;Clinical diagnostics;China;;TRUE;M
+1400;Real Estate;Japan;Tokyo;Real estate;Japan;;FALSE;F
+1400;Technology;Israel;Tel Aviv;Software;Israel;;TRUE;M
+1400;Healthcare;Japan;Kobe;Medical diagnostic equipment;Japan;;FALSE;F
+1400;Metals & Mining;Ukraine;Kiev;Steel;Ukraine;;TRUE;M
+1400;Finance & Investments;Thailand;Bangkok;Energy drinks,investments;Thailand;;FALSE;M
+1400;Finance & Investments;Australia;Sydney;Investments;Australia;;FALSE;F
+1400;Manufacturing;China;Nanjing;Manufacturing;China;;TRUE;M
+1400;Real Estate;China;Beijing;Real estate;China;;TRUE;M
+1400;Healthcare;United States;Audubon;Medical devices;United States;Globus Medical;TRUE;M
+1400;Fashion & Retail;Sweden;Stockholm;H&M;Sweden;;FALSE;M
+1400;Automotive;China;Wuxi;Electric scooters;China;;TRUE;F
+1400;Manufacturing;China;Qingdao;Tire;China;;TRUE;M
+1400;Healthcare;India;Hyderabad;Pharmaceuticals;India;;TRUE;M
+1400;Diversified;Indonesia;Jakarta;Diversified;Indonesia;;TRUE;M
+1400;Fashion & Retail;United States;Los Angeles;Music, cosmetics;Barbados;;TRUE;F
+1400;Construction & Engineering;Russia;Moscow;Construction, pipes, chemicals;Russia;;TRUE;M
+1400;Real Estate;India;Mumbai;Real estate;India;;TRUE;M
+1400;Manufacturing;Russia;Moscow;Building materials;Russia;;TRUE;M
+1400;Healthcare;Brazil;Santo Andre;Generic drugs;Brazil;;FALSE;M
+1400;Real Estate;United States;Seattle;Real estate;United States;;TRUE;M
+1400;Energy;Russia;Kazan;Refinery, chemicals;Russia;;TRUE;M
+1400;Energy;Russia;Kazan;Refinery, chemicals;Russia;;TRUE;M
+1400;Fashion & Retail;Japan;Saitama;Retail;Japan;;TRUE;M
+1400;Technology;United States;Provo;Cloud computing;United States;;TRUE;M
+1400;Fashion & Retail;Sweden;Stockholm;H&M;Sweden;;FALSE;F
+1400;Healthcare;India;Bangalore;Pharmaceuticals;India;;FALSE;M
+1400;Healthcare;India;Bangalore;Pharmaceuticals;India;;FALSE;M
+1400;Finance & Investments;United States;New York;Diversified;United States;;FALSE;F
+1400;Technology;China;Hangzhou;Fiber optic cables;China;;TRUE;M
+1400;Logistics;China;Shanghai;Logistics;China;;TRUE;M
+1400;Manufacturing;China;Hangzhou;Manufacturing;China;;TRUE;M
+1400;Manufacturing;China;Weihai;Carbon fiber products;China;;FALSE;F
+1400;Metals & Mining;China;Jiaozuo;Chemicals;China;;FALSE;M
+1400;Manufacturing;Switzerland;Zurich;Electronic components;Switzerland;;TRUE;M
+1400;Manufacturing;Brazil;Joinville;Industrial machinery;Brazil;;FALSE;F
+1400;Finance & Investments;United States;Paoli;Money management;United States;;TRUE;M
+1400;Manufacturing;China;Nanjing;Machinery;China;;TRUE;M
+1400;Manufacturing;China;Meishan;Chemicals;China;;TRUE;M
+1400;Technology;China;Shenzhen;Drones;China;DJI Technology Co.;TRUE;M
+1400;Manufacturing;China;Changzhou;Motors;China;;TRUE;M
+1400;Food & Beverage;China;Hengshui;Beverages;China;;TRUE;M
+1400;Real Estate;China;Shanghai;Real estate;Hong Kong;;TRUE;M
+1400;Healthcare;China;Shenzhen;Pharmaceuticals;Canada;;FALSE;F
+1400;Manufacturing;China;Zhongshan;Machinery;China;;TRUE;M
+1400;Real Estate;China;Guangzhou;Real estate;China;;TRUE;M
+1400;Real Estate;China;Beijing;Real estate;China;SOHO China;TRUE;F
+1400;Manufacturing;China;Chongqing;Machinery;China;;TRUE;M
+1400;Manufacturing;China;Ningbo;Electrical equipment;China;;TRUE;M
+1400;Real Estate;Singapore;Singapore;Real estate;Singapore;;TRUE;M
+1400;Fashion & Retail;China;Shanghai;Fashion retail;China;;TRUE;M
+1400;Diversified;Russia;Saint Petersburg;Pulp and paper, diversified;Russia;;TRUE;M
+1300;Automotive;United States;Dallas;Damaged cars;United States;;TRUE;M
+1300;Logistics;Indonesia;Surabaya;Chemicals;Indonesia;;TRUE;M
+1300;Healthcare;India;Mumbai;Pharmaceuticals;India;;TRUE;M
+1300;Healthcare;India;Baroda;Pharmaceuticals;India;;FALSE;M
+1300;Real Estate;Thailand;Bangkok;Real estate;Thailand;;TRUE;M
+1300;Finance & Investments;Russia;Moscow;Banking, development;Russia;;TRUE;M
+1300;Automotive;Israel;Mevaseret Zion;Automotive technology;Israel;;TRUE;M
+1300;Fashion & Retail;India;Bangalore;Flipkart;India;;TRUE;M
+1300;Energy;Indonesia;Jakarta;Coal;Indonesia;;TRUE;M
+1300;Construction & Engineering;United Kingdom;London;Investments, real estate;Russia;;TRUE;F
+1300;Healthcare;India;Mumbai;Pharmaceuticals;India;;TRUE;M
+1300;Finance & Investments;Morocco;Casablanca;Banking, insurance;Morocco;;FALSE;M
+1300;Diversified;India;Delhi;Diversified;India;;FALSE;M
+1300;Healthcare;India;Delhi;Pharmaceuticals, food;India;;FALSE;M
+1300;Technology;United States;Aspen;Messaging software;Canada;Slack;TRUE;M
+1300;Technology;China;Quanzhou;Electronic components;China;;TRUE;M
+1300;Technology;United States;Monkton;Software;United States;;TRUE;M
+1300;Manufacturing;China;Shanghai;Industrial equipment;China;;TRUE;M
+1300;Real Estate;Taiwan;Taipei;Real estate, electronics;Taiwan;;TRUE;M
+1300;Metals & Mining;China;Tongxiang;Minerals processing;China;;TRUE;M
+1300;Manufacturing;China;Shanghai;Power tools;China;;TRUE;M
+1300;Automotive;Taiwan;Taoyuan;Auto parts;Taiwan;;TRUE;M
+1300;Telecom;United States;Miami Beach;Cell phone distribution;United States;;TRUE;M
+1300;Finance & Investments;Spain;Madrid;Investments;Spain;;TRUE;M
+1300;Real Estate;Argentina;Buenos Aires;Real estate;Argentina;;TRUE;M
+1300;Food & Beverage;China;Changsha;Food;China;;TRUE;M
+1300;Technology;India;Pune;Technology;India;;TRUE;M
+1300;Media & Entertainment;Turkey;Istanbul;Media;Turkey;;TRUE;M
+1300;Finance & Investments;Italy;Segrate;Financial services;Italy;;FALSE;F
+1300;Finance & Investments;Italy;Milan;Financial services;Italy;;FALSE;M
+1300;Healthcare;China;Shenzhen;Vaccines;China;;TRUE;M
+1300;Energy;United States;Midland;Energy;United States;;TRUE;M
+1300;Media & Entertainment;Japan;Yokohama City;Video games;Japan;;TRUE;F
+1300;Media & Entertainment;Japan;Yokohama City;Video games;Japan;;TRUE;M
+1300;Finance & Investments;Canada;Montreal;Online payments;Canada;;TRUE;M
+1300;Real Estate;United States;Houston;Real estate;United States;;TRUE;M
+1300;Construction & Engineering;Italy;Milan;Chemical products;Italy;;FALSE;F
+1300;Finance & Investments;United States;Gladwyne;Trading, investments;United States;;TRUE;M
+1300;Finance & Investments;China;Shenzhen;Investments;China;;TRUE;M
+1300;Manufacturing;Finland;Helsinki;Elevators, escalators;Finland;;FALSE;M
+1300;Real Estate;China;Shanghai;Real estate;Macau;;TRUE;M
+1300;Finance & Investments;;;Finance;Malaysia;;FALSE;F
+1300;Finance & Investments;United States;New York;Asset management;United States;;TRUE;M
+1300;Service;United States;Locust Valley;Industrial equipment;United States;;FALSE;M
+1300;Manufacturing;India;Aurangabad;Auto parts;India;;TRUE;M
+1300;Manufacturing;China;Dezhou;Manufacturing;China;;TRUE;M
+1300;Manufacturing;China;Fuxin;Manufacturing;China;;TRUE;M
+1300;Finance & Investments;Sweden;Stockholm;Asset management;Sweden;;TRUE;M
+1300;Finance & Investments;United States;Los Angeles;Insurance;United States;;TRUE;M
+1300;Technology;Singapore;Singapore;Call centers;France;;TRUE;M
+1300;Diversified;Poland;Cieszyn;Real estate, gambling;Poland;;TRUE;M
+1300;Technology;United States;Palo Alto;Software firm;United States;Palantir Technologies;TRUE;M
+1300;Healthcare;United States;Irvine;Medical devices;United States;Masimo;TRUE;M
+1300;Finance & Investments;United States;Chestnut Hill;Investments;United States;Baupost Group;TRUE;M
+1300;Technology;Japan;Tokyo;Video games;Japan;;TRUE;M
+1300;Technology;United States;Highland Park;Retail;United States;Sawdust Investment Management Corp.;TRUE;M
+1300;Technology;Czech Republic;Prague;Software;Czech Republic;;TRUE;M
+1300;Finance & Investments;United Kingdom;London;Payments, banking;Estonia;Wise;TRUE;M
+1300;Fashion & Retail;United States;Atherton;Estée Lauder;United States;;FALSE;M
+1300;Technology;South Korea;Seoul;Internet;South Korea;NAVER Corp.;TRUE;M
+1300;Diversified;United States;Hillsborough;Genentech, Apple;United States;;TRUE;M
+1300;Food & Beverage;China;Laizhou;Seed production;China;;TRUE;M
+1300;Diversified;China;Ruzhou;Steel, diversified;China;;TRUE;F
+1300;Manufacturing;China;Hangzhou;Petro Firbe;China;;TRUE;M
+1300;Manufacturing;China;Wuhan;Machinery;China;;TRUE;M
+1300;Healthcare;China;Chengdu;Pharmaceuticals;China;;TRUE;M
+1300;Food & Beverage;Brazil;Rondonopolis;Agribusiness;Brazil;;FALSE;M
+1300;Media & Entertainment;China;Xiamen;Online games;China;;TRUE;M
+1300;Healthcare;China;Hangzhou;Medical equipment;Hong Kong;;TRUE;M
+1300;Food & Beverage;Brazil;Cuiaba;Agribusiness;Brazil;;FALSE;M
+1300;Diversified;Egypt;Cairo;Diversified;Egypt;;TRUE;M
+1300;Fashion & Retail;China;Shanghai;E-commerce;China;;TRUE;M
+1300;Real Estate;United States;Los Altos Hills;Real estate;United States;;TRUE;M
+1300;Healthcare;France;Nantes;Laboratory services;France;;TRUE;M
+1300;Finance & Investments;Germany;Munich;Finance services;Germany;;TRUE;M
+1300;Finance & Investments;;;Banking;Malaysia;;FALSE;F
+1300;Logistics;Switzerland;Lugano;Aircraft leasing;Denmark;;TRUE;M
+1300;Finance & Investments;United States;Paradise Valley;Investments;United States;;TRUE;M
+1300;Finance & Investments;United States;New York;Investments, energy;United States;;TRUE;M
+1300;Food & Beverage;Vietnam;Ho Chi Minh City;Consumer products, banking;Vietnam;;TRUE;M
+1300;Gambling & Casinos;Japan;Tokyo;Casinos;Japan;;TRUE;M
+1300;Healthcare;United States;;Biotech;United States;;TRUE;M
+1300;Finance & Investments;;;Banking;Malaysia;;FALSE;M
+1300;Manufacturing;United States;McLean;Defense contractor;United States;;TRUE;M
+1300;Fashion & Retail;China;Shanghai;E-commerce;China;;TRUE;F
+1300;Real Estate;India;Hyderabad;Real estate;India;;TRUE;M
+1300;Logistics;India;Bangalore;Infrastructure;India;;TRUE;M
+1300;Healthcare;India;Hyderabad;Pharmaceuticals;India;;TRUE;M
+1300;Healthcare;India;Hyderabad;Pharmaceuticals;India;;FALSE;M
+1300;Fashion & Retail;Spain;Valencia;Supermarkets;Spain;;FALSE;M
+1300;Diversified;Russia;Moscow;Investments, real estate;Russia;;TRUE;M
+1300;Manufacturing;United States;;Chemicals;Russia;;TRUE;M
+1300;Diversified;Turkey;Istanbul;Diversified;Turkey;;FALSE;F
+1300;Food & Beverage;Japan;Tokyo;Beverages;Japan;;FALSE;M
+1300;Gambling & Casinos;Japan;Tokyo;Video games, pachinko;Japan;;TRUE;M
+1300;Technology;United States;Atherton;Software;United States;;TRUE;M
+1300;Manufacturing;;;Chemicals;Germany;;FALSE;M
+1300;Healthcare;India;Bangalore;Healthcare;India;;TRUE;M
+1300;Diversified;Russia;Kazan;Refinery, chemicals;Russia;;TRUE;M
+1300;Finance & Investments;;;Banking;Malaysia;;FALSE;F
+1300;Food & Beverage;Australia;Gold Coast;Food, retail;Russia;;TRUE;M
+1300;Manufacturing;China;Yantai;Machinery;China;;TRUE;M
+1300;Sports;United States;Tampa;Sports;United States;;FALSE;M
+1300;Sports;United States;Tampa;Sports;United States;;FALSE;F
+1300;Sports;United States;Tampa;Sports;United States;;FALSE;F
+1300;Metals & Mining;Russia;Chelyabinsk;Gold, coal mining;Russia;;TRUE;M
+1300;Energy;Russia;Kazan;Refinery, chemicals;Russia;;TRUE;M
+1300;Food & Beverage;Germany;Rheda-Wiedenbrück;Meat processing;Germany;;TRUE;M
+1300;Food & Beverage;Germany;Rheda-Wiedenbrück;Meat processing;Germany;;FALSE;M
+1300;Real Estate;Australia;Brisbane;Real estate;Australia;;TRUE;M
+1300;Healthcare;Thailand;Bangkok;Hospitals;Thailand;;TRUE;M
+1300;Fashion & Retail;China;Nanjing;Retail;China;;TRUE;M
+1300;Service;China;Shanghai;Airline;China;;TRUE;M
+1300;Manufacturing;China;Shenzhen;Electronics components;China;;TRUE;M
+1300;Technology;China;Shanghai;Software;China;;TRUE;M
+1300;Fashion & Retail;Cayman Islands;Grand Cayman;Health products;St. Kitts and Nevis;;TRUE;M
+1300;Manufacturing;China;Chengdu;Battery components;China;;TRUE;F
+1300;Diversified;China;Wuhu;Internet;China;;TRUE;M
+1300;Healthcare;China;Shenzhen;Medical devices;China;;TRUE;M
+1300;Technology;China;Shenzhen;Software;China;;TRUE;M
+1300;Technology;China;Beijing;Software;China;;TRUE;F
+1300;Manufacturing;China;Changsha;Aluminum products;China;;TRUE;M
+1300;Service;China;Beijing;Online recruitment;China;;TRUE;M
+1300;Service;Hong Kong;Hong Kong;Hotels;Canada;;TRUE;F
+1300;Metals & Mining;Ukraine;Kiev;Mining;Ukraine;;TRUE;M
+1300;Manufacturing;China;Jinan;Semiconductor materials;China;;TRUE;M
+1200;Finance & Investments;India;Jaipur;Banking;India;;TRUE;M
+1200;Finance & Investments;Qatar;Doha;Investments;Qatar;;FALSE;M
+1200;Diversified;Brazil;São Paulo;Pharmaceuticals;Brazil;;TRUE;M
+1200;Metals & Mining;Switzerland;Gstaad;Steel;Spain;;FALSE;M
+1200;Finance & Investments;United States;Nyack;Finance;United States;;TRUE;M
+1200;Technology;United States;Atlanta;Software;United States;Calendly;TRUE;M
+1200;Healthcare;Turkey;Istanbul;Hospitals;Turkey;;TRUE;M
+1200;Real Estate;Israel;Herzliya;Real estate;Israel;;FALSE;F
+1200;Real Estate;Canada;Toronto;Real estate;Canada;;FALSE;F
+1200;Real Estate;Canada;Montreal;Real estate;Canada;;FALSE;F
+1200;Energy;China;Ningbo;Lithium battery;China;;TRUE;M
+1200;Finance & Investments;United States;Aspen;Money management;United States;;TRUE;M
+1200;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;M
+1200;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;F
+1200;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;F
+1200;Real Estate;Malaysia;Kuala Lumpur;Property, healthcare;Malaysia;;TRUE;M
+1200;Food & Beverage;China;Hefei;Food;China;;TRUE;M
+1200;Healthcare;China;Hefei;Pharmaceuticals;China;;TRUE;M
+1200;Fashion & Retail;South Korea;Seoul;Retail;South Korea;Shinsegae;FALSE;M
+1200;Service;United States;Dallas;Software;United States;;TRUE;M
+1200;Fashion & Retail;Italy;Sant'' Elpidio A Mare;Shoes;Italy;;FALSE;M
+1200;Manufacturing;India;Surat;Specialty chemicals;India;;TRUE;M
+1200;Media & Entertainment;United Kingdom;London;Publishing;United Kingdom;;TRUE;M
+1200;Fashion & Retail;China;Quanzhou;Sneakers, sportswear;China;;FALSE;M
+1200;Fashion & Retail;Turkey;Istanbul;Fashion retail;Turkey;;TRUE;M
+1200;Media & Entertainment;Germany;Potsdam;Media;Germany;;FALSE;M
+1200;Manufacturing;United States;Denver;Solar panels;United States;;TRUE;M
+1200;Diversified;Brazil;Sao Paulo;Diversified;Brazil;;FALSE;M
+1200;Diversified;Brazil;Sao Paulo;Diversified;Brazil;;FALSE;M
+1200;Manufacturing;China;Shunde;Home appliances;China;;TRUE;M
+1200;Manufacturing;Brazil;São Paulo;Pulp and paper;Brazil;;FALSE;M
+1200;Manufacturing;Hungary;;Manufacturing;Hungary;;TRUE;M
+1200;Fashion & Retail;United Kingdom;Birmingham;Fitness clothing;United Kingdom;;TRUE;M
+1200;Fashion & Retail;United States;Belvedere;Furniture retail;United States;;TRUE;M
+1200;Metals & Mining;Israel;Bnei Brak;Mining;Israel;;FALSE;M
+1200;Manufacturing;India;Mumbai;Textiles;India;;TRUE;M
+1200;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+1200;Manufacturing;India;Delhi;Steel tubes;India;;TRUE;F
+1200;Technology;Australia;Melbourne;Technology;Australia;;TRUE;M
+1200;Construction & Engineering;United Kingdom;London;Construction, investments;Lebanon;;FALSE;M
+1200;Fashion & Retail;United States;Philadelphia;Urban Outfitters;United States;Urban Outfitters Inc.;TRUE;M
+1200;Finance & Investments;Australia;Melbourne;Financial services;Australia;;TRUE;M
+1200;Technology;United States;Seattle;Software;United States;Tanium;TRUE;M
+1200;Gambling & Casinos;Hong Kong;Hong Kong;Casinos;Hong Kong;;FALSE;M
+1200;Fashion & Retail;China;Ningbo;Textiles, apparel;China;;TRUE;M
+1200;Technology;Australia;Melbourne;Technology;Australia;;TRUE;M
+1200;Telecom;United Kingdom;London;Communications;United Kingdom;Mo Ibrahim Foundation;TRUE;M
+1200;Food & Beverage;Taiwan;Tainan;Food & beverage retailing;Taiwan;;FALSE;F
+1200;Finance & Investments;United States;Los Angeles;Finance;United States;;TRUE;M
+1200;Fashion & Retail;United States;Hidden Hills;Shapewear, cosmetics, reality TV;United States;;TRUE;F
+1200;Manufacturing;China;Shanghai;Auto parts;China;;TRUE;M
+1200;Healthcare;China;Guangzhou;Retailing;China;;TRUE;M
+1200;Real Estate;Russia;Moscow;Real estate;Russia;;TRUE;M
+1200;Manufacturing;Germany;Berlin;Building materials;Germany;;FALSE;F
+1200;Manufacturing;Germany;Iphofen;Building materials;Germany;;FALSE;M
+1200;Automotive;India;Chennai;Auto parts;India;;FALSE;M
+1200;Media & Entertainment;Canada;Montreal;Cirque du Soleil;Canada;Cirque du Soleil;TRUE;M
+1200;Technology;South Korea;;Hospitality;South Korea;;TRUE;M
+1200;Manufacturing;China;Hangzhou;Petro Fibre;China;;TRUE;M
+1200;Healthcare;China;Shenzhen;Pharmaceuticals;China;;TRUE;M
+1200;Healthcare;China;Beijing;Medical services;China;;TRUE;M
+1200;Manufacturing;China;Hefei;Lithium batteries;China;;TRUE;M
+1200;Manufacturing;China;Shenzhen;Conglomerate;China;;TRUE;M
+1200;Energy;Hong Kong;Hong Kong;Natural gas distribution;China;;TRUE;M
+1200;Technology;United States;San Diego;Software;United States;ServiceNow;TRUE;M
+1200;Food & Beverage;United States;Boulder;Cargill;United States;;FALSE;M
+1200;Food & Beverage;United States;Plymouth;Cargill;United States;;FALSE;M
+1200;Food & Beverage;United States;Orono;Cargill;United States;;FALSE;F
+1200;Food & Beverage;United States;Englewood;Cargill;United States;;FALSE;M
+1200;Diversified;India;Mumbai;Diversified;India;;FALSE;M
+1200;Manufacturing;China;Changsha;Manufacturing;China;;TRUE;M
+1200;Construction & Engineering;United States;Miami;Construction;United States;;FALSE;M
+1200;Diversified;Hungary;Felcsút;Diversified;Hungary;;TRUE;M
+1200;Technology;United States;Minnetonka;Data management;United States;;TRUE;M
+1200;Healthcare;United States;Lower Merion;Healthcare services;United States;;TRUE;M
+1200;Automotive;;;Lighting;Austria;;TRUE;M
+1200;Diversified;Brazil;Sao Paulo;Diversified;Brazil;;FALSE;F
+1200;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+1200;Manufacturing;;;Industrial explosives;India;;FALSE;M
+1200;Food & Beverage;Germany;Berlin;Candy;Germany;;FALSE;M
+1200;Technology;United States;Miami Beach;Stock photos;United States;;TRUE;M
+1200;Food & Beverage;Russia;Murmansk;Fisheries;Russia;;TRUE;M
+1200;Real Estate;Brazil;Rio de Janeiro;Shopping malls;Brazil;;TRUE;M
+1200;Media & Entertainment;Sweden;Stockholm;Computer games;Sweden;;TRUE;M
+1200;Technology;United States;San Francisco;Online games;United States;Zynga Inc;TRUE;M
+1200;Diversified;Indonesia;Jakarta;Diversified;Indonesia;;FALSE;M
+1200;Healthcare;United States;Cleveland;Health care;United States;;TRUE;M
+1200;Food & Beverage;China;Nanyang;Pig breeding;China;;TRUE;F
+1200;Manufacturing;United States;Abbeville;Lumber;United States;;TRUE;M
+1200;Finance & Investments;Switzerland;Lugano;Investments;Russia;;TRUE;M
+1200;Food & Beverage;Brazil;Rondonopolis;Agribusiness;Brazil;;FALSE;M
+1200;Finance & Investments;United States;Los Angeles;Finance;United States;;TRUE;M
+1200;Real Estate;India;Mumbai;Real estate;India;;FALSE;M
+1200;Finance & Investments;United Kingdom;London;Hedge funds;Sweden;Sandell Asset Management;TRUE;M
+1200;Food & Beverage;Canada;Montreal;Cheese;Canada;;FALSE;M
+1200;Construction & Engineering;United Arab Emirates;Dubai;Engineering, sugar;India;;FALSE;M
+1200;Finance & Investments;Canada;Toronto;Finance;Canada;;TRUE;M
+1200;Fashion & Retail;United Kingdom;London;Cosmetics;Brazil;;TRUE;M
+1200;Technology;China;Guangzhou;Online apparel retail;China;;TRUE;M
+1200;Technology;United States;San Francisco;Software;Netherlands;;TRUE;M
+1200;Automotive;Germany;Munich;Car rentals;Germany;;FALSE;M
+1200;Automotive;Germany;Munich;Car rentals;Germany;;FALSE;M
+1200;Energy;Indonesia;Jakarta;Coal, investments;Indonesia;;FALSE;M
+1200;Healthcare;India;Mumbai;Healthcare;India;;TRUE;M
+1200;Technology;United Kingdom;London;Software;United States;Sutter Hill Ventures;TRUE;M
+1200;Construction & Engineering;Italy;Milan;Chemical products;Italy;;FALSE;M
+1200;Construction & Engineering;Italy;Milan;Chemical products;Italy;;FALSE;F
+1200;Finance & Investments;United States;Mount Kisco;Hedge funds;United States;;TRUE;M
+1200;Technology;United States;Berkeley;Data analytics;Romania;;TRUE;M
+1200;Metals & Mining;Indonesia;Jakarta;Coal;Indonesia;;TRUE;M
+1200;Manufacturing;Belgium;Deinze;Textile, chemicals;Belgium;;TRUE;M
+1200;Food & Beverage;Philippines;Manila;Food;Philippines;;TRUE;M
+1200;Manufacturing;China;Changsha;Manufacturing;China;;TRUE;M
+1200;Real Estate;Australia;Melbourne;Real estate;Australia;;TRUE;M
+1200;Finance & Investments;Italy;Tombolo;Financial services;Italy;;FALSE;F
+1200;Manufacturing;China;Dongguan;Manufacturing;China;;TRUE;M
+1200;Media & Entertainment;Netherlands;Baarn;TV shows;Netherlands;;TRUE;M
+1200;Finance & Investments;Armenia;Erevan;Investment banking;Armenia;;TRUE;M
+1200;Fashion & Retail;Italy;Milan;Fashion;Italy;;TRUE;M
+1200;Real Estate;Thailand;Bangkok;Real estate;Thailand;;TRUE;M
+1200;Finance & Investments;Hong Kong;Hong Kong;Asset management;Sweden;;TRUE;M
+1200;Healthcare;China;Zhangzhou;Pharmaceuticals;China;;TRUE;M
+1200;Manufacturing;Taiwan;Taipei;Pneumatic equipments;Taiwan;;TRUE;M
+1200;Manufacturing;China;Urumchi;Lithium;China;;TRUE;M
+1200;Diversified;United States;Jacksonville;Shoes;United States;;TRUE;M
+1200;Food & Beverage;Israel;Bnei Atarot;Coca Cola Israel;Israel;;FALSE;F
+1200;Finance & Investments;United States;New York;Cryptocurrency;United States;;TRUE;M
+1200;Finance & Investments;United States;New York;Cryptocurrency;United States;;TRUE;M
+1200;Manufacturing;Taiwan;Chang Hwa County;Manufacturing;Taiwan;;FALSE;M
+1200;Finance & Investments;Taiwan;Taipei;Finance;Taiwan;;FALSE;M
+1200;Fashion & Retail;China;Xiamen;Apparel;China;;TRUE;M
+1200;Manufacturing;China;Guangzhou;Batteries;China;;TRUE;M
+1200;Manufacturing;China;Changsha;Manufacturing;China;;TRUE;M
+1200;Food & Beverage;China;Huaibei city;Wine;China;;TRUE;M
+1200;Manufacturing;China;Nantong;Manufacturing;China;;TRUE;M
+1200;Service;China;Ningbo;Education;China;;TRUE;M
+1200;Manufacturing;China;Hangzhou;Petro Fibre;China;;TRUE;F
+1200;Healthcare;Russia;Moscow;Pharmacy;Russia;;TRUE;M
+1200;Fashion & Retail;China;Guangzhou;Retail;China;;TRUE;F
+1200;Technology;United States;Berkeley;Data analytics;Romania;;TRUE;M
+1200;Diversified;China;Nantong;Diversified;China;;TRUE;M
+1200;Technology;China;Jiaxing;Telecom;China;;TRUE;M
+1200;Manufacturing;China;Dongguan;Paper manufacturing;China;;TRUE;F
+1200;Healthcare;China;Shanghai;Pharmaceuticals;United States;;TRUE;F
+1200;Manufacturing;China;Shanghai;Chemicals;China;;TRUE;M
+1200;Construction & Engineering;China;Suzhou;Construction;China;;TRUE;M
+1100;Fashion & Retail;India;Delhi;Sports shoes;India;;TRUE;M
+1100;Energy;Russia;Moscow;Investments;Russia;;TRUE;M
+1100;Healthcare;;;Pharmaceuticals;India;;FALSE;M
+1100;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+1100;Food & Beverage;United States;Rochester;Liquor;United States;;FALSE;F
+1100;Fashion & Retail;United States;Atlanta;Spanx;United States;Spanx;TRUE;F
+1100;Finance & Investments;United States;New York;Banking;United States;Goldman Sachs Group;TRUE;M
+1100;Diversified;Ukraine;Dnipro;Banking, investments;Ukraine;;TRUE;M
+1100;Real Estate;Switzerland;Lens;Real estate;Switzerland;;TRUE;M
+1100;Diversified;Switzerland;Lipperswil;Diversified;Russia;;TRUE;M
+1100;Technology;United States;Miami;E-commerce software;United States;Bolt;TRUE;M
+1100;Fashion & Retail;Germany;St. Wendel;Retail;Germany;;FALSE;M
+1100;Technology;Indonesia;Jakarta;Data centers;Indonesia;;TRUE;F
+1100;Food & Beverage;India;Delhi;Consumer goods;India;;FALSE;M
+1100;Healthcare;China;Lianyungang;Pharmaceuticals;China;;TRUE;M
+1100;Manufacturing;China;Quzhou;Air compressors;China;;TRUE;M
+1100;Food & Beverage;Italy;Milan;Supermarkets;Italy;;FALSE;F
+1100;Food & Beverage;Italy;Milan;Supermarkets;Italy;;FALSE;F
+1100;Technology;China;Beijing;Technology;China;;TRUE;M
+1100;Healthcare;China;Linhai;Pharmaceutical;China;;TRUE;M
+1100;Energy;China;Guangzhou;Solar energy;China;;TRUE;M
+1100;Logistics;China;Shanghai;Package delivery;China;;TRUE;F
+1100;Technology;Taiwan;Taichung;Electronics;Taiwan;;TRUE;M
+1100;Manufacturing;China;Shantou;Stationery;China;;TRUE;F
+1100;Food & Beverage;China;Changzhou;Poultry breeding;China;;TRUE;M
+1100;Technology;;;Semiconductors;Taiwan;;TRUE;M
+1100;Technology;United States;Las Vegas;Semiconductors;United States;Marvell Technology Group Ltd.;TRUE;F
+1100;Food & Beverage;Spain;Barcelona;Coca-Cola bottler;Spain;;FALSE;F
+1100;Manufacturing;China;Zhongshan;Paper;China;;TRUE;M
+1100;Finance & Investments;Israel;Tel Aviv;Insurance;Israel;;TRUE;M
+1100;Finance & Investments;United Kingdom;Cardiff;Insurance;United States;Admiral Group ;TRUE;M
+1100;Service;Spain;Palma de Majorca;Hotels;Spain;;TRUE;M
+1100;Manufacturing;Brazil;São Paulo;Pulp and paper;Brazil;;FALSE;M
+1100;Manufacturing;Brazil;São Paulo;Pulp and paper;Brazil;;FALSE;M
+1100;Telecom;Cyprus;Limassol;Investments;Russia;;TRUE;M
+1100;Fashion & Retail;United States;Brookline;Reebok;United States;;TRUE;M
+1100;Fashion & Retail;United States;San Francisco;Gap;United States;Gap Inc.;FALSE;M
+1100;Fashion & Retail;Germany;Rottendorf;Fashion retail;Germany;;TRUE;M
+1100;Manufacturing;United States;Los Angeles;Manufacturing;United States;;TRUE;M
+1100;Healthcare;China;Beijing;Pharmaceuticals;China;;TRUE;M
+1100;Fashion & Retail;India;Delhi;Mattresses;India;;FALSE;M
+1100;Finance & Investments;United States;New York;Private equity;United States;;TRUE;M
+1100;Real Estate;Russia;Moscow;Building, development;Russia;;TRUE;M
+1100;Fashion & Retail;United Kingdom;London;Fashion retail;United Kingdom;;TRUE;F
+1100;Fashion & Retail;United Kingdom;London;Fashion retail;United Kingdom;;TRUE;M
+1100;Energy;United Kingdom;London;Retail, investments;Russia;;FALSE;M
+1100;Service;Monaco;Monaco;EasyJet;Cyprus;;FALSE;M
+1100;Food & Beverage;China;Kunming;Pig breeding;China;;TRUE;M
+1100;Finance & Investments;Germany;Hamburg;Coffee;Germany;;FALSE;M
+1100;Finance & Investments;Germany;Hamburg;Coffee;Germany;;FALSE;F
+1100;Technology;United States;Seattle;Software;United States;Tanium;TRUE;M
+1100;Technology;China;Shenzhen;Software;China;;TRUE;M
+1100;Technology;China;Shenzhen;Printed circuit boards;China;;TRUE;F
+1100;Automotive;Japan;Tokyo;Tires;Japan;;FALSE;M
+1100;Gambling & Casinos;Japan;Tokyo;Pachinko machines;Japan;;FALSE;M
+1100;Finance & Investments;Thailand;Bangkok;Auto loans;Thailand;;TRUE;M
+1100;Finance & Investments;India;Bangalore;Financial services;India;;TRUE;M
+1100;Finance & Investments;United Kingdom;London;IKEA;Sweden;;FALSE;M
+1100;Finance & Investments;United Kingdom;London;IKEA;Sweden;;FALSE;M
+1100;Finance & Investments;Belgium;Tervuren;IKEA;Sweden;;FALSE;M
+1100;Service;Japan;Kobe;Waste management;Japan;;TRUE;M
+1100;Automotive;India;Delhi;Auto parts;United States;;FALSE;M
+1100;Energy;Turkey;Istanbul;Energy;Turkey;;TRUE;M
+1100;Healthcare;China;Guangzhou;Retailing;China;;TRUE;M
+1100;Sports;Switzerland;Zurich;Sports data;Germany;;TRUE;M
+1100;Technology;South Korea;Seoul;LG;South Korea;Heesung;FALSE;M
+1100;Energy;Russia;Moscow;Banking;Russia;;TRUE;M
+1100;Manufacturing;India;Mumbai;Specialty chemicals;India;;TRUE;M
+1100;Healthcare;India;Delhi;Medical diagnostics;India;;FALSE;M
+1100;Gambling & Casinos;Spain;Matadepera;Casinos;Spain;;TRUE;M
+1100;Construction & Engineering;South Korea;Seoul;Construction, real estate;South Korea;Booyoung Group;TRUE;M
+1100;Finance & Investments;United States;Cleveland;Banking, credit cards;United States;;FALSE;F
+1100;Finance & Investments;United States;Cleveland;Banking;United States;;FALSE;F
+1100;Finance & Investments;United States;Cleveland;Banking, credit cards;United States;;FALSE;M
+1100;Healthcare;China;Xiamen;Medical devices;China;;TRUE;M
+1100;Healthcare;China;Xiamen;Medical devices;China;;TRUE;M
+1100;Manufacturing;United States;Chattanooga;Flooring;United States;;FALSE;M
+1100;Telecom;China;Xiamen;Telecommunication;China;;TRUE;M
+1100;Fashion & Retail;China;Shanghai;Cosmetics;China;;TRUE;M
+1100;Technology;Japan;Tokyo;Internet and software;Japan;;TRUE;M
+1100;Automotive;India;Delhi;Two wheelers;India;;FALSE;M
+1100;Automotive;India;Delhi;Two wheelers;India;;FALSE;F
+1100;Automotive;India;Delhi;Motorcycles;India;;FALSE;M
+1100;Energy;Russia;Kemerovo;Coal;Russia;;TRUE;M
+1100;Automotive;Singapore;Singapore;Tires, retail;Indonesia;;FALSE;M
+1100;Fashion & Retail;Romania;Bacau;Retail;Romania;;TRUE;M
+1100;Diversified;Italy;Bergamo;Real estate, diversified;Italy;;TRUE;M
+1100;Fashion & Retail;United States;Lutherville-Timonium;Under Armour;United States;Under Armour;TRUE;M
+1100;Healthcare;India;Hyderabad;Pharmaceuticals;India;;FALSE;M
+1100;Healthcare;China;Beijing;Medical equipment;China;;TRUE;M
+1100;Healthcare;China;Shenzhen;Pharmaceuticals;China;;TRUE;M
+1100;Service;Spain;Madrid;Security services;Spain;;FALSE;F
+1100;Finance & Investments;United States;Chicago;Cryptocurrency;United States;;TRUE;M
+1100;Technology;United States;San Francisco;Pinterest;United States;;TRUE;M
+1100;Finance & Investments;India;Mumbai;Finance;India;;FALSE;M
+1100;Energy;United States;Gallatin;Solar systems;United States;;TRUE;M
+1100;Finance & Investments;United Kingdom;London, Suffolk;Stock exchange;United Kingdom;;TRUE;M
+1100;Finance & Investments;United States;New York;Investments;United States;;TRUE;M
+1100;Food & Beverage;United States;Jackson;Liquor;United States;;FALSE;M
+1100;Manufacturing;Australia;Melbourne;Toys;Australia;;TRUE;M
+1100;Technology;China;Shanghai;Semiconductors;China;;TRUE;M
+1100;Manufacturing;China;Yantai;Oilfield equipment;China;;TRUE;M
+1100;Technology;United States;Las Vegas;Semiconductors;United States;;TRUE;M
+1100;Media & Entertainment;Singapore;Singapore;gaming;Singapore;;TRUE;M
+1100;Fashion & Retail;Malaysia;Selangor;Retail;Malaysia;;TRUE;M
+1100;Automotive;China;Changzhou;Auto parts;China;;TRUE;M
+1100;Manufacturing;Thailand;Bangkok;Wire & cables, paints;Thailand;;FALSE;M
+1100;Food & Beverage;Taiwan;Taipei;Food;Taiwan;;TRUE;M
+1100;Manufacturing;China;Dongguan;Manufacturing;China;;TRUE;M
+1100;Technology;Israel;Tel Aviv;Search engine;Russia;;TRUE;M
+1100;Manufacturing;Germany;Starnberg;Chemicals;Germany;;FALSE;M
+1100;Food & Beverage;China;Luohe;Food;China;;TRUE;M
+1100;Diversified;China;Shanghai;Airline;China;;FALSE;M
+1100;Media & Entertainment;Sweden;Karlstad;Video games;Sweden;;TRUE;M
+1100;Manufacturing;Hong Kong;Hong Kong;Electronics;Hong Kong;;TRUE;M
+1100;Sports;United States;Jupiter Island;Golf;United States;PGA;TRUE;M
+1100;Fashion & Retail;Germany;Detmold;Footwear;Germany;;TRUE;M
+1100;Telecom;China;Xiamen;Electronics;Hong Kong;;TRUE;M
+1100;Manufacturing;Taiwan;Kaohsiung;Electronic components;Taiwan;;TRUE;M
+1100;Food & Beverage;China;Beijing;Consumer;China;;TRUE;M
+1100;Healthcare;China;Tonghua;Pharmaceuticals;China;;TRUE;M
+1100;Healthcare;China;Leping;Vitamins;China;;TRUE;M
+1100;Telecom;China;Nantong;Cable;China;;TRUE;M
+1100;Manufacturing;Singapore;Singapore;Manufacturing;Singapore;;TRUE;M
+1100;Technology;China;Hangzhou;Software;China;;TRUE;F
+1100;Food & Beverage;China;Foshan;Soy sauce;China;;TRUE;M
+1100;Manufacturing;;;Manufacturing;Taiwan;;TRUE;M
+1100;Media & Entertainment;China;Shaoxing;Tourism, cultural industry;China;;TRUE;M
+1100;Metals & Mining;China;Yongzhou;Aluminium;China;;FALSE;M
+1100;Construction & Engineering;China;Linhai;Building materials;China;;TRUE;M
+1100;Fashion & Retail;China;Fuzhou;Supermarkets;China;;TRUE;M
+1100;Food & Beverage;China;Changsha;Snacks;China;;TRUE;M
+1100;Technology;China;Beijing;Semiconductors;China;;TRUE;M
+1100;Manufacturing;China;Shenzhen;Smartphones;China;;TRUE;M
+1100;Manufacturing;Hong Kong;Hong Kong;Printed circuit boards;Hong Kong;;FALSE;F
+1000;Food & Beverage;India;Delhi;Snacks;India;;FALSE;M
+1000;Finance & Investments;United Kingdom;London;Investments;Germany;;TRUE;M
+1000;Fashion & Retail;Japan;Tokyo;Retail;Japan;;TRUE;M
+1000;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;F
+1000;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;F
+1000;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;M
+1000;Healthcare;Germany;Melsungen;Medical technology;Germany;;FALSE;M
+1000;Diversified;Peru;Lima;Mining, banking;Peru;;FALSE;F
+1000;Media & Entertainment;United States;Palm Beach;Entertainment, Margaritaville;United States;;TRUE;M
+1000;Gambling & Casinos;Japan;Tokyo;Pachinko machines;Japan;;FALSE;M
+1000;Finance & Investments;France;Paris;Asset management;France;;TRUE;M
+1000;Logistics;Taiwan;Taipei;Transportation;Taiwan;;FALSE;M
+1000;Manufacturing;China;Shangyu;Manufacturing;China;;TRUE;M
+1000;Media & Entertainment;China;Shanghai;Online entertainment;China;;TRUE;M
+1000;Manufacturing;China;Tongxiang;Polyester;China;;TRUE;M
+1000;Technology;United States;Atherton;Online games;China;;TRUE;M
+1000;Energy;China;Ningde;Batteries;China;;TRUE;M
+1000;Food & Beverage;Hong Kong;Hong Kong;Liquor;Hong Kong;;TRUE;M
+1000;Manufacturing;India;Kochi;Electrical appliances;India;;TRUE;M
+1000;Real Estate;Monaco;Monaco;Real estate;United Kingdom;;TRUE;M
+1000;Finance & Investments;Hong Kong;Hong Kong;Financial services, property;Hong Kong;;TRUE;F
+1000;Diversified;Turkey;Istanbul;Diversified;Turkey;;TRUE;M
+1000;Technology;United States;San Carlos;Software;United States;;TRUE;M
+1000;Real Estate;Monaco;Monaco;Office real estate;United Kingdom;;TRUE;M
+1000;Technology;China;Guangzhou;Software;China;;TRUE;M
+1000;Healthcare;China;Beijing;Pharmaceuticals;China;;TRUE;F
+1000;Healthcare;Denmark;Copenhagen;Medical devices;Denmark;;FALSE;F
+1000;Fashion & Retail;United States;San Francisco;Gap;United States;Gap Inc.;FALSE;M
+1000;Manufacturing;China;Shenzhen;Industrial lasers;China;;TRUE;M
+1000;Real Estate;China;Langfang;Real estate;China;;TRUE;M
+1000;Finance & Investments;Sweden;Stockholm;Financial services;Sweden;;TRUE;M
+1000;Service;Monaco;Monte Carlo;EasyJet;Cyprus;;FALSE;F
+1000;Service;Monaco;Monte Carlo;EasyJet;Cyprus;;FALSE;M
+1000;Manufacturing;China;Wuxi;Machinery;China;;TRUE;F
+1000;Manufacturing;China;Chengdu;Manufacturing;China;;TRUE;M
+1000;Energy;Indonesia;Jakarta;Coal;Indonesia;;FALSE;F
+1000;Technology;China;Beijing;Smartphones;China;;TRUE;M
+1000;Fashion & Retail;South Korea;Seoul;Convenience stores;South Korea;BGF Co. Ltd.;FALSE;M
+1000;Healthcare;China;Shanghai;Bio-Pharma;China;;TRUE;M
+1000;Technology;Italy;Rome;Online universities;Italy;;TRUE;M
+1000;Finance & Investments;Germany;Dusseldorf;Investments;Germany;;TRUE;F
+1000;Manufacturing;India;Mumbai;Cables & wires;India;;TRUE;M
+1000;Sports;United States;Los Angeles;Basketball;United States;NBA;TRUE;M
+1000;Fashion & Retail;Norway;Oslo;Grocery stores;Norway;;FALSE;M
+1000;Technology;Israel;Beit Yanay;Software;Israel;;TRUE;M
+1000;Manufacturing;India;Delhi;Tiles;India;;TRUE;M
+1000;Finance & Investments;Brazil;Sao Paulo;Banking;Brazil;;TRUE;M
+1000;Sports;United States;Paradise Valley;Banking, sports team;United States;;TRUE;M
+1000;Technology;United States;Chicago;Software, investments;United States;;TRUE;M
+1000;Energy;Singapore;Singapore;Power;Bangladesh;;TRUE;M
+1000;Fashion & Retail;South Korea;Seoul;Cosmetics;South Korea;;TRUE;M
+1000;Diversified;Ukraine;Kiev;Banking, investments;Israel;;TRUE;M
+1000;Real Estate;China;Guangzhou;Real estate;China;;TRUE;M
+1000;Manufacturing;South Korea;Seoul;Electronics;South Korea;Heesung Electronics;FALSE;M
+1000;Real Estate;Singapore;Singapore;Hotels;Singapore;;TRUE;M
+1000;Real Estate;United States;Palm Beach;Real estate;United States;;TRUE;M
+1000;Finance & Investments;Russia;Moscow;Cement;Russia;;TRUE;M
+1000;Finance & Investments;South Africa;Stellenbosch;Banking;South Africa;;TRUE;M
+1000;Technology;China;Beijing;Smartphones;China;;TRUE;M
+1000;Fashion & Retail;China;Wuhan;Pharmacies;China;;TRUE;M
+1000;Healthcare;Singapore;Singapore;Healthcare;Singapore;;TRUE;M
+1000;Technology;China;Shanghai;Electronics;China;;TRUE;M
+1000;Manufacturing;China;Shanghai;LED lighting;China;;TRUE;F
+1000;Technology;United States;San Francisco;Grocery delivery service;Canada;Instacart;TRUE;M
+1000;Manufacturing;Germany;Landsberg am Lech;Appliances;Germany;;FALSE;F
+1000;Manufacturing;Germany;Landsberg;Appliances;Germany;;FALSE;F
+1000;Construction & Engineering;Russia;Moscow;Construction materials;Russia;;TRUE;M
+1000;Manufacturing;Italy;Reggio Emilia;Hydraulic pumps;Italy;;TRUE;M
+1000;Finance & Investments;;;Finance;Panama;;FALSE;M
+1000;Media & Entertainment;United States;Atlanta;Movies, television;United States;Television;TRUE;M
+1000;Fashion & Retail;Canada;Westmount;Convenience stores;Canada;;TRUE;M
+1000;Food & Beverage;Bermuda;;Beer;Brazil;;FALSE;F
+1000;Energy;United States;Milton;Energy services;United States;;TRUE;M
+1000;Media & Entertainment;Indonesia;Jakarta;Media, tech;Indonesia;;TRUE;M
+1000;Technology;United States;Fisher Island;IT consulting, outsourcing;United States;;TRUE;F
+1000;Technology;United States;Provo;Cloud computing;United States;;TRUE;M
+1000;Service;Norway;Oslo;Hotels;Norway;;TRUE;M
+1000;Diversified;Russia;Moscow;Metals, telecom;Russia;;TRUE;M
+1000;Finance & Investments;Russia;Moscow;Finance, development;Russia;;TRUE;M
+1000;Manufacturing;Indonesia;Surabaya;Paints;Indonesia;;FALSE;M
+1000;Manufacturing;Indonesia;Jakarta;Manufacturing;Indonesia;;FALSE;M
+1000;Food & Beverage;United States;Arcadia;Hot sauce;United States;;TRUE;M
+1000;Media & Entertainment;Japan;Osaka;Video games;Japan;;TRUE;M
+1000;Telecom;Turkey;Istanbul;Telecom;Turkey;;TRUE;M
+1000;Technology;Japan;Nakano, Tokyo;Software;Japan;;TRUE;M
+1000;Healthcare;China;Shenzhen;Medical equipment;China;;TRUE;M
+1000;Automotive;China;Ningbo;Auto parts;China;;TRUE;M
+1000;Logistics;;;Logistics;Japan;;TRUE;M
+1000;Finance & Investments;Canada;Toronto;Insurance, investments;Canada;;TRUE;M
+1000;Food & Beverage;China;Yunfu;Agribusiness;China;;TRUE;M
+1000;Sports;Monaco;;Sports;Austria;;TRUE;M
+1000;Manufacturing;;;Kitchen appliances;Germany;;FALSE;F
+1000;Fashion & Retail;China;Guangzhou;Apparel;China;;TRUE;M
+1000;Manufacturing;China;Jiaozuo;Chemicals;China;;TRUE;M
+1000;Manufacturing;China;Taicang;Manufacturing;China;;TRUE;M
+1000;Healthcare;China;Guangzhou;Pharmaceuticals;China;;TRUE;M
+1000;Healthcare;China;Shanghai;Health clinics;China;;TRUE;M
+1000;Food & Beverage;United States;Pottsville;Beer;United States;;FALSE;M
+1000;Manufacturing;China;Gaomi;Tyre manufacturing machinery;China;;TRUE;M
+1000;Real Estate;China;Nanjing;Real estate;China;;TRUE;M
+1000;Diversified;Philippines;Makati;Diversified;Philippines;;FALSE;M
